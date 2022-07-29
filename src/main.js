@@ -162,8 +162,8 @@ const getElements = (path, layer) => {
       const zindex = zflag.exec(i)
         ? zflag.exec(i)[0]
         : layer.zindex
-        ? layer.zindex
-        : "";
+          ? layer.zindex
+          : "";
 
       const element = {
         sublayer,
@@ -207,8 +207,8 @@ const getElements = (path, layer) => {
       element.trait = layer.sublayerOptions?.[parentName]
         ? layer.sublayerOptions[parentName].trait
         : layer.trait !== undefined
-        ? layer.trait
-        : parentName;
+          ? layer.trait
+          : parentName;
 
       const rawTrait = getTraitValueFromPath(element, lineage);
       const trait = processTraitOverrides(rawTrait);
@@ -278,11 +278,22 @@ const drawBackground = (canvasContext) => {
   canvasContext.fillRect(0, 0, format.width, format.height);
 };
 
-const addMetadata = (_dna, _edition, _prefixData) => {
+const addMetadata = (_dna, _edition, _prefixData, hairColor) => {
   let dateTime = Date.now();
   const { _prefix, _offset, _imageHash } = _prefixData;
 
-  const combinedAttrs = [...attributesList, ...extraAttributes()];
+  // strip away color descriptions
+  const adjustedAttrs = attributesList.map((attr) => ({
+    trait_type: attr.trait_type,
+    value: attr.value.split('_')[0],
+  }));
+
+  adjustedAttrs.push({
+    trait_type: 'Hair Color',
+    value: hairColor,
+  });
+
+  const combinedAttrs = [...adjustedAttrs, ...extraAttributes()];
   const cleanedAttrs = combinedAttrs.reduce((acc, current) => {
     const x = acc.find((item) => item.trait_type === current.trait_type);
     if (!x) {
@@ -459,13 +470,16 @@ function pickRandomElement(
   incompatibleDNA,
   forcedDNA,
   bypassDNA,
-  zIndex
+  zIndex,
+  hairColor
 ) {
+
   let totalWeight = 0;
   // Does this layer include a forcedDNA item? ya? just return it.
-  const forcedPick = layer.elements.find((element) =>
-    forcedDNA.includes(element.name)
-  );
+  const forcedPick = layer.elements.find((element) => {
+    return (forcedDNA.includes(element.name) || (element.name.includes(`_${hairColor}`)))
+  });
+
   if (forcedPick) {
     debugLogs
       ? console.log(chalk.yellowBright(`Force picking ${forcedPick.name}/n`))
@@ -479,7 +493,8 @@ function pickRandomElement(
           incompatibleDNA,
           forcedDNA,
           bypassDNA,
-          zIndex
+          zIndex,
+          hairColor
         )
       );
     }
@@ -490,9 +505,9 @@ function pickRandomElement(
   if (incompatibleDNA.includes(layer.name) && layer.sublayer) {
     debugLogs
       ? console.log(
-          `Skipping incompatible sublayer directory, ${layer.name}`,
-          layer.name
-        )
+        `Skipping incompatible sublayer directory, ${layer.name}`,
+        layer.name
+      )
       : null;
     return dnaSequence;
   }
@@ -503,11 +518,11 @@ function pickRandomElement(
   if (compatibleLayers.length === 0) {
     debugLogs
       ? console.log(
-          chalk.yellow(
-            "No compatible layers in the directory, skipping",
-            layer.name
-          )
+        chalk.yellow(
+          "No compatible layers in the directory, skipping",
+          layer.name
         )
+      )
       : null;
     return dnaSequence;
   }
@@ -530,7 +545,8 @@ function pickRandomElement(
         incompatibleDNA,
         forcedDNA,
         bypassDNA,
-        zIndex
+        zIndex,
+        hairColor
       );
     }
     if (element.weight !== "required") {
@@ -556,9 +572,9 @@ function pickRandomElement(
       if (incompatible[currentLayers[i].name]) {
         debugLogs
           ? console.log(
-              `Adding the following to incompatible list`,
-              ...incompatible[currentLayers[i].name]
-            )
+            `Adding the following to incompatible list`,
+            ...incompatible[currentLayers[i].name]
+          )
           : null;
         incompatibleDNA.push(...incompatible[currentLayers[i].name]);
       }
@@ -566,11 +582,11 @@ function pickRandomElement(
       if (forcedCombinations[currentLayers[i].name]) {
         debugLogs
           ? console.log(
-              chalk.bgYellowBright.black(
-                `\nSetting up the folling forced combinations for ${currentLayers[i].name}: `,
-                ...forcedCombinations[currentLayers[i].name]
-              )
+            chalk.bgYellowBright.black(
+              `\nSetting up the folling forced combinations for ${currentLayers[i].name}: `,
+              ...forcedCombinations[currentLayers[i].name]
             )
+          )
           : null;
         forcedDNA.push(...forcedCombinations[currentLayers[i].name]);
       }
@@ -585,7 +601,8 @@ function pickRandomElement(
             incompatibleDNA,
             forcedDNA,
             bypassDNA,
-            zIndex
+            zIndex,
+            hairColor
           )
         );
       }
@@ -653,7 +670,7 @@ function sortZIndex(layers) {
   });
 }
 
-const createDna = (_layers) => {
+const createDna = (_layers, hairColor) => {
   let dnaSequence = [];
   let incompatibleDNA = [];
   let forcedDNA = [];
@@ -667,7 +684,8 @@ const createDna = (_layers) => {
       incompatibleDNA,
       forcedDNA,
       layer.bypassDNA ? "?bypassDNA=true" : "",
-      layer.zindex ? layer.zIndex : ""
+      layer.zindex ? layer.zIndex : "",
+      hairColor,
     );
     const sortedLayers = sortLayers(layerSequence);
     dnaSequence = [...dnaSequence, [sortedLayers]];
@@ -689,8 +707,8 @@ const saveMetaDataSingleFile = (_editionCount) => {
   let metadata = metadataList.find((meta) => meta.edition == _editionCount);
   debugLogs
     ? console.log(
-        `Writing metadata for ${_editionCount}: ${JSON.stringify(metadata)}`
-      )
+      `Writing metadata for ${_editionCount}: ${JSON.stringify(metadata)}`
+    )
     : null;
   fs.writeFileSync(
     `${buildDir}/json/${_editionCount}.json`,
@@ -776,7 +794,7 @@ const postProcessMetadata = (layerData) => {
   };
 };
 
-const outputFiles = (abstractedIndexes, layerData) => {
+const outputFiles = (abstractedIndexes, layerData, hairColor) => {
   const { newDna, layerConfigIndex } = layerData;
   // Save the canvas buffer to file
   saveImage(abstractedIndexes[0]);
@@ -787,7 +805,7 @@ const outputFiles = (abstractedIndexes, layerData) => {
     _prefix,
     _offset,
     _imageHash,
-  });
+  }, hairColor);
 
   saveMetaDataSingleFile(abstractedIndexes[0]);
   console.log(
@@ -796,6 +814,10 @@ const outputFiles = (abstractedIndexes, layerData) => {
     )
   );
 };
+
+const getHairColor = () => {
+  return 'Brown';
+}
 
 const startCreating = async (storedDNA) => {
   if (storedDNA) {
@@ -828,7 +850,9 @@ const startCreating = async (storedDNA) => {
     while (
       editionCount <= layerConfigurations[layerConfigIndex].growEditionSizeTo
     ) {
-      let newDna = createDna(layers);
+      const hairColor = getHairColor();
+      let newDna = createDna(layers, hairColor);
+
       if (isDnaUnique(dnaList, newDna)) {
         let results = constructLayerToDna(newDna, layers);
         debugLogs ? console.log("DNA:", newDna.split(DNA_DELIMITER)) : null;
@@ -849,7 +873,7 @@ const startCreating = async (storedDNA) => {
             _background: background,
           };
           paintLayers(ctxMain, renderObjectArray, layerData);
-          outputFiles(abstractedIndexes, layerData);
+          outputFiles(abstractedIndexes, layerData, hairColor);
         });
 
         dnaList.add(filterDNAOptions(newDna));

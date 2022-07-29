@@ -28,8 +28,8 @@ const outputJPEG = false; // if false, the generator outputs png's
 const startIndex = 0;
 
 const format = {
-  width: 512,
-  height: 512,
+  width: 2400,
+  height: 2400,
   smoothing: true, // set to false when up-scaling pixel art.
 };
 
@@ -38,36 +38,51 @@ const background = {
   brightness: "80%",
 };
 
+// good combos:
+// brown, peach background, sunset skintone, pink
+
 const layerConfigurations = [
   {
     growEditionSizeTo: 10,
-    namePrefix: "Series 2", // Use to add a name to Metadata `name:`
+    namePrefix: "WITCH", // Use to add a name to Metadata `name:`
     layersOrder: [
-      { name: "Background" },
       {
-        name: "Back Accessory",
-        // options: {
-        //   bypassDNA: true,
+        name: "Background",
+        options: {
+          bypassDNA: true,
+        },
+      },
+      {
+        name: "Archetype",
+        options: {
+          bypassDNA: true,
+        },
+      },
+      {
+        name: "Hair Back",
+        trait: "Hair Back",
+        // sublayerOptions: {
+        //   "Lower Buns (Brown)": { trait: "Lower Buns" },
+        //   "Lower Buns (Pink)": { trait: "Lower Buns" },
+        //   "Pigtails (Brown)": { trait: "Pigtails" },
+        //   "Pigtails (Light Lilac)": { trait: "Pigtails" },
         // },
       },
-      { name: "Head" },
-      { name: "Clothes" },
+      { name: "Skin Tone" },
+      { name: "Clothing" },
+      { name: "Hair Topper" },
       { name: "Eyes" },
-      { name: "Hair" },
-      { name: "Head Accessory" },
-      { name: "Shirt Accessories" },
+      { name: "Hair Front", trait: "Hair Front" },
+      { name: "Eyebrows" },
+      {
+        name: "Mouth",
+        sublayerOptions: {
+          "Laughing (Sunset)": { trait: "Laughing" },
+          "Smile (Sunset)": { trait: "Smile" },
+        },
+      },
     ],
   },
-  // {
-  //   growEditionSizeTo: 10,
-  //   namePrefix: "Lion",
-  //   resetNameIndex: true, // this will start the Lion count at #1 instead of #6
-  //   layersOrder: [
-  //     { name: "Background" },
-  //     { name: "Hats" },
-  //     { name: "Male Hair" },
-  //   ],
-  // },
 ];
 
 /**
@@ -93,6 +108,7 @@ const emptyLayerName = "NONE";
  * accidentally set incompatibilities for the _wrong_ item.
  */
 const incompatible = {
+  'Lower Buns': ['Baby Drill Curls']
   //   Red: ["Dark Long"],
   //   // directory incompatible with directory example
   //   White: ["rare-Pink-Pompadour"],
