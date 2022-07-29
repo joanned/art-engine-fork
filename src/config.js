@@ -69,6 +69,7 @@ const layerConfigurations = [
         // },
       },
       { name: "Skin Tone" },
+      { name: "Face Markings" },
       { name: "Clothing" },
       { name: "Hair Topper" },
       { name: "Eyes" },
@@ -100,6 +101,30 @@ const debugLogs = true;
 // if you use an empty/transparent file, set the name here.
 const emptyLayerName = "NONE";
 
+const HAG_ONLY = [
+  'Peony Crown (Pink)',
+];
+
+const ENCHANTRESS_ONLY = [
+
+];
+
+const MAGE_ONLY = [
+
+];
+
+const NECROMANCER_ONLY = [
+
+];
+
+const OCCULTIST_ONLY = [
+
+];
+
+const SEER_ONLY = [
+
+];
+
 /**
  * Incompatible items can be added to this object by a files cleanName
  * This works in layer order, meaning, you need to define the layer that comes
@@ -108,7 +133,18 @@ const emptyLayerName = "NONE";
  * accidentally set incompatibilities for the _wrong_ item.
  */
 const incompatible = {
-  'Lower Buns': ['Baby Drill Curls']
+  'Lower Buns': ['Baby Drill Curls'],
+  'Nega Moon Mark (Black)': ['Relaxed Bubble', 'Surprised Bubble', 'Woeful', 'Soft Bob'],
+  'Moon Mark (White)': ['Soft Bob'],
+
+  // archetype
+  'Enchantress': [...HAG_ONLY, ...MAGE_ONLY, ...NECROMANCER_ONLY, ...OCCULTIST_ONLY, ...SEER_ONLY],
+  'Hag': [...ENCHANTRESS_ONLY, ...MAGE_ONLY, ...NECROMANCER_ONLY, ...OCCULTIST_ONLY, ...SEER_ONLY],
+  'Mage': [...HAG_ONLY, ...ENCHANTRESS_ONLY, ...NECROMANCER_ONLY, ...OCCULTIST_ONLY, ...SEER_ONLY],
+  'Necromancer': [...HAG_ONLY, ...MAGE_ONLY, ...ENCHANTRESS_ONLY, ...OCCULTIST_ONLY, ...SEER_ONLY],
+  'Occultlist': [...HAG_ONLY, ...MAGE_ONLY, ...NECROMANCER_ONLY, ...ENCHANTRESS_ONLY, ...SEER_ONLY],
+  'Seer': [...HAG_ONLY, ...MAGE_ONLY, ...NECROMANCER_ONLY, ...OCCULTIST_ONLY, ...ENCHANTRESS_ONLY],
+
   //   Red: ["Dark Long"],
   //   // directory incompatible with directory example
   //   White: ["rare-Pink-Pompadour"],
