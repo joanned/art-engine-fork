@@ -43,7 +43,7 @@ const background = {
 
 const layerConfigurations = [
   {
-    growEditionSizeTo: 10,
+    growEditionSizeTo: 20,
     namePrefix: "WITCH", // Use to add a name to Metadata `name:`
     layersOrder: [
       {
@@ -72,6 +72,7 @@ const layerConfigurations = [
         // },
       },
       { name: "Skin Tone" },
+      { name: "Earrings" },
       { name: "Face Markings" },
       { name: "Clothing" },
       { name: "Hair Topper" },
@@ -148,6 +149,8 @@ const incompatible = {
 
   'Closed (Brown)': ['Surprised Bubble', 'Relaxed Bubble'],
   'Teary Closed (Brown)': ['Surprised Bubble', 'Relaxed Bubble'],
+
+  'Dangly Bones': ['Baby Drill Curls', 'Xuannu'],
 
   // archetype
   'Enchantress': [...HAG_ONLY, ...MAGE_ONLY, ...NECROMANCER_ONLY, ...OCCULTIST_ONLY, ...SEER_ONLY],
