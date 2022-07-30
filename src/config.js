@@ -43,7 +43,7 @@ const background = {
 
 const layerConfigurations = [
   {
-    growEditionSizeTo: 10,
+    growEditionSizeTo: 1,
     namePrefix: "WITCH", // Use to add a name to Metadata `name:`
     layersOrder: [
       {
@@ -102,7 +102,9 @@ const debugLogs = true;
 const emptyLayerName = "NONE";
 
 const HAG_ONLY = [
-  'Peony Crown (Pink)',
+  // 'Peony Crown (Pink)',
+  // 'Moon Mark (White)',
+  // 'Nega Moon Mark (Black)',
 ];
 
 const ENCHANTRESS_ONLY = [
@@ -110,7 +112,7 @@ const ENCHANTRESS_ONLY = [
 ];
 
 const MAGE_ONLY = [
-
+  // 'Mage Mark Moon (White)',
 ];
 
 const NECROMANCER_ONLY = [
@@ -136,6 +138,22 @@ const incompatible = {
   'Lower Buns': ['Baby Drill Curls'],
   'Nega Moon Mark (Black)': ['Relaxed Bubble', 'Surprised Bubble', 'Woeful', 'Soft Bob'],
   'Moon Mark (White)': ['Soft Bob'],
+  'Mage Mark Moon (Blue)': ['Soft Bob'],
+  'Mage Mark Moon (White)': ['Soft Bob'],
+
+  // hair color
+  'Baby Drill Curls_Light Lilac': ['Sunset'],
+  'Soft Bob_Light Lilac': ['Sunset'],
+  'Xuannu_Light Lilac': ['Sunset'],
+  'Lower Buns_Light Lilac': ['Sunset'],
+  'Pigtails_Light Lilac': ['Sunset'],
+
+  // skin color
+  'Sunset': [
+    'Soft Bob_Light Lilac',
+    'Xuannu_Light Lilac',
+    'Baby Drill Curls_Light Lilac',
+  ],
 
   // archetype
   'Enchantress': [...HAG_ONLY, ...MAGE_ONLY, ...NECROMANCER_ONLY, ...OCCULTIST_ONLY, ...SEER_ONLY],

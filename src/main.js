@@ -473,7 +473,7 @@ function pickRandomElement(
   zIndex,
   hairColor
 ) {
-
+  console.log({ layer, dnaSequence, incompatibleDNA, forcedDNA, bypassDNA})
   let totalWeight = 0;
   // Does this layer include a forcedDNA item? ya? just return it.
   const forcedPick = layer.elements.find((element) => {
@@ -512,9 +512,12 @@ function pickRandomElement(
     return dnaSequence;
   }
 
+  // console.log({ before: layer.elements})
+  // console.log({ incompatibleDNA})
   const compatibleLayers = layer.elements.filter(
     (layer) => !incompatibleDNA.includes(layer.name)
   );
+  // console.log({ after: compatibleLayers})
   if (compatibleLayers.length === 0) {
     debugLogs
       ? console.log(
@@ -556,7 +559,7 @@ function pickRandomElement(
   // if the entire directory should be ignored…
 
   // number between 0 - totalWeight
-  const currentLayers = compatibleLayers.filter((l) => l.weight !== "required");
+  const currentLayers = compatibleLayers.filter((layer) => layer.weight !== "required");
 
   let random = Math.floor(Math.random() * totalWeight);
 
@@ -815,8 +818,15 @@ const outputFiles = (abstractedIndexes, layerData, hairColor) => {
   );
 };
 
+const HAIR_COLORS = [
+  'Brown',
+  'Light Lilac',
+  // 'Pink',
+  'White',
+];
 const getHairColor = () => {
-  return 'Brown';
+  const randomIndex = Math.floor(Math.random() * HAIR_COLORS.length);
+  return HAIR_COLORS[randomIndex];
 }
 
 const startCreating = async (storedDNA) => {
