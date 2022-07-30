@@ -43,17 +43,20 @@ const background = {
 
 const layerConfigurations = [
   {
-    growEditionSizeTo: 1,
+    growEditionSizeTo: 10,
     namePrefix: "WITCH", // Use to add a name to Metadata `name:`
     layersOrder: [
       {
-        name: "Background",
+        name: "Archetype",
         options: {
           bypassDNA: true,
         },
       },
       {
-        name: "Archetype",
+        name: "Hair Color",
+      },
+      {
+        name: "Background",
         options: {
           bypassDNA: true,
         },
@@ -74,7 +77,6 @@ const layerConfigurations = [
       { name: "Hair Topper" },
       { name: "Eyes" },
       { name: "Hair Front", trait: "Hair Front" },
-      { name: "Eyebrows" },
       {
         name: "Mouth",
         sublayerOptions: {
@@ -82,6 +84,8 @@ const layerConfigurations = [
           "Smile (Sunset)": { trait: "Smile" },
         },
       },
+      { name: "Eyebrows" },
+
     ],
   },
 ];
@@ -137,23 +141,13 @@ const SEER_ONLY = [
 const incompatible = {
   'Lower Buns': ['Baby Drill Curls'],
   'Nega Moon Mark (Black)': ['Relaxed Bubble', 'Surprised Bubble', 'Woeful', 'Soft Bob'],
-  'Moon Mark (White)': ['Soft Bob'],
-  'Mage Mark Moon (Blue)': ['Soft Bob'],
-  'Mage Mark Moon (White)': ['Soft Bob'],
+  'Moon Mark (White)': ['Soft Bob', 'Relaxed Bubble'],
+  'Mage Mark Moon (Blue)': ['Soft Bob', 'Relaxed Bubble'],
+  'Mage Mark Moon (White)': ['Soft Bob', 'Relaxed Bubble'],
+  'Music Mark': ['Soft Bob'],
 
-  // hair color
-  'Baby Drill Curls_Light Lilac': ['Sunset'],
-  'Soft Bob_Light Lilac': ['Sunset'],
-  'Xuannu_Light Lilac': ['Sunset'],
-  'Lower Buns_Light Lilac': ['Sunset'],
-  'Pigtails_Light Lilac': ['Sunset'],
-
-  // skin color
-  'Sunset': [
-    'Soft Bob_Light Lilac',
-    'Xuannu_Light Lilac',
-    'Baby Drill Curls_Light Lilac',
-  ],
+  'Closed (Brown)': ['Surprised Bubble', 'Relaxed Bubble'],
+  'Teary Closed (Brown)': ['Surprised Bubble', 'Relaxed Bubble'],
 
   // archetype
   'Enchantress': [...HAG_ONLY, ...MAGE_ONLY, ...NECROMANCER_ONLY, ...OCCULTIST_ONLY, ...SEER_ONLY],

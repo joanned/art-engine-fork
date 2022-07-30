@@ -278,7 +278,7 @@ const drawBackground = (canvasContext) => {
   canvasContext.fillRect(0, 0, format.width, format.height);
 };
 
-const addMetadata = (_dna, _edition, _prefixData, hairColor) => {
+const addMetadata = (_dna, _edition, _prefixData) => {
   let dateTime = Date.now();
   const { _prefix, _offset, _imageHash } = _prefixData;
 
@@ -287,11 +287,6 @@ const addMetadata = (_dna, _edition, _prefixData, hairColor) => {
     trait_type: attr.trait_type,
     value: attr.value.split('_')[0],
   }));
-
-  adjustedAttrs.push({
-    trait_type: 'Hair Color',
-    value: hairColor,
-  });
 
   const combinedAttrs = [...adjustedAttrs, ...extraAttributes()];
   const cleanedAttrs = combinedAttrs.reduce((acc, current) => {
@@ -471,15 +466,21 @@ function pickRandomElement(
   forcedDNA,
   bypassDNA,
   zIndex,
-  hairColor,
-  completeSequence
+  dnaInfo
 ) {
-  console.log({ completeSequence})
+  console.log(dnaInfo)
+  const hairColor = dnaInfo['Hair Color'];
+
   let totalWeight = 0;
   // Does this layer include a forcedDNA item? ya? just return it.
   const forcedPick = layer.elements.find((element) => {
-    return (forcedDNA.includes(element.name) || (element.name.includes(`_${hairColor}`)))
+    let useColor = false;
+    if (hairColor) {
+      useColor = element.name.includes(`_${hairColor}`);
+    }
+    return (forcedDNA.includes(element.name) || useColor);
   });
+
 
   if (forcedPick) {
     debugLogs
@@ -495,12 +496,12 @@ function pickRandomElement(
           forcedDNA,
           bypassDNA,
           zIndex,
-          hairColor,
-          completeSequence
+          dnaInfo
         )
       );
     }
     let dnaString = `${parentId}.${forcedPick.id}:${forcedPick.zindex}${forcedPick.filename}${bypassDNA}`;
+    dnaInfo[forcedPick.trait] = forcedPick.name;
     return dnaSequence.push(dnaString);
   }
 
@@ -517,7 +518,14 @@ function pickRandomElement(
   // console.log({ before: layer.elements})
   // console.log({ incompatibleDNA})
   const compatibleLayers = layer.elements.filter(
-    (layer) => !incompatibleDNA.includes(layer.name)
+    (layer) => {
+      if (hairColor) {
+        if (hairColor === 'Light Lilac' && layer.trait === 'Skin Tone' && layer.name.includes('Sunset')) {
+          return false;
+        }
+      }
+      return !incompatibleDNA.includes(layer.name);
+    }
   );
   // console.log({ after: compatibleLayers})
   if (compatibleLayers.length === 0) {
@@ -537,6 +545,7 @@ function pickRandomElement(
     // If directory has %, that is % chance to enter the dir
     if (element.weight == "required" && !element.sublayer) {
       let dnaString = `${parentId}.${element.id}:${element.zindex}${element.filename}${bypassDNA}`;
+      dnaInfo[element.trait] = element.name;
       dnaSequence.unshift(dnaString);
       return;
     }
@@ -551,8 +560,7 @@ function pickRandomElement(
         forcedDNA,
         bypassDNA,
         zIndex,
-        hairColor,
-        completeSequence
+        dnaInfo
       );
     }
     if (element.weight !== "required") {
@@ -608,8 +616,7 @@ function pickRandomElement(
             forcedDNA,
             bypassDNA,
             zIndex,
-            hairColor,
-            completeSequence
+            dnaInfo
           )
         );
       }
@@ -619,6 +626,7 @@ function pickRandomElement(
         return dnaSequence;
       }
       let dnaString = `${parentId}.${currentLayers[i].id}:${currentLayers[i].zindex}${currentLayers[i].filename}${bypassDNA}`;
+      dnaInfo[currentLayers[i].trait] = currentLayers[i].name;
       return dnaSequence.push(dnaString);
     }
   }
@@ -677,10 +685,11 @@ function sortZIndex(layers) {
   });
 }
 
-const createDna = (_layers, hairColor) => {
+const createDna = (_layers) => {
   let dnaSequence = [];
   let incompatibleDNA = [];
   let forcedDNA = [];
+  let dnaInfo = {};
 
   _layers.forEach((layer) => {
     const layerSequence = [];
@@ -692,8 +701,7 @@ const createDna = (_layers, hairColor) => {
       forcedDNA,
       layer.bypassDNA ? "?bypassDNA=true" : "",
       layer.zindex ? layer.zIndex : "",
-      hairColor,
-      dnaSequence,
+      dnaInfo,
     );
     const sortedLayers = sortLayers(layerSequence);
     dnaSequence = [...dnaSequence, [sortedLayers]];
@@ -802,7 +810,7 @@ const postProcessMetadata = (layerData) => {
   };
 };
 
-const outputFiles = (abstractedIndexes, layerData, hairColor) => {
+const outputFiles = (abstractedIndexes, layerData) => {
   const { newDna, layerConfigIndex } = layerData;
   // Save the canvas buffer to file
   saveImage(abstractedIndexes[0]);
@@ -813,7 +821,7 @@ const outputFiles = (abstractedIndexes, layerData, hairColor) => {
     _prefix,
     _offset,
     _imageHash,
-  }, hairColor);
+  });
 
   saveMetaDataSingleFile(abstractedIndexes[0]);
   console.log(
@@ -865,8 +873,7 @@ const startCreating = async (storedDNA) => {
     while (
       editionCount <= layerConfigurations[layerConfigIndex].growEditionSizeTo
     ) {
-      const hairColor = getHairColor();
-      let newDna = createDna(layers, hairColor);
+      let newDna = createDna(layers);
 
       if (isDnaUnique(dnaList, newDna)) {
         let results = constructLayerToDna(newDna, layers);
@@ -888,7 +895,7 @@ const startCreating = async (storedDNA) => {
             _background: background,
           };
           paintLayers(ctxMain, renderObjectArray, layerData);
-          outputFiles(abstractedIndexes, layerData, hairColor);
+          outputFiles(abstractedIndexes, layerData);
         });
 
         dnaList.add(filterDNAOptions(newDna));
