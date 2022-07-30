@@ -471,9 +471,10 @@ function pickRandomElement(
   forcedDNA,
   bypassDNA,
   zIndex,
-  hairColor
+  hairColor,
+  completeSequence
 ) {
-  console.log({ layer, dnaSequence, incompatibleDNA, forcedDNA, bypassDNA})
+  console.log({ completeSequence})
   let totalWeight = 0;
   // Does this layer include a forcedDNA item? ya? just return it.
   const forcedPick = layer.elements.find((element) => {
@@ -494,7 +495,8 @@ function pickRandomElement(
           forcedDNA,
           bypassDNA,
           zIndex,
-          hairColor
+          hairColor,
+          completeSequence
         )
       );
     }
@@ -549,7 +551,8 @@ function pickRandomElement(
         forcedDNA,
         bypassDNA,
         zIndex,
-        hairColor
+        hairColor,
+        completeSequence
       );
     }
     if (element.weight !== "required") {
@@ -605,7 +608,8 @@ function pickRandomElement(
             forcedDNA,
             bypassDNA,
             zIndex,
-            hairColor
+            hairColor,
+            completeSequence
           )
         );
       }
@@ -689,6 +693,7 @@ const createDna = (_layers, hairColor) => {
       layer.bypassDNA ? "?bypassDNA=true" : "",
       layer.zindex ? layer.zIndex : "",
       hairColor,
+      dnaSequence,
     );
     const sortedLayers = sortLayers(layerSequence);
     dnaSequence = [...dnaSequence, [sortedLayers]];
