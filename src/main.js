@@ -521,9 +521,22 @@ function pickRandomElement(
     (layer) => {
       if (hairColor) {
         if (hairColor === 'Light Lilac' && layer.trait === 'Skin Tone' && layer.name.includes('Sunset')) {
+          console.log('skipping lilac and sunset skintone');
           return false;
         }
       }
+
+      if (!(dnaInfo['Hair Back'] || '').includes('Dramatic Swoop') && layer.trait === 'Hair Front' && layer.name.includes('Dramatic Swoop')) {
+        console.log('skipping dramatic swoop');
+        console.log({dnaInfo, layer})
+        return false;
+      }
+
+      // if (!(dnaInfo['Hair Back'] || '').includes('Dramatic Swoop') && layer.name.includes('Dramatic Swoop')) {
+      //   console.log('skipping dramatic swoop');
+      //   return false;
+      // }
+
       return !incompatibleDNA.includes(layer.name);
     }
   );

@@ -148,7 +148,7 @@ const SEER_ONLY = [
  * accidentally set incompatibilities for the _wrong_ item.
  */
 const incompatible = {
-  'Lower Buns': ['Baby Drill Curls'],
+  'Lower Buns': ['Baby Drill Curls', 'Dramatic Swoop'],
   'Nega Moon Mark (Black)': ['Relaxed Bubble', 'Surprised Bubble', 'Woeful', 'Soft Bob'],
   'Moon Mark (White)': ['Soft Bob', 'Relaxed Bubble'],
   'Mage Mark Moon (Blue)': ['Soft Bob', 'Relaxed Bubble'],
@@ -160,10 +160,12 @@ const incompatible = {
 
   'Dangly Bones': ['Baby Drill Curls', 'Xuannu'],
   'Witch': ['Baby Drill Curls', 'High Buns', 'High Pigtails'],
-  'High Buns': ['Peony Crown (Pink)'],
+  'High Buns': ['Peony Crown (Pink)', 'Dramatic Swoop'],
   'Peony Crown (Pink)': ['High Buns'],
   'Xuannu': ['Round'],
   'Curtain': ['Round', 'Surprised Bubble', 'Relaxed Bubble'],
+
+  'Malificent Horns': 'High Buns',
 
   'Mugler Collarbone Cutout': ['Ring Collar'],
   'Open Collar with Bow': ['Ring Collar'],
@@ -193,6 +195,7 @@ const incompatible = {
  */
 const forcedCombinations = {
   // floral: ["MetallicShades", "Golden Sakura"],
+  "Dramatic Swoop": ["Dramatic Swoop"],
 };
 
 /**
