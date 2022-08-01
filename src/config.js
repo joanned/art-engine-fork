@@ -62,6 +62,9 @@ const layerConfigurations = [
         },
       },
       {
+        name: "Organize-TopHead",
+      },
+      {
         name: "Hair Back",
         trait: "Hair Back",
         // sublayerOptions: {
@@ -74,8 +77,13 @@ const layerConfigurations = [
       { name: "Skin Tone" },
       { name: "Earrings" },
       { name: "Face Markings" },
-      { name: "Clothing" },
-      { name: "Hair Topper" },
+      {
+        name: "Clothing",
+        sublayerOptions: {
+          'Sheer Striped transparent': { blend: "source-over", opacity: .73 }
+        },
+      },
+      { name: "Necklace" },
       { name: "Eyes" },
       { name: "Hair Front", trait: "Hair Front" },
       {
@@ -151,6 +159,15 @@ const incompatible = {
   'Teary Closed (Brown)': ['Surprised Bubble', 'Relaxed Bubble'],
 
   'Dangly Bones': ['Baby Drill Curls', 'Xuannu'],
+  'Witch': ['Baby Drill Curls', 'High Buns', 'High Pigtails'],
+  'High Buns': ['Peony Crown (Pink)'],
+  'Peony Crown (Pink)': ['High Buns'],
+  'Xuannu': ['Round'],
+  'Curtain': ['Round', 'Surprised Bubble', 'Relaxed Bubble'],
+
+  'Mugler Collarbone Cutout': ['Ring Collar'],
+  'Open Collar with Bow': ['Ring Collar'],
+  'Puff Top': ['Ring Collar'],
 
   // archetype
   'Enchantress': [...HAG_ONLY, ...MAGE_ONLY, ...NECROMANCER_ONLY, ...OCCULTIST_ONLY, ...SEER_ONLY],
