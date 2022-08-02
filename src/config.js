@@ -165,7 +165,7 @@ const incompatible = {
   'Xuannu': ['Round'],
   'Curtain': ['Round', 'Surprised Bubble', 'Relaxed Bubble'],
 
-  'Malificent Horns': 'High Buns',
+  'Maleficent Horns': ['High Buns'],
 
   'Mugler Collarbone Cutout': ['Ring Collar'],
   'Open Collar with Bow': ['Ring Collar'],
