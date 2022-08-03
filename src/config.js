@@ -140,6 +140,11 @@ const SEER_ONLY = [
 
 ];
 
+const HAIR_BACK_UPPER = [
+  'High Buns',
+  'High Pigtails',
+];
+
 /**
  * Incompatible items can be added to this object by a files cleanName
  * This works in layer order, meaning, you need to define the layer that comes
@@ -159,7 +164,7 @@ const incompatible = {
   'Teary Closed (Brown)': ['Surprised Bubble', 'Relaxed Bubble'],
 
   'Dangly Bones': ['Baby Drill Curls', 'Xuannu'],
-  'Witch': ['Baby Drill Curls', 'High Buns', 'High Pigtails'],
+  'Witch': ['Baby Drill Curls', ...HAIR_BACK_UPPER],
   'High Buns': ['Peony Crown (Pink)', 'Dramatic Swoop'],
   'Peony Crown (Pink)': ['High Buns'],
   'Xuannu': ['Round'],
@@ -170,6 +175,9 @@ const incompatible = {
   'Mugler Collarbone Cutout': ['Ring Collar'],
   'Open Collar with Bow': ['Ring Collar'],
   'Puff Top': ['Ring Collar'],
+  'Victorian Frippery': ['Ring Collar'],
+  'Dita Disk': [...HAIR_BACK_UPPER],
+  'Dita Disk Wrapped': ['Open Collar with Bow'],
 
   // archetype
   'Enchantress': [...HAG_ONLY, ...MAGE_ONLY, ...NECROMANCER_ONLY, ...OCCULTIST_ONLY, ...SEER_ONLY],
