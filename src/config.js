@@ -172,10 +172,10 @@ const incompatible = {
 
   'Maleficent Horns': ['High Buns'],
 
-  'Mugler Collarbone Cutout': ['Ring Collar'],
-  'Open Collar with Bow': ['Ring Collar'],
-  'Puff Top': ['Ring Collar'],
-  'Victorian Frippery': ['Ring Collar'],
+  'Mugler Collarbone Cutout': ['Ring Collar', 'Moon Necklace'],
+  'Open Collar with Bow': ['Ring Collar', 'Moon Necklace'],
+  'Puff Top': ['Ring Collar', 'Moon Necklace'],
+  'Victorian Frippery': ['Ring Collar', 'Moon Necklace'],
   'Dita Disk': [...HAIR_BACK_UPPER],
   'Dita Disk Wrapped': ['Open Collar with Bow'],
 
