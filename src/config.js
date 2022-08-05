@@ -67,12 +67,6 @@ const layerConfigurations = [
       {
         name: "Hair Back",
         trait: "Hair Back",
-        // sublayerOptions: {
-        //   "Lower Buns (Brown)": { trait: "Lower Buns" },
-        //   "Lower Buns (Pink)": { trait: "Lower Buns" },
-        //   "Pigtails (Brown)": { trait: "Pigtails" },
-        //   "Pigtails (Light Lilac)": { trait: "Pigtails" },
-        // },
       },
       { name: "Skin Tone" },
       { name: "Earrings" },
@@ -178,6 +172,10 @@ const incompatible = {
   'Victorian Frippery': ['Ring Collar', 'Moon Necklace'],
   'Dita Disk': [...HAIR_BACK_UPPER],
   'Dita Disk Wrapped': ['Open Collar with Bow'],
+
+  'Hat': ['Flowy Pony', 'High Buns', 'Keridwen'],
+  'Dog (Corgi)': ['Flowy Pony'],
+  'Cat (White)': ['Flowy Pony'],
 
   // archetype
   'Enchantress': [...HAG_ONLY, ...MAGE_ONLY, ...NECROMANCER_ONLY, ...OCCULTIST_ONLY, ...SEER_ONLY],
