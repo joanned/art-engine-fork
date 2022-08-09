@@ -159,11 +159,13 @@ const incompatible = {
 
   'Dangly Bones': ['Baby Drill Curls', 'Xuannu'],
   'Witch': ['Baby Drill Curls', ...HAIR_BACK_UPPER],
-  'High Buns': ['Peony Crown (Pink)', 'Dramatic Swoop'],
+  'High Buns': ['Peony Crown (Pink)', 'Dramatic Swoop', 'Curl Clouds'],
+  'High Pigtails': ['Curl Clouds'],
   'Peony Crown (Pink)': ['High Buns'],
+  'Long': ['Curl Clouds'],
   'Xuannu': ['Round'],
   'Curtain': ['Round', 'Surprised Bubble', 'Relaxed Bubble'],
-
+  'Braided Pigtails': ['Curl Clouds'],
   'Maleficent Horns': ['High Buns'],
 
   'Mugler Collarbone Cutout': ['Ring Collar', 'Moon Necklace'],
@@ -173,7 +175,7 @@ const incompatible = {
   'Dita Disk': [...HAIR_BACK_UPPER],
   'Dita Disk Wrapped': ['Open Collar with Bow'],
 
-  'Hat': ['Flowy Pony', 'High Buns', 'Keridwen'],
+  'Hat': ['Flowy Pony', 'High Buns', 'Keridwen', 'Curl Clouds'],
   'Dog (Corgi)': ['Flowy Pony'],
   'Cat (White)': ['Flowy Pony'],
 
