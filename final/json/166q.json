@@ -1,0 +1,68 @@
+{
+  "dna": "1c3a53096983112d4897fb8523a57e10e0518120670985eb152c81a5b5430f88",
+  "name": "WITCH #166",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/166.png",
+  "imageHash": "c576a4054f7874bac4dccb2e5e48efe9964045fc85b61cf5214afe5a55047ae1",
+  "edition": 166,
+  "date": 1664167278281,
+  "attributes": [
+    {
+      "trait_type": "layers",
+      "value": "Archetype"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Necromancer"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Leo"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Capricorn"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Pisces"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Dusk"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Beaded Tassle (Pink)"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Puff Top (Red Skirt)"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed (Brown)"
+    },
+    {
+      "trait_type": "Hair Front",
+      "value": "Soft Bob"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Laughing"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Elegant"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

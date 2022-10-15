@@ -1,0 +1,72 @@
+{
+  "dna": "78369dee548c82633c8397fbc1e09d1ca94d96df71deab8a10cf9bfdd1053cfc",
+  "name": "WITCH #190",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/190.png",
+  "imageHash": "939e1c99b91de0bf92630c0bc0f3757b98b547508aec5432d2c3814d89ecb145",
+  "edition": 190,
+  "date": 1665804024723,
+  "attributes": [
+    {
+      "trait_type": "Archetype",
+      "value": "Enchantress"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Capricorn"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Libra"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Sagittarius"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Hair Back",
+      "value": "High Buns"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Twilight"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Mugler Collarbone Cutout (Black)"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Doe-eyed (Olive)"
+    },
+    {
+      "trait_type": "Hair Front",
+      "value": "Soft Bob"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Laughing"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Surprised Bubble"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Cat (White)"
+    },
+    {
+      "trait_type": "Face Accessories",
+      "value": "Octagon Glasses"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

@@ -1,0 +1,72 @@
+{
+  "dna": "f8064bca7cdc48937322af3e2f1b141b0ca49725cc707d60f1f1d78a971f0e65",
+  "name": "WITCH #471",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/471.png",
+  "imageHash": "2f277578e4b0d588624fecfae84739417f8bd34d47c78dcd1edabbc857e36773",
+  "edition": 471,
+  "date": 1665817152951,
+  "attributes": [
+    {
+      "trait_type": "Archetype",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Virgo"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Capricorn"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Aquarius"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Taupe"
+    },
+    {
+      "trait_type": "Back Item",
+      "value": "Scripted Circle (White)"
+    },
+    {
+      "trait_type": "Hair Back",
+      "value": "Keridwen"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Sunset"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Mugler Collarbone Cutout (Black)"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Doe-eyed (Brown)"
+    },
+    {
+      "trait_type": "Hair Front",
+      "value": "Xuannu"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smirk"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Woeful"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Hair Bow (Red)"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

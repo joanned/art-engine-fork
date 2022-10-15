@@ -1,0 +1,76 @@
+{
+  "dna": "8e4f369b5c36c32a371fb47ad33bf9c62416185866c8e8d92e93369a1b966c17",
+  "name": "WITCH #67",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/67.png",
+  "imageHash": "8c4420cb24081e0a71d0daa3568b21475e5998af0f2cb1ca958194a290deb026",
+  "edition": 67,
+  "date": 1665790379963,
+  "attributes": [
+    {
+      "trait_type": "layers",
+      "value": "Archetype"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Virgo"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Capricorn"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Leo"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Lilac"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Twin Snakes Hat"
+    },
+    {
+      "trait_type": "Hair Back",
+      "value": "Dramatic Swoop"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Dusk"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Pearly Skulls"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Off Shoulder Long Sleeve"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Delighted (Brown)"
+    },
+    {
+      "trait_type": "Hair Front",
+      "value": "Dramatic Swoop"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Laughing"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Elegant"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

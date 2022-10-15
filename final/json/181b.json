@@ -1,0 +1,68 @@
+{
+  "dna": "057b3400de4af043585ff131950ec9c66f3be7127a9afe66c7cb6afbf2b0d19b",
+  "name": "WITCH #181",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/181.png",
+  "imageHash": "863c6ae5913ab22bfeac0c8e00dfba94603755a07b694241973318494616c85c",
+  "edition": 181,
+  "date": 1665805751568,
+  "attributes": [
+    {
+      "trait_type": "Archetype",
+      "value": "Occultist"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Aquarius"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Virgo"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Scorpio"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Lilac"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Twilight"
+    },
+    {
+      "trait_type": "Forehead",
+      "value": "Darkened Demon Third Eye (Amber)"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Mugler Collarbone Cutout (Black)"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cateye (Brown)"
+    },
+    {
+      "trait_type": "Hair Front",
+      "value": "Curl Clouds"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smirk"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Surprised Bubble"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Hair Bow (Black)"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

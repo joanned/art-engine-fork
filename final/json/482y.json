@@ -1,0 +1,72 @@
+{
+  "dna": "5656631b0065d76aba89b1b05afce9027c793715aacaaf8197cb15a1d8608b5b",
+  "name": "WITCH #482",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/482.png",
+  "imageHash": "0e2223e23d8d77474b7f8eef66650712bfeb23b04b83ad883b859e9ca3e566c3",
+  "edition": 482,
+  "date": 1665815632916,
+  "attributes": [
+    {
+      "trait_type": "Archetype",
+      "value": "Seer"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Cancer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Gemini"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Taurus"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "Blonde"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Lilac"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Witch Hat"
+    },
+    {
+      "trait_type": "Hair Back",
+      "value": "Lower Buns"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Sunset"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Off Shoulder Shirt"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "Ethereum Necklace (Gold)"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cateye (Brown)"
+    },
+    {
+      "trait_type": "Hair Front",
+      "value": "Curtain"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Acute"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Woeful"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

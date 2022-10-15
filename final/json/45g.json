@@ -1,0 +1,76 @@
+{
+  "dna": "65eebf92495658999a87147af6cfd3545d6500342af3940776c603a7ab016ac0",
+  "name": "WITCH #45",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/45.png",
+  "imageHash": "ff7b98a28f20686630bec50eda292592e05e513ce41da948912a2193ac24ac00",
+  "edition": 45,
+  "date": 1665790346783,
+  "attributes": [
+    {
+      "trait_type": "layers",
+      "value": "Archetype"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Sagittarius"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Capricorn"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Gemini"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "White"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Back Item",
+      "value": "Scripted Circle (White)"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Sunset"
+    },
+    {
+      "trait_type": "Forehead",
+      "value": "Mage Mark Moon (Blue)"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Mugler Collarbone Cutout (Black)"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Delighted (Violet)"
+    },
+    {
+      "trait_type": "Hair Front",
+      "value": "Xuannu"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Laughing"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Woeful"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Hair Bow (Red)"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

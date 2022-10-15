@@ -1,0 +1,68 @@
+{
+  "dna": "f452ab59affa84c23e9d84b941c8c8f07dfe9566033df61bb58d89a81ecb21f1",
+  "name": "WITCH #334",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/334.png",
+  "imageHash": "5921728a1b85b5c721db6337747c4c642f44f36b82511dbef57f7bd233dbe188",
+  "edition": 334,
+  "date": 1665851707572,
+  "attributes": [
+    {
+      "trait_type": "Archetype",
+      "value": "Enchantress"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Virgo"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Sagittarius"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Cancer"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "Blonde"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Taupe"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Crown of Pearls"
+    },
+    {
+      "trait_type": "Hair Back",
+      "value": "High Pigtails"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Twilight"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Mugler Collarbone Cutout (Black)"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Doe-eyed (Violet)"
+    },
+    {
+      "trait_type": "Hair Front",
+      "value": "Baby Drill Curls"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Woeful"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

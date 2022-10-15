@@ -1,0 +1,68 @@
+{
+  "dna": "cac321825e7135348d37632557a3dff60074af37973087db2faefe8d47c725e4",
+  "name": "WITCH #422",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/422.png",
+  "imageHash": "8c648b536be702fe6687d215845a729697bee4004f9bda76e1133bda0af45dfc",
+  "edition": 422,
+  "date": 1665810069515,
+  "attributes": [
+    {
+      "trait_type": "Archetype",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Scorpio"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Scorpio"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Sagittarius"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "White"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Mushroom"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Sunset"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Beaded Tassle (Ruby)"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Elegant Shirt (Red Skirt)"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Hooded Side (Brown)"
+    },
+    {
+      "trait_type": "Hair Front",
+      "value": "Soft Bob"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Woeful"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

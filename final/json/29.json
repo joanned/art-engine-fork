@@ -1,0 +1,72 @@
+{
+  "dna": "2aa42a6dc005c0f53978333d53ea6a93cfcc8076ab143f0b73f3db2c5c656659",
+  "name": "WITCH #29",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/29.png",
+  "imageHash": "5a8cd7bfb64aa837221c3de42d7559ba9d3e7bb69bdcaaab6df278aba2367d01",
+  "edition": 29,
+  "date": 1665804726253,
+  "attributes": [
+    {
+      "trait_type": "Archetype",
+      "value": "Seer"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Taurus"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Taurus"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Aquarius"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "White"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Hair Back",
+      "value": "Flowy Pony"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Twilight"
+    },
+    {
+      "trait_type": "Forehead",
+      "value": "Raised Third Eye"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Open Collar with Bow (Pink)"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Doe-eyed (Brown)"
+    },
+    {
+      "trait_type": "Hair Front",
+      "value": "Curl Clouds"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Laughing"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Elegant"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Hair Bow (Red)"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

@@ -1,0 +1,72 @@
+{
+  "dna": "e0724d42493481232cb660d55b23b51fc9ddb80da7ac8df5342f771caf6c3641",
+  "name": "WITCH #438",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/438.png",
+  "imageHash": "86ec022a7719c857939fb64c3c3d1d0b6d74b9d8faa82cf3ed376c6c75c840ba",
+  "edition": 438,
+  "date": 1665817104507,
+  "attributes": [
+    {
+      "trait_type": "Archetype",
+      "value": "Enchantress"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Cancer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Leo"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Cancer"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "Light Lilac"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Lilac"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Witch Hat"
+    },
+    {
+      "trait_type": "Hair Back",
+      "value": "Dramatic Swoop"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Twilight"
+    },
+    {
+      "trait_type": "Forehead",
+      "value": "Music Mark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Off Shoulder Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Doe-eyed (Brown)"
+    },
+    {
+      "trait_type": "Hair Front",
+      "value": "Dramatic Swoop"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Laughing"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Relaxed Bubble"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

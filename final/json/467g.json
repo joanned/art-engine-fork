@@ -1,0 +1,76 @@
+{
+  "dna": "3651081db7db4cd89ba7e109c391032cb4833cca08196c9a801977c4e1abdca8",
+  "name": "WITCH #467",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/467.png",
+  "imageHash": "1d767969457c96ee95d8cc58f687b8ad1710a7591fda7f0ea28777c5a9d2d62d",
+  "edition": 467,
+  "date": 1665790976867,
+  "attributes": [
+    {
+      "trait_type": "layers",
+      "value": "Archetype"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Enchantress"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Cancer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Leo"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Capricorn"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "White"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Lilac"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Twilight"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Pearly Skulls"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Mugler Collarbone Cutout (Black)"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Doe-eyed (Brown)"
+    },
+    {
+      "trait_type": "Hair Front",
+      "value": "Soft Bob"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Laughing"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Woeful"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Hair Bow (Red)"
+    },
+    {
+      "trait_type": "Face Accessories",
+      "value": "Octagon Glasses"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

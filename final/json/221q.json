@@ -1,0 +1,72 @@
+{
+  "dna": "a31700a613a55a28b9690a9ef22c6b707d27e5cc72ce8b99892a3d8e06cceae2",
+  "name": "WITCH #221",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/221.png",
+  "imageHash": "f47924e889a89c0dbaf5190b777e69ac25b0dd368a4cfccff9d4c92394d11f23",
+  "edition": 221,
+  "date": 1664167362430,
+  "attributes": [
+    {
+      "trait_type": "layers",
+      "value": "Archetype"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Seer"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Cancer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Pisces"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Cancer"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "White"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Taupe"
+    },
+    {
+      "trait_type": "Hair Back",
+      "value": "Keridwen"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Sunset"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Puff Top (Red Skirt)"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed (Brown)"
+    },
+    {
+      "trait_type": "Hair Front",
+      "value": "Xuannu"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Laughing"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Woeful"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Hair Bow (Red)"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

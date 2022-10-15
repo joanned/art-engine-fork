@@ -1,0 +1,72 @@
+{
+  "dna": "cef527ce38f76f9178d0d26664450a3dce91e27947e65e508c33bd3a26df081c",
+  "name": "WITCH #114",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/114.png",
+  "imageHash": "4b610bd1582be5afc4d71096a0816cc8dc0908399ac7c3179f33318bd1235f02",
+  "edition": 114,
+  "date": 1665808706679,
+  "attributes": [
+    {
+      "trait_type": "Archetype",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Scorpio"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Scorpio"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Pisces"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Peony Crown (Pink)"
+    },
+    {
+      "trait_type": "Hair Back",
+      "value": "Dramatic Swoop"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Twilight"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Pearly Skulls"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Off Shoulder Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cateye (Brown)"
+    },
+    {
+      "trait_type": "Hair Front",
+      "value": "Dramatic Swoop"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smirk"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Elegant"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

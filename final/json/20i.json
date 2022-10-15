@@ -1,0 +1,68 @@
+{
+  "dna": "00098ae1f043ba053e9cb7fefceac7df776bad984d6d6c0801ac73932c649797",
+  "name": "WITCH #20",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/20.png",
+  "imageHash": "39cf03e9b1d0aee47850f671b4aa464ce4220b943a982f21dba317d8ee97d32c",
+  "edition": 20,
+  "date": 1665847435279,
+  "attributes": [
+    {
+      "trait_type": "Archetype",
+      "value": "Enchantress"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Pisces"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Libra"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Gemini"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Hair Back",
+      "value": "High Buns"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Dusk"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Sheer Striped"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "Mini Moon Necklace"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cateye (Violet)"
+    },
+    {
+      "trait_type": "Hair Front",
+      "value": "Xuannu"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smirk"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Relaxed Bubble"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

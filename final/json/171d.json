@@ -1,0 +1,68 @@
+{
+  "dna": "8e8abccf2734fe17f09ca0079abe717c13fdd00069feed3865180a772ad69a83",
+  "name": "WITCH #171",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/171.png",
+  "imageHash": "617fb538021324be91689e87f2cab0f02a6c6b36bd6f77414c67954ece9eb0a2",
+  "edition": 171,
+  "date": 1665810755517,
+  "attributes": [
+    {
+      "trait_type": "Archetype",
+      "value": "Necromancer"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Aries"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Aquarius"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Gemini"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Maleficent Horns"
+    },
+    {
+      "trait_type": "Hair Back",
+      "value": "Keridwen"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Twilight"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Victorian Frippery"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Doe-eyed (Brown)"
+    },
+    {
+      "trait_type": "Hair Front",
+      "value": "Soft Bob"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Laughing"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Elegant"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

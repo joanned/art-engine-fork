@@ -1,0 +1,76 @@
+{
+  "dna": "d729998cac6c49217f64d3c50b905cfa842296017efaa06a8569a7f9e320f1fb",
+  "name": "WITCH #253",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/253.png",
+  "imageHash": "e12bc4f70b9a1bfcb95d97f66862782addac073749f26a4aaf1121e36d8206df",
+  "edition": 253,
+  "date": 1665809785940,
+  "attributes": [
+    {
+      "trait_type": "Archetype",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Taurus"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Scorpio"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Taurus"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "White"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Mushroom"
+    },
+    {
+      "trait_type": "Hair Back",
+      "value": "Long"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Twilight"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Dangly Bones"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Off Shoulder Long Sleeve"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "Ring Collar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Hooded Side (Brown)"
+    },
+    {
+      "trait_type": "Hair Front",
+      "value": "Soft Bob"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Elegant"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

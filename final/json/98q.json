@@ -1,0 +1,76 @@
+{
+  "dna": "65125305d10a6392db907722d25de902ac943438b8f541c1e3a78dff2e6125f7",
+  "name": "WITCH #98",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/98.png",
+  "imageHash": "12a75c924a3155dd7795a1988142e40985bc306cbdce5b683b8f05cc74d07bb1",
+  "edition": 98,
+  "date": 1664161119646,
+  "attributes": [
+    {
+      "trait_type": "layers",
+      "value": "Archetype"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Seer"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Gemini"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Taurus"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Leo"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Taupe"
+    },
+    {
+      "trait_type": "Hair Back",
+      "value": "Lower Buns"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Twilight"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Pearly Skulls"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Victorian Frippery"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Hooded Side (Olive)"
+    },
+    {
+      "trait_type": "Hair Front",
+      "value": "Curtain"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Laughing"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Elegant"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Hair Bow (Black)"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

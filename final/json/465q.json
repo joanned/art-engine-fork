@@ -1,0 +1,76 @@
+{
+  "dna": "78bb617f73a01811c4fe618b6d020d6a314947c7eaa048a462f45b562dc1100c",
+  "name": "WITCH #465",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/465.png",
+  "imageHash": "d5c879d86ba4f4d1d9739728f286465c1f3f7525c6fa549daac271a4a86a1030",
+  "edition": 465,
+  "date": 1664167740488,
+  "attributes": [
+    {
+      "trait_type": "layers",
+      "value": "Archetype"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Pisces"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Sagittarius"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Aries"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "Magenta"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Lilac"
+    },
+    {
+      "trait_type": "Hair Back",
+      "value": "High Pigtails"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Twilight"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Pearly Skulls"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Mugler Collarbone Cutout (Black)"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Delighted (Brown)"
+    },
+    {
+      "trait_type": "Hair Front",
+      "value": "Soft Bob"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Woeful"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Cat (White)"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

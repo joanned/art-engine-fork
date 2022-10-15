@@ -1,0 +1,72 @@
+{
+  "dna": "ea8c2eff79f04c726954d10979567fdf74775a387b7c4ed5a83e709ee0cbe838",
+  "name": "WITCH #205",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/205.png",
+  "imageHash": "a3d20a87ed8d5f44451edb809459712fbfea3a3a2efd72bde6507bf2789e7de4",
+  "edition": 205,
+  "date": 1665809706972,
+  "attributes": [
+    {
+      "trait_type": "Archetype",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Leo"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Aquarius"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Sagittarius"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "White"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Mushroom"
+    },
+    {
+      "trait_type": "Hair Back",
+      "value": "Lower Buns"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Twilight"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Tiny Hoops"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Victorian Frippery"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Doe-eyed (Brown)"
+    },
+    {
+      "trait_type": "Hair Front",
+      "value": "Xuannu"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Woeful"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

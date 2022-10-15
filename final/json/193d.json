@@ -1,0 +1,72 @@
+{
+  "dna": "9d48a49722bd6b5b49c45bb4b0ab2dece7844b0aab5cd48efef05289ecfdac5a",
+  "name": "WITCH #193",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/193.png",
+  "imageHash": "5d2993345b7706a6cefd06c57df4665e03e3cb77d2cd09a4ff2b9d1a440b29c8",
+  "edition": 193,
+  "date": 1665810789161,
+  "attributes": [
+    {
+      "trait_type": "Archetype",
+      "value": "Necromancer"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Libra"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Cancer"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Aquarius"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Lilac"
+    },
+    {
+      "trait_type": "Hair Back",
+      "value": "High Pigtails"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Twilight"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Tiny Hoops"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Elegant Shirt (Gray Skirt)"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Doe-eyed (Violet)"
+    },
+    {
+      "trait_type": "Hair Front",
+      "value": "Soft Bob"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Laughing"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Woeful"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Hoodlondon Hathor"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

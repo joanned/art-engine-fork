@@ -1,0 +1,68 @@
+{
+  "dna": "fc5bb8866b562f831c5e1cee1fcdd295bb56ad0775a637355ac6bb56ea0139b4",
+  "name": "WITCH #196",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/196.png",
+  "imageHash": "20c4094d9e20ed2f9d67267aeced5f6bd747df92b1e8afbc2c10f29a5fcf8b4d",
+  "edition": 196,
+  "date": 1665808831160,
+  "attributes": [
+    {
+      "trait_type": "Archetype",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Leo"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Sagittarius"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Virgo"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "White"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Peony Crown (Pink)"
+    },
+    {
+      "trait_type": "Hair Back",
+      "value": "Long"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Twilight"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Off Shoulder Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Doe-eyed (Violet)"
+    },
+    {
+      "trait_type": "Hair Front",
+      "value": "Xuannu"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Acute"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Relaxed Bubble"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

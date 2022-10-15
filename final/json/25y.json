@@ -1,0 +1,68 @@
+{
+  "dna": "7bcbf6089398778c05f4277a7b05152296bbe42e0b3bb6a3ec59a3e5d4cb8c23",
+  "name": "WITCH #25",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/25.png",
+  "imageHash": "0e3f21cce345792aeed3b58a4fe20f496e6299441a947bd28fdfe655795d54d2",
+  "edition": 25,
+  "date": 1665814964503,
+  "attributes": [
+    {
+      "trait_type": "Archetype",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Virgo"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Capricorn"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Capricorn"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Lilac"
+    },
+    {
+      "trait_type": "Hair Back",
+      "value": "Dramatic Swoop"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Sunset"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Elegant Shirt (Red Skirt)"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Teary Closed (Brown)"
+    },
+    {
+      "trait_type": "Hair Front",
+      "value": "Dramatic Swoop"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smirk"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Woeful"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Dita Disk (Red Roses)"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

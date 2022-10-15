@@ -1,0 +1,72 @@
+{
+  "dna": "b4484b1823b0ba43c2a7fbe90086443391c633daf546883de4f2dc7784a36d89",
+  "name": "WITCH #68",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/68.png",
+  "imageHash": "a295dcb54f794ce1ccd2ceb63a62219714fb2bd73de34b68885090423618199c",
+  "edition": 68,
+  "date": 1665815025370,
+  "attributes": [
+    {
+      "trait_type": "Archetype",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Leo"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Pisces"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Gemini"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "Magenta"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Lilac"
+    },
+    {
+      "trait_type": "Hair Back",
+      "value": "Long"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Twilight"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Dangly Bones"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Open Collar with Bow (Pink)"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Delighted (Olive)"
+    },
+    {
+      "trait_type": "Hair Front",
+      "value": "Soft Bob"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Elegant"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Hoodlondon Hathor"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

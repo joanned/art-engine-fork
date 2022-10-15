@@ -1,0 +1,76 @@
+{
+  "dna": "39ffd09820f3cbb2cfb432850a062b01772e42844ac3fa506d30dbbe7f27ac2d",
+  "name": "WITCH #134",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/134.png",
+  "imageHash": "69b7d9f952cc535ef6d6619db137cace951045d481e40b360a23b5cd477ac2a8",
+  "edition": 134,
+  "date": 1665790478497,
+  "attributes": [
+    {
+      "trait_type": "layers",
+      "value": "Archetype"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Aquarius"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Aquarius"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Cancer"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Back Item",
+      "value": "Scripted Circle (White)"
+    },
+    {
+      "trait_type": "Hair Back",
+      "value": "Long"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Dusk"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Mugler Collarbone Cutout (Black)"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Doe-eyed (Brown)"
+    },
+    {
+      "trait_type": "Hair Front",
+      "value": "Soft Bob"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smirk"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Surprised Bubble"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Cat (White)"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

@@ -1,0 +1,72 @@
+{
+  "dna": "e61f256ee44f0dead93564ee07ad1c108c16fa2c353240ba67c441468cde43ab",
+  "name": "WITCH #380",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/380.png",
+  "imageHash": "ed8b9f8bfae04b955075f66946e910fb20cc6df57cb824d0777a74f341d59e50",
+  "edition": 380,
+  "date": 1665849209185,
+  "attributes": [
+    {
+      "trait_type": "Archetype",
+      "value": "Occultist"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Leo"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Cancer"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Capricorn"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "Magenta"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Lilac"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Smol Horns"
+    },
+    {
+      "trait_type": "Hair Back",
+      "value": "High Buns"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Twilight"
+    },
+    {
+      "trait_type": "Forehead",
+      "value": "Raised Third Eye"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Mugler Collarbone Cutout (Black)"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cateye (Violet)"
+    },
+    {
+      "trait_type": "Hair Front",
+      "value": "Xuannu"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Laughing"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Woeful"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

@@ -1,0 +1,76 @@
+{
+  "dna": "e0160416e816ee58472f397c85c2ea38fc22344bc89b54bab0447e5c77d04ecf",
+  "name": "WITCH #143",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/143.png",
+  "imageHash": "14f4038b0a12a83896c7309bdc169b4e288fb6871a7822d522584322850d14ef",
+  "edition": 143,
+  "date": 1665816670569,
+  "attributes": [
+    {
+      "trait_type": "Archetype",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Virgo"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Leo"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Gemini"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Lilac"
+    },
+    {
+      "trait_type": "Hair Back",
+      "value": "High Buns"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Dusk"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Dangly Bones"
+    },
+    {
+      "trait_type": "Forehead",
+      "value": "Mage Mark Moon (White)"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Victorian Frippery"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Hooded Side (Brown)"
+    },
+    {
+      "trait_type": "Hair Front",
+      "value": "Curtain"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Laughing"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Woeful"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Dog (Corgi)"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

@@ -1,0 +1,72 @@
+{
+  "dna": "937a55789db723cecda2624a91b8be3714f335078cf30fcc64602f925b1d8a40",
+  "name": "WITCH #5",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/5.png",
+  "imageHash": "58dfb101f92a1a5ae7bda55ce05a397d8de0b2a5478e0cbf6a4455aea85d0e17",
+  "edition": 5,
+  "date": 1665805241139,
+  "attributes": [
+    {
+      "trait_type": "Archetype",
+      "value": "Occultist"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Aquarius"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Aquarius"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Cancer"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Lilac"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Smol Horns"
+    },
+    {
+      "trait_type": "Hair Back",
+      "value": "Dramatic Swoop"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Sunset"
+    },
+    {
+      "trait_type": "Forehead",
+      "value": "Darkened Demon Third Eye (Amber)"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Off Shoulder Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Hooded Side (Voilet)"
+    },
+    {
+      "trait_type": "Hair Front",
+      "value": "Dramatic Swoop"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smirk"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Surprised Bubble"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

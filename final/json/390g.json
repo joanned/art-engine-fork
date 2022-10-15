@@ -1,0 +1,76 @@
+{
+  "dna": "ff4385376d5adde56691a0ff15db97eaa3cd98cfa7dcc08ab5468dfab72be880",
+  "name": "WITCH #390",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/390.png",
+  "imageHash": "8dc21b2a16c62abc7df068ae76a8c6e6e6c4bc5216477e60d7e393d7dbfcb36c",
+  "edition": 390,
+  "date": 1665790863132,
+  "attributes": [
+    {
+      "trait_type": "layers",
+      "value": "Archetype"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Enchantress"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Capricorn"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Gemini"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Aries"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "Blonde"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Taupe"
+    },
+    {
+      "trait_type": "Hair Back",
+      "value": "Braided Pigtails"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Twilight"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Beaded Tassle (Ruby)"
+    },
+    {
+      "trait_type": "Forehead",
+      "value": "Music Mark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Elegant Shirt (Red Skirt)"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Delighted (Brown)"
+    },
+    {
+      "trait_type": "Hair Front",
+      "value": "Curtain"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Elegant"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

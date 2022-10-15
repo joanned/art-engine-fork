@@ -1,0 +1,80 @@
+{
+  "dna": "469519a53c383a83816bf10173961498490106b0eb509c8fb1a7025efbfca4f2",
+  "name": "WITCH #415",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/415.png",
+  "imageHash": "30b95106b37c0188d2748f8c6364529cf0f5a43dd1513e7d9bf9ad68fc43d8a8",
+  "edition": 415,
+  "date": 1665802290402,
+  "attributes": [
+    {
+      "trait_type": "layers",
+      "value": "Archetype"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Enchantress"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Virgo"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Leo"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Capricorn"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "White"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Many Eyed Hat"
+    },
+    {
+      "trait_type": "Hair Back",
+      "value": "Long"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Twilight"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Off Shoulder Shirt"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "Ring Collar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Teary Closed (Brown)"
+    },
+    {
+      "trait_type": "Hair Front",
+      "value": "Xuannu"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Elegant"
+    },
+    {
+      "trait_type": "Face Accessories",
+      "value": "Octagon Glasses (White)"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

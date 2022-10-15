@@ -1,0 +1,76 @@
+{
+  "dna": "a1bee7a41e3a4b231d8886753fb42e1ba175e9d1a404a817624f3ab5be0936b0",
+  "name": "WITCH #167",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/167.png",
+  "imageHash": "513fde04fa174498866782381c6450dd8c4537d6e3bf41142307d493b46d14df",
+  "edition": 167,
+  "date": 1665811723880,
+  "attributes": [
+    {
+      "trait_type": "Archetype",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Capricorn"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Leo"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Aquarius"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Back Item",
+      "value": "Scripted Circle (White)"
+    },
+    {
+      "trait_type": "Hair Back",
+      "value": "Braided Pigtails"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Sunset"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Off Shoulder Shirt"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "Ring Collar"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Delighted (Brown)"
+    },
+    {
+      "trait_type": "Hair Front",
+      "value": "Soft Bob"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Relaxed Bubble"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Dog (Corgi)"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

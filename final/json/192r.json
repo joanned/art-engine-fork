@@ -1,0 +1,76 @@
+{
+  "dna": "61156f278182ec2abf06da0e152b04dbe60587f2929d2a7044023a951f056b74",
+  "name": "WITCH #192",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/192.png",
+  "imageHash": "2d4f7ad0b398edfc92fa1f7aaae37c931ca4b8f0c0d5a479d35e44f15c406bdf",
+  "edition": 192,
+  "date": 1665851497186,
+  "attributes": [
+    {
+      "trait_type": "Archetype",
+      "value": "Necromancer"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Pisces"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Sagittarius"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Aries"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "White"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Twin Snakes Hat"
+    },
+    {
+      "trait_type": "Hair Back",
+      "value": "High Pigtails"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Twilight"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Dangly Bones"
+    },
+    {
+      "trait_type": "Forehead",
+      "value": "Music Mark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Open Collar with Bow (Pink)"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Doe-eyed (Blue)"
+    },
+    {
+      "trait_type": "Hair Front",
+      "value": "Curtain"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smirk"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Woeful"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

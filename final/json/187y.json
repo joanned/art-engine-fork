@@ -1,0 +1,80 @@
+{
+  "dna": "3aa778c350444d1eeb14ee8e8ca551034aa30501fae9a6d012a5f401dd8bba96",
+  "name": "WITCH #187",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/187.png",
+  "imageHash": "6d83279b6b2a14bbf807bc194b1585482cbbab02e7d3dc65c0984c0183558115",
+  "edition": 187,
+  "date": 1665849834563,
+  "attributes": [
+    {
+      "trait_type": "Archetype",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Aquarius"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Aries"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Pisces"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "White"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Back Item",
+      "value": "Scripted Circle (White)"
+    },
+    {
+      "trait_type": "Hair Back",
+      "value": "Braided Pigtails"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Sunset"
+    },
+    {
+      "trait_type": "Forehead",
+      "value": "Mage Mark Moon (White)"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Off Shoulder Long Sleeve"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "Ethereum Necklace (Gold)"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cateye (Brown)"
+    },
+    {
+      "trait_type": "Hair Front",
+      "value": "Xuannu"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smirk"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Woeful"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Dog (Corgi)"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

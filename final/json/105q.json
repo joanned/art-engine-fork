@@ -1,0 +1,76 @@
+{
+  "dna": "223e9bb7f76a1a96c11ef89b07e415c74f4ff349526a10fa9d304b594000276f",
+  "name": "WITCH #4",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/4.png",
+  "imageHash": "352ebb62eb34369ac43b239061fcefec13ad9234868b405e6ddb1514afa02e4d",
+  "edition": 4,
+  "date": 1665790285723,
+  "attributes": [
+    {
+      "trait_type": "layers",
+      "value": "Archetype"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Virgo"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Sagittarius"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Virgo"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Hair Back",
+      "value": "Lower Buns"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Twilight"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Off Shoulder Shirt"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "Moon Necklace"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Doe-eyed (Brown)"
+    },
+    {
+      "trait_type": "Hair Front",
+      "value": "Xuannu"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smirk"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Relaxed Bubble"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Hoodlondon Hathor"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

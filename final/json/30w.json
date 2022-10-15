@@ -1,0 +1,60 @@
+{
+  "dna": "c43e0edf640e6b026c4289e93deb3cdafac85012554e990dbc8e084048b695a1",
+  "name": "WITCH #14",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/14.png",
+  "imageHash": "4d73a2dc69f2bcd68954714ba21637dec26e60d126432f4a35ee839a79acda37",
+  "edition": 14,
+  "date": 1664145379148,
+  "attributes": [
+    {
+      "trait_type": "layers",
+      "value": "Archetype"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Seer"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Lilac"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Dusk"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Beaded Tassle (Emerald)"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Off Shoulder Shirt"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "Ethereum Necklace (Indigo)"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Hooded Side (Blue)"
+    },
+    {
+      "trait_type": "Hair Front",
+      "value": "Curl Clouds"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Lollipop"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Woeful"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

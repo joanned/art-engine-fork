@@ -1,0 +1,68 @@
+{
+  "dna": "50636099ad4635ed3d243e72bc93f7ad1360e40abc7a14782230cc77e2d7b2c1",
+  "name": "WITCH #286",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/286.png",
+  "imageHash": "934bcc73d8a60271bb5454fcf0bc98485248bca4d4f721256e737813255ebc8a",
+  "edition": 286,
+  "date": 1665810927637,
+  "attributes": [
+    {
+      "trait_type": "Archetype",
+      "value": "Seer"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Leo"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Aries"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Cancer"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Taupe"
+    },
+    {
+      "trait_type": "Hair Back",
+      "value": "Flowy Pony"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Sunset"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Mugler Collarbone Cutout (Black)"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Delighted (Blue)"
+    },
+    {
+      "trait_type": "Hair Front",
+      "value": "Xuannu"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smirk"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Woeful"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Hair Bow (Black)"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

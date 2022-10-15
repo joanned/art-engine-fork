@@ -1,0 +1,68 @@
+{
+  "dna": "12892de70b5050d93fe97be4c2f75f58efff8d1f8cbb377773183a9c61f3ddda",
+  "name": "WITCH #280",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/280.png",
+  "imageHash": "7ceed7d5d76948459280dc3774ad88a454e717ea66797ff82d5e7c39c2e4f6a2",
+  "edition": 280,
+  "date": 1665816870645,
+  "attributes": [
+    {
+      "trait_type": "Archetype",
+      "value": "Necromancer"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Taurus"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Aries"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Pisces"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Taupe"
+    },
+    {
+      "trait_type": "Hair Back",
+      "value": "Long"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Twilight"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Off Shoulder Long Sleeve"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cateye (Violet)"
+    },
+    {
+      "trait_type": "Hair Front",
+      "value": "Soft Bob"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smirk"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Relaxed Bubble"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Cat (White)"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

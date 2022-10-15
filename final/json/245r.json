@@ -1,0 +1,80 @@
+{
+  "dna": "aca8eb01fb2ebb3595c2a6fda443751b622a716dcfff1ccbd4ac51369822cb86",
+  "name": "WITCH #245",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/245.png",
+  "imageHash": "b1c3160867c396830e30976ba07a9fa97cc0f9d4cfb024081fe04d1c7eed90a9",
+  "edition": 245,
+  "date": 1665851576456,
+  "attributes": [
+    {
+      "trait_type": "Archetype",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Sagittarius"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Taurus"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Libra"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "Blonde"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Taupe"
+    },
+    {
+      "trait_type": "Back Item",
+      "value": "Scripted Circle (White)"
+    },
+    {
+      "trait_type": "Hair Back",
+      "value": "Lower Buns"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Twilight"
+    },
+    {
+      "trait_type": "Forehead",
+      "value": "Mage Mark Moon (Blue)"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Off Shoulder Shirt"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "Moon Necklace"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cateye (Brown)"
+    },
+    {
+      "trait_type": "Hair Front",
+      "value": "Curtain"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Laughing"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Woeful"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Hair Bow (Black)"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

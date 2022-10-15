@@ -1,0 +1,72 @@
+{
+  "dna": "5b01c51b9e868898a34881f4322a1223a10e9480816e201bcadc331bf5dfcca7",
+  "name": "WITCH #6",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/6.png",
+  "imageHash": "da48b09e1addbd9fa0b12b9ddf8a32a31e9fa08c70018cf180c79aba487ca500",
+  "edition": 6,
+  "date": 1665816474748,
+  "attributes": [
+    {
+      "trait_type": "Archetype",
+      "value": "Enchantress"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Sagittarius"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Taurus"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Pisces"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "White"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Hair Back",
+      "value": "Long"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Twilight"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Dangly Bones"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Off Shoulder Shirt"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cateye (Violet)"
+    },
+    {
+      "trait_type": "Hair Front",
+      "value": "Soft Bob"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Woeful"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Wrapped Dita Disk"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

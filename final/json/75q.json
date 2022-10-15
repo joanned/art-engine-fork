@@ -1,0 +1,72 @@
+{
+  "dna": "1b243b3a827b74839b3c1c38ea76cb3db1dd5cce3813835072db443bdba2fce6",
+  "name": "WITCH #75",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/75.png",
+  "imageHash": "81f722d1b9fa95d4295e4ff54c69dc0dc180d7147726c66579c26c8c1b4ef160",
+  "edition": 75,
+  "date": 1664167139228,
+  "attributes": [
+    {
+      "trait_type": "layers",
+      "value": "Archetype"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Libra"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Aquarius"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Aquarius"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Lilac"
+    },
+    {
+      "trait_type": "Hair Back",
+      "value": "High Pigtails"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Twilight"
+    },
+    {
+      "trait_type": "Forehead",
+      "value": "Mage Mark Moon (White)"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Victorian Frippery"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cateye (Blue)"
+    },
+    {
+      "trait_type": "Hair Front",
+      "value": "Xuannu"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Laughing"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Elegant"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

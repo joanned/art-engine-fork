@@ -445,6 +445,18 @@ const isDnaUnique = (_DnaList, _dna = []) => {
   return !dnaList.has(_dna);
 };
 
+const DARK_HAIR_COLORS = [
+  'Brown',
+  'Black',
+  'Magenta',
+  'Blonde'
+];
+
+const DARK_SKIN = [
+  'Dusk',
+  'Mightnight',
+];
+
 // expecting to return an array of strings for each _layer_ that is picked,
 // should be a flattened list of all things that are picked randomly AND reqiured
 /**
@@ -470,15 +482,31 @@ function pickRandomElement(
 ) {
   console.log(dnaInfo)
   const hairColor = dnaInfo['Hair Color'];
+  const skinColor = dnaInfo['Skin Tone'];
 
   let totalWeight = 0;
   // Does this layer include a forcedDNA item? ya? just return it.
   const forcedPick = layer.elements.find((element) => {
-    let useColor = false;
-    if (hairColor) {
-      useColor = element.name.includes(`_${hairColor}`);
+    let force = false;
+    force = forcedDNA.includes(element.name);
+
+    if (force) {
+      return true;
     }
-    return (forcedDNA.includes(element.name) || useColor);
+
+    if (hairColor) {
+      return element.name.includes(`_${hairColor}`);
+    }
+
+    if (hairColor && DARK_HAIR_COLORS.includes(hairColor)) {
+      return element.name.includes('_Dark');
+    }
+
+    if (skinColor) {
+      return element.name.includes(`_${skinColor}`);
+    }
+
+    return force;
   });
 
 

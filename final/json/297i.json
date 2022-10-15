@@ -1,0 +1,72 @@
+{
+  "dna": "6be969106f2d5ba021cbba937608c84b5d97b998aeb570afcdc24e4eec6eaeff",
+  "name": "WITCH #297",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/297.png",
+  "imageHash": "4b6241b2e7b1dd3a7cab96b4feb615876ec3272eba19ca574b0518803be8e7f2",
+  "edition": 297,
+  "date": 1665847840228,
+  "attributes": [
+    {
+      "trait_type": "Archetype",
+      "value": "Occultist"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Pisces"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Sagittarius"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Aquarius"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Lilac"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Many Eyed Hat"
+    },
+    {
+      "trait_type": "Hair Back",
+      "value": "Braided Pigtails"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Twilight"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Pearly Skulls"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Off Shoulder Long Sleeve"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Doe-eyed (Violet)"
+    },
+    {
+      "trait_type": "Hair Front",
+      "value": "Soft Bob"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smirk"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Surprised Bubble"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

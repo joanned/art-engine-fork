@@ -1,0 +1,68 @@
+{
+  "dna": "57362f1fa2bb515cea2d333a0f37617e85a1299184b425233ce36b23f7e5529b",
+  "name": "WITCH #9",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/9.png",
+  "imageHash": "d8398a91b485439182619fa4d85aea54c8c91caa27cf85342e8823881cbdc792",
+  "edition": 9,
+  "date": 1660873087458,
+  "attributes": [
+    {
+      "trait_type": "layers",
+      "value": "Archetype"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Lilac"
+    },
+    {
+      "trait_type": "Hair Back",
+      "value": "Flowy Pony"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Twilight"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Dangly Bones"
+    },
+    {
+      "trait_type": "Face Markings",
+      "value": "Ethereum Diadem"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Sheer Striped"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "Ethereum Necklace"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Doe-eyed (Lilac)"
+    },
+    {
+      "trait_type": "Hair Front",
+      "value": "Soft Bob"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Lollipop"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Elegant"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

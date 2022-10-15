@@ -1,0 +1,76 @@
+{
+  "dna": "3e3f706bb0b236dd6b635cd91ca50a68724023ba22bce0778af7ed77dbc8a3c5",
+  "name": "WITCH #232",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/232.png",
+  "imageHash": "a1d84ad9106693cf9e166a65f9ec106e0aa187e0c0d0707e5cc8a98e434cedd4",
+  "edition": 232,
+  "date": 1665851556662,
+  "attributes": [
+    {
+      "trait_type": "Archetype",
+      "value": "Occultist"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Sagittarius"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Gemini"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Libra"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "White"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Back Item",
+      "value": "Scripted Circle (White)"
+    },
+    {
+      "trait_type": "Hair Back",
+      "value": "Braided Pigtails"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Twilight"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Dangly Bones"
+    },
+    {
+      "trait_type": "Forehead",
+      "value": "Mage Mark Moon (White)"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Elegant Shirt (Gray Skirt)"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Teary Closed (Brown)"
+    },
+    {
+      "trait_type": "Hair Front",
+      "value": "Curtain"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Laughing"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Woeful"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

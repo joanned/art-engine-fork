@@ -1,0 +1,80 @@
+{
+  "dna": "cf8f71fec3093726c9e76299eb50a2975cf2990d62f6ff626685974d3c793acb",
+  "name": "WITCH #104",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/104.png",
+  "imageHash": "70e12462cf2169fd07dd29e2446688086477bf513a4da7f6dbc9714e61c84cba",
+  "edition": 104,
+  "date": 1665790433926,
+  "attributes": [
+    {
+      "trait_type": "layers",
+      "value": "Archetype"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Mage"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Capricorn"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Taurus"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Scorpio"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "White"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Back Item",
+      "value": "Scripted Circle (White)"
+    },
+    {
+      "trait_type": "Hair Back",
+      "value": "Braided Pigtails"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Sunset"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Off Shoulder Long Sleeve"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cateye (Olive)"
+    },
+    {
+      "trait_type": "Hair Front",
+      "value": "Curtain"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Acute"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Elegant"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Dog (Corgi)"
+    },
+    {
+      "trait_type": "Face Accessories",
+      "value": "Octagon Glasses (White)"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

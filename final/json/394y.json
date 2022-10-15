@@ -1,0 +1,72 @@
+{
+  "dna": "f6dd4ee28c2bb569b8af0f4f190279c0811f36b66cb80942f734b0b7d0986ef9",
+  "name": "WITCH #394",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/394.png",
+  "imageHash": "8618b4704b38c4a42d701106fd2d541328c8ffddea7a0729306e10b9100d558b",
+  "edition": 394,
+  "date": 1665815502101,
+  "attributes": [
+    {
+      "trait_type": "Archetype",
+      "value": "Enchantress"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Libra"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Leo"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Capricorn"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Hair Back",
+      "value": "Braided Pigtails"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Dusk"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Beaded Tassle (Ruby)"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Puff Top (Red Skirt)"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed (Brown)"
+    },
+    {
+      "trait_type": "Hair Front",
+      "value": "Soft Bob"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smirk"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Woeful"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Wrapped Dita Disk (Red Roses)"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

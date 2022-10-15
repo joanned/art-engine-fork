@@ -1,0 +1,76 @@
+{
+  "dna": "65eccea91876f806fccc45c4d254474705466e089805dbf293d8faca463ff8c7",
+  "name": "WITCH #137",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/137.png",
+  "imageHash": "c7e4ec4462010e689d158d6f02acb5b8a1de74c4b1b2acb2181e44c95116770d",
+  "edition": 137,
+  "date": 1665805683976,
+  "attributes": [
+    {
+      "trait_type": "Archetype",
+      "value": "Occultist"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Taurus"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Scorpio"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Virgo"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "Magenta"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Lilac"
+    },
+    {
+      "trait_type": "Back Item",
+      "value": "Scripted Circle (White)"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Sunset"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Pearly Skulls"
+    },
+    {
+      "trait_type": "Forehead",
+      "value": "Mage Mark Moon (White)"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Elegant Shirt (Gray Skirt)"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Delighted (Brown)"
+    },
+    {
+      "trait_type": "Hair Front",
+      "value": "Curtain"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Woeful"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Dog (Corgi)"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

@@ -1,0 +1,80 @@
+{
+  "dna": "fe7e695ad3ef5f263a6807fbeb04aa4c9b73ad663665f1704523e47a68237fc2",
+  "name": "WITCH #30",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/30.png",
+  "imageHash": "9a485f8a22f00793e7ac914b9e48b4e5a5f077c463e1b351b1326a64ddc933d1",
+  "edition": 30,
+  "date": 1665790324977,
+  "attributes": [
+    {
+      "trait_type": "layers",
+      "value": "Archetype"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Cancer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Leo"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Taurus"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Lilac"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Peony Crown (Pink)"
+    },
+    {
+      "trait_type": "Hair Back",
+      "value": "High Pigtails"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Dusk"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Tiny Hoops"
+    },
+    {
+      "trait_type": "Forehead",
+      "value": "Music Mark"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Puff Top (Red Skirt)"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Doe-eyed (Blue)"
+    },
+    {
+      "trait_type": "Hair Front",
+      "value": "Curtain"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Laughing"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Woeful"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

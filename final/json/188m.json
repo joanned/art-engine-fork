@@ -1,0 +1,72 @@
+{
+  "dna": "cd410637cc8c9cbfabc914b3d2b24e1e9427162a9086a036b7fcc8e67c52fe37",
+  "name": "WITCH #188",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/188.png",
+  "imageHash": "58e5f17342cf8cd3dafc08ee0d397925097a0347e752d69de4b8ea7604b3c424",
+  "edition": 188,
+  "date": 1665849836033,
+  "attributes": [
+    {
+      "trait_type": "Archetype",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Virgo"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Aquarius"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Scorpio"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Hair Back",
+      "value": "Braided Pigtails"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Sunset"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Beaded Tassle (Pink)"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Elegant Shirt (Pink Skirt)"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cateye (Brown)"
+    },
+    {
+      "trait_type": "Hair Front",
+      "value": "Curtain"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smirk"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Elegant"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Hair Bow (Black)"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

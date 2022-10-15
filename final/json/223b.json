@@ -1,0 +1,68 @@
+{
+  "dna": "af9ae1e8fec297a26da7afabe1200e62c79a2588d478473ea9d73719348b647d",
+  "name": "WITCH #223",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/223.png",
+  "imageHash": "701e925f8ec2749d3f1016aacc43c181a28dde6196992d6ae7dbadcd74e08f5d",
+  "edition": 223,
+  "date": 1665805816205,
+  "attributes": [
+    {
+      "trait_type": "Archetype",
+      "value": "Occultist"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Cancer"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Virgo"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Scorpio"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Taupe"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Crown of Pearls"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Dusk"
+    },
+    {
+      "trait_type": "Forehead",
+      "value": "Darkened Demon Third Eye (Amethyst)"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Victorian Frippery"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Closed (Brown)"
+    },
+    {
+      "trait_type": "Hair Front",
+      "value": "Curl Clouds"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smirk"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Elegant"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

@@ -1,0 +1,72 @@
+{
+  "dna": "10f543e78c189d6835014791bacd9fabcd411f0ecbd55ebbb19fd7f5b4897393",
+  "name": "WITCH #456",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/456.png",
+  "imageHash": "d027b6819f87e780011c519f034a0172f5783d31c615d56ab58ca77e4ac541f3",
+  "edition": 456,
+  "date": 1665851894265,
+  "attributes": [
+    {
+      "trait_type": "Archetype",
+      "value": "Seer"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Pisces"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Cancer"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Sagittarius"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Hair Back",
+      "value": "Dramatic Swoop"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Twilight"
+    },
+    {
+      "trait_type": "Forehead",
+      "value": "Punks Tiara"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Elegant Shirt (Gray Skirt)"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Delighted (Violet)"
+    },
+    {
+      "trait_type": "Hair Front",
+      "value": "Dramatic Swoop"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Laughing"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Elegant"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Dita Disk"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

@@ -1,0 +1,72 @@
+{
+  "dna": "decd87527362fa42ec927bd65972b9ed498bad5c56a3440ff208f95a29a94df6",
+  "name": "WITCH #362",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/362.png",
+  "imageHash": "ca8d96c76151568311fec3aacfdd02a67324d3da24f77dadefb571000c3884b1",
+  "edition": 362,
+  "date": 1665851749618,
+  "attributes": [
+    {
+      "trait_type": "Archetype",
+      "value": "Enchantress"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Leo"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Capricorn"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Scorpio"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Hair Back",
+      "value": "Flowy Pony"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Dusk"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Tiny Hoops"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Off Shoulder Long Sleeve"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "Mini Moon Necklace"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cateye (Olive)"
+    },
+    {
+      "trait_type": "Hair Front",
+      "value": "Curl Clouds"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smirk"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Elegant"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

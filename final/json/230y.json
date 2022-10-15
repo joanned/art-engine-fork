@@ -1,0 +1,64 @@
+{
+  "dna": "a3483f36f0bcc59014f44c0a134fe5803606e9bba289e091f68466c55c936f0f",
+  "name": "WITCH #230",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/230.png",
+  "imageHash": "bc5758c28bea25b794387d33b49dc1b4ac223c884062e162d06ccfc642efd336",
+  "edition": 230,
+  "date": 1665815260705,
+  "attributes": [
+    {
+      "trait_type": "Archetype",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Aquarius"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Leo"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Libra"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "Magenta"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Sunset"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Victorian Frippery"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Doe-eyed (Brown)"
+    },
+    {
+      "trait_type": "Hair Front",
+      "value": "Soft Bob"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smirk"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Surprised Bubble"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Wrapped Dita Disk (Red Roses)"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

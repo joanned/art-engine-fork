@@ -43,11 +43,29 @@ const background = {
 
 const layerConfigurations = [
   {
-    growEditionSizeTo: 20,
+    growEditionSizeTo: 500,
     namePrefix: "WITCH", // Use to add a name to Metadata `name:`
     layersOrder: [
       {
         name: "Archetype",
+        options: {
+          bypassDNA: true,
+        },
+      },
+      {
+        name: "Moon Sign",
+        options: {
+          bypassDNA: true,
+        },
+      },
+      {
+        name: "Sun Sign",
+        options: {
+          bypassDNA: true,
+        },
+      },
+      {
+        name: "Rising Sign",
         options: {
           bypassDNA: true,
         },
@@ -62,7 +80,11 @@ const layerConfigurations = [
         },
       },
       {
-        name: "Organize-TopHead",
+        name: "Back Item",
+      },
+      {
+        name: "Headwear",
+        trait: "Headwear"
       },
       {
         name: "Hair Back",
@@ -70,7 +92,8 @@ const layerConfigurations = [
       },
       { name: "Skin Tone" },
       { name: "Earrings" },
-      { name: "Face Markings" },
+      { name: "Face Accessories" },
+      { name: "Forehead" },
       {
         name: "Clothing",
         sublayerOptions: {
@@ -109,29 +132,39 @@ const debugLogs = true;
 const emptyLayerName = "NONE";
 
 const HAG_ONLY = [
-  // 'Peony Crown (Pink)',
-  // 'Moon Mark (White)',
-  // 'Nega Moon Mark (Black)',
+  'Peony Crown (Pink)',
+  'Moon Mark (White)',
+  'Nega Moon Mark (Black)',
+  'Mushroom'
 ];
 
 const ENCHANTRESS_ONLY = [
-
+  'Crown of Pearls',
+  'Pearly Headband'
 ];
 
 const MAGE_ONLY = [
-  // 'Mage Mark Moon (White)',
+  'Mage Mark Moon (White)',
+  'Scripted Circle',
+  'Mage Mark Moon (Blue)',
+  'Mage Mark Moon (White)',
+  'Moon Mark (White)',
+  'Nega Moon Mark (Black)'
 ];
 
 const NECROMANCER_ONLY = [
-
+  'Maleficent Horns',
+  'Smol Horns'
 ];
 
 const OCCULTIST_ONLY = [
-
+  'Smol Horns',
+  'Darkened Demon Third Eye'
 ];
 
 const SEER_ONLY = [
-
+  'Smol Horns',
+  'Raised Third Eye'
 ];
 
 const HAIR_BACK_UPPER = [
@@ -158,27 +191,40 @@ const incompatible = {
   'Teary Closed (Brown)': ['Surprised Bubble', 'Relaxed Bubble'],
 
   'Dangly Bones': ['Baby Drill Curls', 'Xuannu'],
+  'Pearly Skulls': ['Baby Drill Curls', 'Xuannu', 'Curl Clouds'],
   'Witch': ['Baby Drill Curls', ...HAIR_BACK_UPPER],
   'High Buns': ['Peony Crown (Pink)', 'Dramatic Swoop', 'Curl Clouds'],
   'High Pigtails': ['Curl Clouds'],
   'Peony Crown (Pink)': ['High Buns'],
   'Long': ['Curl Clouds'],
-  'Xuannu': ['Round'],
+  'Xuannu': ['Round', 'Surprised Bubble'],
   'Curtain': ['Round', 'Surprised Bubble', 'Relaxed Bubble'],
   'Braided Pigtails': ['Curl Clouds'],
   'Maleficent Horns': ['High Buns'],
+  'Dramatic Swoop': ['Crown of Pearls', 'Pearly Headband', 'Hair Bow', 'Cat', 'Dog (Corgi)'],
+  'Earrings': ['Baby Drill Curls', 'Xuannu'],
+  'Beaded Tassle': ['Baby Drill Curls', 'Xuannu'],
+  'Punks Tiara': ['Soft Bob'],
+  'Darkened Demon Third Eye': ['Soft Bob'],
+
 
   'Mugler Collarbone Cutout': ['Ring Collar', 'Moon Necklace'],
-  'Open Collar with Bow': ['Ring Collar', 'Moon Necklace'],
-  'Puff Top': ['Ring Collar', 'Moon Necklace'],
-  'Victorian Frippery': ['Ring Collar', 'Moon Necklace'],
+  'Open Collar with Bow': ['Ring Collar', 'Moon Necklace', 'Ethereum Necklace (Indigo)', 'Ethereum Necklace (Gold)', 'Mini Moon Necklace'],
+  'Puff Top': ['Ring Collar', 'Moon Necklace', 'Ethereum Necklace (Indigo)', 'Ethereum Necklace (Gold)'],
+  'Victorian Frippery': ['Ring Collar', 'Moon Necklace', 'Ethereum Necklace (Indigo)', 'Ethereum Necklace (Gold)'],
   'Dita Disk': [...HAIR_BACK_UPPER],
   'Dita Disk Wrapped': ['Open Collar with Bow'],
 
   'Hat': ['Flowy Pony', 'High Buns', 'Keridwen', 'Curl Clouds'],
   'Dog (Corgi)': ['Flowy Pony'],
   'Cat (White)': ['Flowy Pony'],
-
+  'Smol Horns': ['Curl Clouds'],
+  'Scripted Circle': ['Hat', 'Curl Clouds'],
+  'Forehead': ['Soft Bob'],
+  'Keridwen': ['Curl Clouds'],
+  'Curl Clouds': ['Pearly Headband'],
+  'Lilac': ['Crown of Pearls'],
+  'Purple': ['Crown of Pearls'],
   // archetype
   'Enchantress': [...HAG_ONLY, ...MAGE_ONLY, ...NECROMANCER_ONLY, ...OCCULTIST_ONLY, ...SEER_ONLY],
   'Hag': [...ENCHANTRESS_ONLY, ...MAGE_ONLY, ...NECROMANCER_ONLY, ...OCCULTIST_ONLY, ...SEER_ONLY],
