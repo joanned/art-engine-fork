@@ -233,29 +233,24 @@ var files = fs.readdirSync('./final/json/');
 const filteredFiles = files.filter(file => file.includes('.json'));
 console.log(filteredFiles.length)
 
-filteredFiles.forEach((item, i) => {
-  const numberpart = item.slice(0, -6);
-  if (item.includes('b')) {
-    fs.rename(`./final/json/${item}`, `./final/json/${numberpart}a.json`, function(err) {
-      if ( err ) console.log('ERROR: ' + err);
-    });
-  }
-});
-
-//
-// const shuffledFiles = filteredFiles.sort(() => 0.5 - Math.random());
-//
-// shuffledFiles.forEach((item, i) => {
-//   fs.rename(`./final/json/${item}`, `./final/json/${i+1}.json`, function(err) {
-//     if ( err ) console.log('ERROR: ' + err);
-//   });
-//
-//   const s = item.slice(0, -4);
-//   const cut = s.slice(0, -1);
-//   const cutmore = s.slice(0, -2);
-//   const letter = cut.slice(-1);
-//   // console.log({ s, cut, letter})
-//   fs.rename(`./final/images/${letter === 'b' ? `${cutmore}a.` : s}png`, `./final/images/${i+1}.png`, function(err) {
-//     if ( err ) console.log('ERROR: ' + err);
-//   });
+// filteredFiles.forEach((item, i) => {
+//   const numberpart = item.slice(0, -6);
+//   if (item.includes('b')) {
+//     fs.rename(`./final/json/${item}`, `./final/json/${numberpart}a.json`, function(err) {
+//       if ( err ) console.log('ERROR: ' + err);
+//     });
+//   }
 // });
+
+
+const shuffledFiles = filteredFiles.sort(() => 0.5 - Math.random());
+
+shuffledFiles.forEach((item, i) => {
+  fs.rename(`./final/json/${item}`, `./final/json/${i+1}.json`, function(err) {
+    if ( err ) console.log('ERROR: ' + err);
+  });
+
+  fs.rename(`./final/images/${item}`, `./final/images/${i+1}.png`, function(err) {
+    if ( err ) console.log('ERROR: ' + err);
+  });
+});
