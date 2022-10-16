@@ -1,11 +1,11 @@
 {
-  "dna": "eedb4ef05c7eb40e85df551b766c389af279d614fd5224347feb98a33eb81e14",
-  "name": "WITCH #12",
+  "dna": "6c4f4e44a795baa83e2ba1053115aa51a94ff187e3549c18db27f344400f690b",
+  "name": "WITCH #2",
   "description": "This is the description of your NFT project, remember to replace this",
-  "image": "ipfs://NewUriToReplace/12.png",
-  "imageHash": "6c0081ceebedd74cb1705c2b2cb00cddbac9b9da3d3affdf9ee6d44b31953263",
-  "edition": 12,
-  "date": 1665790297493,
+  "image": "ipfs://NewUriToReplace/2.png",
+  "imageHash": "9b12b7f8c83b1577d73a55b1ec588513437d0925ce8f39dc0f25513f02728a9c",
+  "edition": 2,
+  "date": 1663657338575,
   "attributes": [
     {
       "trait_type": "layers",
@@ -13,27 +13,19 @@
     },
     {
       "trait_type": "Archetype",
-      "value": "Necromancer"
-    },
-    {
-      "trait_type": "Moon Sign",
-      "value": "Aries"
-    },
-    {
-      "trait_type": "Sun Sign",
-      "value": "Libra"
-    },
-    {
-      "trait_type": "Rising Sign",
-      "value": "Virgo"
+      "value": "Seer"
     },
     {
       "trait_type": "Hair Color",
-      "value": "White"
+      "value": "Light Lilac"
     },
     {
       "trait_type": "Background",
-      "value": "Taupe"
+      "value": "Lilac"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Twin Snakes"
     },
     {
       "trait_type": "Hair Back",
@@ -45,27 +37,35 @@
     },
     {
       "trait_type": "Earrings",
-      "value": "Tiny Hoops"
+      "value": "Dangly Bones"
+    },
+    {
+      "trait_type": "Face Markings",
+      "value": "Music Mark"
     },
     {
       "trait_type": "Clothing",
-      "value": "Off Shoulder Shirt"
+      "value": "Mock Neck"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "Ring Collar"
     },
     {
       "trait_type": "Eyes",
-      "value": "Doe-eyed (Olive)"
+      "value": "Closed (Brown)"
     },
     {
       "trait_type": "Hair Front",
-      "value": "Xuannu"
+      "value": "Curtain"
     },
     {
       "trait_type": "Mouth",
-      "value": "Laughing"
+      "value": "Smile"
     },
     {
       "trait_type": "Eyebrows",
-      "value": "Elegant"
+      "value": "Woeful"
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

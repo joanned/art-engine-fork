@@ -1,23 +1,31 @@
 {
-  "dna": "4c2c1767868fccb8e79c50cd08bed03c3f29cc62216cb5b700b878f8fe6a08e0",
-  "name": "WITCH #0",
+  "dna": "09c459b9f722e20961303cade6c31764ad1184774a48147aebf1efd0d61a7289",
+  "name": "WITCH #63",
   "description": "This is the description of your NFT project, remember to replace this",
-  "image": "ipfs://NewUriToReplace/0.png",
-  "imageHash": "334627240de1b6bd4b4e2d2b8664b32835134e6b6d9b2b65710818bd0cc4bac3",
-  "edition": 0,
-  "date": 1663658050781,
+  "image": "ipfs://NewUriToReplace/63.png",
+  "imageHash": "1f7f77f962c3365e5c81dbeb4eb208840de47b279472a630ce78dc172dc09591",
+  "edition": 63,
+  "date": 1665932633508,
   "attributes": [
-    {
-      "trait_type": "layers",
-      "value": "Archetype"
-    },
     {
       "trait_type": "Archetype",
       "value": "Seer"
     },
     {
+      "trait_type": "Moon Sign",
+      "value": "Virgo"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Gemini"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Aries"
+    },
+    {
       "trait_type": "Hair Color",
-      "value": "Magenta"
+      "value": "White"
     },
     {
       "trait_type": "Background",
@@ -25,11 +33,11 @@
     },
     {
       "trait_type": "Headwear",
-      "value": "Peony Crown (Pink)"
+      "value": "Twin Snakes Hat"
     },
     {
       "trait_type": "Hair Back",
-      "value": "Long"
+      "value": "Braided Pigtails"
     },
     {
       "trait_type": "Skin Tone",
@@ -37,23 +45,15 @@
     },
     {
       "trait_type": "Earrings",
-      "value": "Dangly Bones"
-    },
-    {
-      "trait_type": "Face Markings",
-      "value": "Ethereum Diadem"
+      "value": "Beaded Tassle (Ruby)"
     },
     {
       "trait_type": "Clothing",
-      "value": "Puff Top (Red Skirt)"
-    },
-    {
-      "trait_type": "Necklace",
-      "value": "Mini Moon Necklace"
+      "value": "Off Shoulder Long Sleeve"
     },
     {
       "trait_type": "Eyes",
-      "value": "Delighted (Brown)"
+      "value": "Cateye (Brown)"
     },
     {
       "trait_type": "Hair Front",

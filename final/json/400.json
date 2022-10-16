@@ -1,63 +1,71 @@
 {
-  "dna": "57362f1fa2bb515cea2d333a0f37617e85a1299184b425233ce36b23f7e5529b",
-  "name": "WITCH #9",
+  "dna": "99ee6193678bd95b074a9a2e74a89ef2afcc62d6d3cf2ccf94b1166fb0c13d71",
+  "name": "WITCH #29",
   "description": "This is the description of your NFT project, remember to replace this",
-  "image": "ipfs://NewUriToReplace/9.png",
-  "imageHash": "d8398a91b485439182619fa4d85aea54c8c91caa27cf85342e8823881cbdc792",
-  "edition": 9,
-  "date": 1660873087458,
+  "image": "ipfs://NewUriToReplace/29.png",
+  "imageHash": "4799ff9a8600f279f8218819061f2bbb0d5b582a86ce1ba045f72d4a75a6efc5",
+  "edition": 29,
+  "date": 1665932585445,
   "attributes": [
     {
-      "trait_type": "layers",
-      "value": "Archetype"
+      "trait_type": "Archetype",
+      "value": "Mage"
     },
     {
-      "trait_type": "Archetype",
-      "value": "Hag"
+      "trait_type": "Moon Sign",
+      "value": "Gemini"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Gemini"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Scorpio"
     },
     {
       "trait_type": "Hair Color",
-      "value": "Black"
+      "value": "Magenta"
     },
     {
       "trait_type": "Background",
       "value": "Lilac"
     },
     {
+      "trait_type": "Back Item",
+      "value": "Scripted Circle (White)"
+    },
+    {
       "trait_type": "Hair Back",
-      "value": "Flowy Pony"
+      "value": "Braided Pigtails"
     },
     {
       "trait_type": "Skin Tone",
-      "value": "Twilight"
+      "value": "Sunset"
     },
     {
       "trait_type": "Earrings",
-      "value": "Dangly Bones"
+      "value": "Pearly Skulls"
     },
     {
-      "trait_type": "Face Markings",
-      "value": "Ethereum Diadem"
+      "trait_type": "Forehead",
+      "value": "Mage Mark Moon (Blue)"
     },
     {
       "trait_type": "Clothing",
-      "value": "Sheer Striped"
-    },
-    {
-      "trait_type": "Necklace",
-      "value": "Ethereum Necklace"
+      "value": "Off Shoulder Long Sleeve"
     },
     {
       "trait_type": "Eyes",
-      "value": "Doe-eyed (Lilac)"
+      "value": "Cateye (Blue)"
     },
     {
       "trait_type": "Hair Front",
-      "value": "Soft Bob"
+      "value": "Curtain"
     },
     {
       "trait_type": "Mouth",
-      "value": "Lollipop"
+      "value": "Acute"
     },
     {
       "trait_type": "Eyebrows",
