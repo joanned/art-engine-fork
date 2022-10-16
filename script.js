@@ -250,7 +250,9 @@ shuffledFiles.forEach((item, i) => {
     if ( err ) console.log('ERROR: ' + err);
   });
 
-  fs.rename(`./final/images/${item}`, `./final/images/${i+1}.png`, function(err) {
+  const s = item.slice(0, -4);
+
+  fs.rename(`./final/images/${s}png`, `./final/images/${i+1}.png`, function(err) {
     if ( err ) console.log('ERROR: ' + err);
   });
 });
