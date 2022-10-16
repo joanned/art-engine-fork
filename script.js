@@ -241,7 +241,9 @@ shuffledFiles.forEach((item, i) => {
   });
 
   const s = item.slice(0, -4);
-  fs.rename(`./final/images/${s}png`, `./final/images/${i+1}.png`, function(err) {
+  const cut = s.slice(0, -1);
+  const letter = s.slice(-1);
+  fs.rename(`./final/images/${letter === 'a' ? `${cut}b.` : s}png`, `./final/images/${i+1}.png`, function(err) {
     if ( err ) console.log('ERROR: ' + err);
   });
 });
