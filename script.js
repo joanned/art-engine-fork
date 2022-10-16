@@ -236,7 +236,7 @@ console.log(filteredFiles.length)
 filteredFiles.forEach((item, i) => {
   const s = item.slice(0, -4);
   const pngfile = `${s}png`;
-  if (!fs.exists(`./final/json/${pngfile}`)) {
+  if (!fs.existsSync(`./final/images/${pngfile}`)) {
     console.log(item)
   }
 });
@@ -264,4 +264,4 @@ filteredFiles.forEach((item, i) => {
 //   fs.rename(`./final/images/${s}png`, `./final/images/${i+1}.png`, function(err) {
 //     if ( err ) console.log('ERROR: ' + err);
 //   });
-});
+// });
