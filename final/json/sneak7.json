@@ -13,11 +13,11 @@
     },
     {
       "trait_type": "Archetype",
-      "value": "Seer"
+      "value": "Necromancer"
     },
     {
       "trait_type": "Moon Sign",
-      "value": "Gemini"
+      "value": "Cancer"
     },
     {
       "trait_type": "Sun Sign",
@@ -29,15 +29,11 @@
     },
     {
       "trait_type": "Hair Color",
-      "value": "White"
+      "value": "Light Lilac"
     },
     {
       "trait_type": "Background",
-      "value": "Lilac"
-    },
-    {
-      "trait_type": "Hair Back",
-      "value": "Braided Pigtails"
+      "value": "Purple"
     },
     {
       "trait_type": "Skin Tone",
@@ -45,31 +41,35 @@
     },
     {
       "trait_type": "Clothing",
-      "value": "Mugler Collarbone Cutout (Black)"
+      "value": "Sheer Striped"
     },
     {
       "trait_type": "Eyes",
-      "value": "Delighted (Brown)"
+      "value": "Cateye (Light Voilet)"
     },
     {
       "trait_type": "Hair Front",
-      "value": "Soft Bob"
+      "value": "Dramatic Swoop"
     },
     {
       "trait_type": "Mouth",
-      "value": "Laughing"
+      "value": "Lollipop"
     },
     {
       "trait_type": "Eyebrows",
-      "value": "Elegant"
+      "value": "Round"
     },
     {
       "trait_type": "Headwear",
-      "value": "Witch Hat"
+      "value": "Maleficent Horns"
     },
     {
       "trait_type": "Earrings",
-      "value": "Dangly Bones"
+      "value": "Tiny Hoops"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "Ring Collar"
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"
