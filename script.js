@@ -229,9 +229,21 @@ const finalNames = namesWithMusts.sort(() => 0.5 - Math.random());
 console.log(finalNames);
 console.log(finalNames.length);
 
-var files = fs.readdirSync('./final/json/');
+var files = fs.readdirSync('./build/json/');
 const filteredFiles = files.filter(file => file.includes('.json'));
 console.log(filteredFiles.length)
+
+filteredFiles.forEach((filename, i) => {
+  const file = require(`./build/json/${filename}`);
+
+  file.name = finalNames[i].toLowerCase();
+  file.description = 'A smol pocket-sized WITCH that originates from the mini wilds.'
+
+  fs.writeFile(`./build/json/${filename}`, JSON.stringify(file), function writeJSON(err) {
+    if (err) return console.log(err);
+  });
+});
+
 
 // filteredFiles.forEach((item, i) => {
 //   const s = item.slice(0, -3);
@@ -252,18 +264,18 @@ console.log(filteredFiles.length)
 // });
 
 
-const shuffledFiles = filteredFiles.sort(() => 0.5 - Math.random());
-
-console.log(shuffledFiles.length)
-
-shuffledFiles.forEach((item, i) => {
-  fs.rename(`./final/json/${item}`, `./final/json/${i+1}.json`, function(err) {
-    if ( err ) console.log('ERROR: ' + err);
-  });
-
-  const s = item.slice(0, -4);
-
-  fs.rename(`./final/images/${s}png`, `./final/images/${i+1}.png`, function(err) {
-    if ( err ) console.log('ERROR: ' + err);
-  });
-});
+// const shuffledFiles = filteredFiles.sort(() => 0.5 - Math.random());
+//
+// console.log(shuffledFiles.length)
+//
+// shuffledFiles.forEach((item, i) => {
+//   fs.rename(`./final/json/${item}`, `./final/json/${i+1}.json`, function(err) {
+//     if ( err ) console.log('ERROR: ' + err);
+//   });
+//
+//   const s = item.slice(0, -4);
+//
+//   fs.rename(`./final/images/${s}png`, `./final/images/${i+1}.png`, function(err) {
+//     if ( err ) console.log('ERROR: ' + err);
+//   });
+// });
