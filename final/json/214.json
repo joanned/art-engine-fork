@@ -1,47 +1,39 @@
 {
-  "dna": "21a68477849a193f3d2bb61b85642c15d3bab62ec3cc9df6de4230ce955f818c",
-  "name": "WITCH #466",
+  "dna": "f14d3680e86f0b967d298c7fd877ee6ca911a6932a80fa6d4005fb0106fdc736",
+  "name": "bow bow",
   "description": "This is the description of your NFT project, remember to replace this",
-  "image": "ipfs://NewUriToReplace/466.png",
-  "imageHash": "72e288d98da5aa4a94e3575b7cf41054d006b2289c2f766bfc9dbab24ad219ed",
-  "edition": 466,
-  "date": 1665815608035,
+  "image": "ipfs://NewUriToReplace/2.png",
+  "imageHash": "1c41a65e40ed5b66220b47b1752c55a1b64367f01f7d42a16d2facd95832e943",
+  "edition": 2,
+  "date": 1665810506905,
   "attributes": [
     {
-      "trait_type": "Archetype",
-      "value": "Necromancer"
-    },
-    {
       "trait_type": "Moon Sign",
-      "value": "Leo"
-    },
-    {
-      "trait_type": "Sun Sign",
       "value": "Taurus"
     },
     {
-      "trait_type": "Rising Sign",
+      "trait_type": "Sun Sign",
       "value": "Aquarius"
     },
     {
+      "trait_type": "Rising Sign",
+      "value": "Pisces"
+    },
+    {
       "trait_type": "Hair Color",
-      "value": "Blonde"
+      "value": "White"
     },
     {
       "trait_type": "Background",
       "value": "Taupe"
     },
     {
-      "trait_type": "Hair Back",
-      "value": "High Buns"
-    },
-    {
-      "trait_type": "Skin Tone",
-      "value": "Twilight"
+      "trait_type": "Earrings",
+      "value": "Dangly Bones"
     },
     {
       "trait_type": "Clothing",
-      "value": "Off Shoulder Shirt"
+      "value": "Off Shoulder Long Sleeve"
     },
     {
       "trait_type": "Necklace",
@@ -49,15 +41,15 @@
     },
     {
       "trait_type": "Eyes",
-      "value": "Doe-eyed (Brown)"
+      "value": "Hooded Side (Blue)"
     },
     {
       "trait_type": "Hair Front",
-      "value": "Xuannu"
+      "value": "Soft Bob"
     },
     {
       "trait_type": "Mouth",
-      "value": "Smile"
+      "value": "Smirk"
     },
     {
       "trait_type": "Eyebrows",
@@ -65,7 +57,7 @@
     },
     {
       "trait_type": "Headwear",
-      "value": "Dog (Corgi)"
+      "value": "Hair Bow (Black)"
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

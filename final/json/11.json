@@ -1,15 +1,15 @@
 {
-  "dna": "21a68477849a193f3d2bb61b85642c15d3bab62ec3cc9df6de4230ce955f818c",
-  "name": "WITCH #466",
+  "dna": "58b705e69785992873cc705283811482db23b563e4b84bb97dbbac06393a0382",
+  "name": "WITCH #198",
   "description": "This is the description of your NFT project, remember to replace this",
-  "image": "ipfs://NewUriToReplace/466.png",
-  "imageHash": "72e288d98da5aa4a94e3575b7cf41054d006b2289c2f766bfc9dbab24ad219ed",
-  "edition": 466,
-  "date": 1665815608035,
+  "image": "ipfs://NewUriToReplace/198.png",
+  "imageHash": "9d955a347d601456e613d1cb39ffc459b4a91ca6775edbc68c9c00639e289776",
+  "edition": 198,
+  "date": 1665804981393,
   "attributes": [
     {
       "trait_type": "Archetype",
-      "value": "Necromancer"
+      "value": "Seer"
     },
     {
       "trait_type": "Moon Sign",
@@ -17,15 +17,15 @@
     },
     {
       "trait_type": "Sun Sign",
-      "value": "Taurus"
+      "value": "Pisces"
     },
     {
       "trait_type": "Rising Sign",
-      "value": "Aquarius"
+      "value": "Pisces"
     },
     {
       "trait_type": "Hair Color",
-      "value": "Blonde"
+      "value": "White"
     },
     {
       "trait_type": "Background",
@@ -40,24 +40,24 @@
       "value": "Twilight"
     },
     {
-      "trait_type": "Clothing",
-      "value": "Off Shoulder Shirt"
+      "trait_type": "Forehead",
+      "value": "Raised Third Eye"
     },
     {
-      "trait_type": "Necklace",
-      "value": "Ring Collar"
+      "trait_type": "Clothing",
+      "value": "Sheer Striped"
     },
     {
       "trait_type": "Eyes",
-      "value": "Doe-eyed (Brown)"
+      "value": "Hooded Side (Olive)"
     },
     {
       "trait_type": "Hair Front",
-      "value": "Xuannu"
+      "value": "Curtain"
     },
     {
       "trait_type": "Mouth",
-      "value": "Smile"
+      "value": "Smirk"
     },
     {
       "trait_type": "Eyebrows",
@@ -65,7 +65,7 @@
     },
     {
       "trait_type": "Headwear",
-      "value": "Dog (Corgi)"
+      "value": "Hair Bow (Red)"
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

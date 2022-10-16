@@ -1,55 +1,67 @@
 {
-  "dna": "2475d83d55e43fa4ad88df2bdc1ce17f8c0c04a3c740664e8db1fd690bcc25a6",
-  "name": "WITCH #127",
+  "dna": "85dffe4cd03fe2fb73a33b04c779df689c16bb1ef1a2f3e54a7cd2e3648b6636",
+  "name": "WITCH #13",
   "description": "This is the description of your NFT project, remember to replace this",
-  "image": "ipfs://NewUriToReplace/127.png",
-  "imageHash": "1e0fcc606708c8a719cf927a50bb861fed23d741e6d8d163f4f55c42f8d251f2",
-  "edition": 127,
-  "date": 1665804872735,
+  "image": "ipfs://NewUriToReplace/13.png",
+  "imageHash": "089c7a0dbac777564eaea15fbd9234339518b15e4a38790a61150618dec513b9",
+  "edition": 13,
+  "date": 1664159476413,
   "attributes": [
     {
+      "trait_type": "layers",
+      "value": "Archetype"
+    },
+    {
       "trait_type": "Archetype",
-      "value": "Seer"
+      "value": "Necromancer"
     },
     {
       "trait_type": "Moon Sign",
-      "value": "Virgo"
+      "value": "Aquarius"
     },
     {
       "trait_type": "Sun Sign",
-      "value": "Scorpio"
+      "value": "Cancer"
     },
     {
       "trait_type": "Rising Sign",
-      "value": "Sagittarius"
+      "value": "Pisces"
     },
     {
       "trait_type": "Hair Color",
-      "value": "Blonde"
+      "value": "Black"
     },
     {
       "trait_type": "Background",
-      "value": "Taupe"
+      "value": "Peach"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Many Eyed Hat"
     },
     {
       "trait_type": "Hair Back",
-      "value": "Keridwen"
+      "value": "Braided Pigtails"
     },
     {
       "trait_type": "Skin Tone",
       "value": "Twilight"
     },
     {
+      "trait_type": "Earrings",
+      "value": "Beaded Tassle (Ruby)"
+    },
+    {
       "trait_type": "Forehead",
-      "value": "Raised Third Eye"
+      "value": "Music Mark"
     },
     {
       "trait_type": "Clothing",
-      "value": "Elegant Shirt (Red Skirt)"
+      "value": "Off Shoulder Shirt"
     },
     {
       "trait_type": "Eyes",
-      "value": "Doe-eyed (Brown)"
+      "value": "Cateye (Blue)"
     },
     {
       "trait_type": "Hair Front",
@@ -57,15 +69,11 @@
     },
     {
       "trait_type": "Mouth",
-      "value": "Acute"
+      "value": "Smirk"
     },
     {
       "trait_type": "Eyebrows",
       "value": "Elegant"
-    },
-    {
-      "trait_type": "Headwear",
-      "value": "Dog (Corgi)"
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

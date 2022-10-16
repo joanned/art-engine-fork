@@ -1,55 +1,59 @@
 {
-  "dna": "959121cd66512ca905fc6073067ca77c54dbf2f977b66d65dda2be6d59730f4f",
-  "name": "WITCH #393",
+  "dna": "68a9dc0bd4dc7c8ffb34f81e8f8b5a7d8cbdb7c0f6a9bc5e877e58a65381ae85",
+  "name": "WITCH #241",
   "description": "This is the description of your NFT project, remember to replace this",
-  "image": "ipfs://NewUriToReplace/393.png",
-  "imageHash": "e4d47527e8d132a29e2ed2ed170968fa9cba84823e93dabf344a941a05247d26",
-  "edition": 393,
-  "date": 1665815500407,
+  "image": "ipfs://NewUriToReplace/241.png",
+  "imageHash": "098843111e25ea070cca7ab4a7a2e52ffa1a5a5ba17c0ef6716ea3a3a181028a",
+  "edition": 241,
+  "date": 1665805049242,
   "attributes": [
     {
       "trait_type": "Archetype",
-      "value": "Mage"
+      "value": "Seer"
     },
     {
       "trait_type": "Moon Sign",
-      "value": "Cancer"
+      "value": "Scorpio"
     },
     {
       "trait_type": "Sun Sign",
-      "value": "Taurus"
+      "value": "Capricorn"
     },
     {
       "trait_type": "Rising Sign",
-      "value": "Pisces"
+      "value": "Aries"
     },
     {
       "trait_type": "Hair Color",
-      "value": "White"
+      "value": "Blonde"
     },
     {
       "trait_type": "Background",
-      "value": "Peach"
-    },
-    {
-      "trait_type": "Back Item",
-      "value": "Scripted Circle (White)"
+      "value": "Taupe"
     },
     {
       "trait_type": "Hair Back",
-      "value": "Lower Buns"
+      "value": "High Buns"
     },
     {
       "trait_type": "Skin Tone",
       "value": "Sunset"
     },
     {
+      "trait_type": "Earrings",
+      "value": "Pearly Skulls"
+    },
+    {
       "trait_type": "Clothing",
       "value": "Off Shoulder Shirt"
     },
     {
+      "trait_type": "Necklace",
+      "value": "Moon Necklace"
+    },
+    {
       "trait_type": "Eyes",
-      "value": "Delighted (Brown)"
+      "value": "Delighted (Violet)"
     },
     {
       "trait_type": "Hair Front",
@@ -57,15 +61,15 @@
     },
     {
       "trait_type": "Mouth",
-      "value": "Laughing"
+      "value": "Smile"
     },
     {
       "trait_type": "Eyebrows",
-      "value": "Woeful"
+      "value": "Elegant"
     },
     {
       "trait_type": "Headwear",
-      "value": "Cat (White)"
+      "value": "Hair Bow (Red)"
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

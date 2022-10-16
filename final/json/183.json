@@ -1,11 +1,11 @@
 {
-  "dna": "1da0836c00f9a760c785e9ca3b0fb30fabb17fee247ec4f09da176db15a756b9",
-  "name": "WITCH #194",
+  "dna": "b5e899b5394ff0ff64178d8477d251c017c7deab7c5df9fa36c4114946a2e9ae",
+  "name": "WITCH #31",
   "description": "This is the description of your NFT project, remember to replace this",
-  "image": "ipfs://NewUriToReplace/194.png",
-  "imageHash": "526f1f29844be82d1d7f1116787a2d6885d6ccc2263665df7c5e44266ee9da65",
-  "edition": 194,
-  "date": 1665810790707,
+  "image": "ipfs://NewUriToReplace/31.png",
+  "imageHash": "acf6bf1076b4dca3e97fcf02032bd24ec5882f0b255e878e8fd3d96a8beda929",
+  "edition": 31,
+  "date": 1665804729014,
   "attributes": [
     {
       "trait_type": "Archetype",
@@ -13,27 +13,23 @@
     },
     {
       "trait_type": "Moon Sign",
-      "value": "Pisces"
+      "value": "Leo"
     },
     {
       "trait_type": "Sun Sign",
-      "value": "Aquarius"
+      "value": "Gemini"
     },
     {
       "trait_type": "Rising Sign",
-      "value": "Sagittarius"
+      "value": "Libra"
     },
     {
       "trait_type": "Hair Color",
-      "value": "White"
+      "value": "Black"
     },
     {
       "trait_type": "Background",
       "value": "Peach"
-    },
-    {
-      "trait_type": "Headwear",
-      "value": "Many Eyed Hat"
     },
     {
       "trait_type": "Hair Back",
@@ -44,32 +40,32 @@
       "value": "Sunset"
     },
     {
-      "trait_type": "Earrings",
-      "value": "Beaded Tassle (Pink)"
-    },
-    {
       "trait_type": "Forehead",
-      "value": "Punks Tiara"
+      "value": "Raised Third Eye"
     },
     {
       "trait_type": "Clothing",
-      "value": "Off Shoulder Long Sleeve"
+      "value": "Mugler Collarbone Cutout (Black)"
     },
     {
       "trait_type": "Eyes",
-      "value": "Cateye (Olive)"
+      "value": "Cateye (Brown)"
     },
     {
       "trait_type": "Hair Front",
-      "value": "Curtain"
+      "value": "Curl Clouds"
     },
     {
       "trait_type": "Mouth",
-      "value": "Smirk"
+      "value": "Laughing"
     },
     {
       "trait_type": "Eyebrows",
-      "value": "Woeful"
+      "value": "Elegant"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Dog (Corgi)"
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

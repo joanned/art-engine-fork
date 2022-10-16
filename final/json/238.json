@@ -1,59 +1,63 @@
 {
-  "dna": "f5efcb5e0aa8494bdacc95d6ff558a1ab381ed3a7f0109e1bcbb98ec1ff01cd3",
-  "name": "WITCH #238",
+  "dna": "ebd24fd922c7f3b0d4af219a1ab645f0d2bfbed216c03522d83784cd39f60833",
+  "name": "WITCH #89",
   "description": "This is the description of your NFT project, remember to replace this",
-  "image": "ipfs://NewUriToReplace/238.png",
-  "imageHash": "381c7c8d8735e7705e9592b208203f11c3a15a17d74c800eebe238358eecb5ec",
-  "edition": 238,
-  "date": 1665805044585,
+  "image": "ipfs://NewUriToReplace/89.png",
+  "imageHash": "8e9b680e694c6b76dc7b2be2cefeac20cfe63676f4d5623ad0aa2dcebf8fa360",
+  "edition": 89,
+  "date": 1665805609319,
   "attributes": [
     {
       "trait_type": "Archetype",
-      "value": "Seer"
+      "value": "Occultist"
     },
     {
       "trait_type": "Moon Sign",
-      "value": "Aries"
+      "value": "Taurus"
     },
     {
       "trait_type": "Sun Sign",
-      "value": "Libra"
+      "value": "Capricorn"
     },
     {
       "trait_type": "Rising Sign",
-      "value": "Libra"
+      "value": "Taurus"
     },
     {
       "trait_type": "Hair Color",
-      "value": "Blonde"
+      "value": "Light Lilac"
     },
     {
       "trait_type": "Background",
       "value": "Lilac"
     },
     {
+      "trait_type": "Headwear",
+      "value": "Smol Horns"
+    },
+    {
       "trait_type": "Hair Back",
-      "value": "Flowy Pony"
+      "value": "Long"
     },
     {
       "trait_type": "Skin Tone",
-      "value": "Twilight"
+      "value": "Dusk"
     },
     {
       "trait_type": "Earrings",
-      "value": "Dangly Bones"
+      "value": "Pearly Skulls"
     },
     {
       "trait_type": "Forehead",
-      "value": "Raised Third Eye"
+      "value": "Darkened Demon Third Eye (Amber)"
     },
     {
       "trait_type": "Clothing",
-      "value": "Puff Top (Red Skirt)"
+      "value": "Off Shoulder Long Sleeve"
     },
     {
       "trait_type": "Eyes",
-      "value": "Closed (Brown)"
+      "value": "Doe-eyed (Brown)"
     },
     {
       "trait_type": "Hair Front",
@@ -61,15 +65,11 @@
     },
     {
       "trait_type": "Mouth",
-      "value": "Laughing"
+      "value": "Smile"
     },
     {
       "trait_type": "Eyebrows",
-      "value": "Elegant"
-    },
-    {
-      "trait_type": "Headwear",
-      "value": "Cat (White)"
+      "value": "Woeful"
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

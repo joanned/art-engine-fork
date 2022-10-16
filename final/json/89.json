@@ -1,55 +1,59 @@
 {
-  "dna": "ab61fd24b7b73345694e932acfd31dc33b457b2dcfdf17c42ad98f3e56f76875",
-  "name": "WITCH #211",
+  "dna": "9331d6f418218ebbe8df12a5429f9c137d20d14f050bc04a75b3488459382ba3",
+  "name": "WITCH #26",
   "description": "This is the description of your NFT project, remember to replace this",
-  "image": "ipfs://NewUriToReplace/211.png",
-  "imageHash": "f7888ef59e526adfadca9faf27d172ef5a1a9fc8c50f8f7f569e60e62be5ce16",
-  "edition": 211,
-  "date": 1665851525508,
+  "image": "ipfs://NewUriToReplace/26.png",
+  "imageHash": "0746f5bbd768a1880984702df7397a8bfd6552879afd92e5fbe10b50fb7ca1bd",
+  "edition": 26,
+  "date": 1665804721842,
   "attributes": [
     {
       "trait_type": "Archetype",
-      "value": "Hag"
+      "value": "Seer"
     },
     {
       "trait_type": "Moon Sign",
-      "value": "Libra"
+      "value": "Aquarius"
     },
     {
       "trait_type": "Sun Sign",
-      "value": "Leo"
+      "value": "Sagittarius"
     },
     {
       "trait_type": "Rising Sign",
-      "value": "Cancer"
+      "value": "Taurus"
     },
     {
       "trait_type": "Hair Color",
-      "value": "White"
+      "value": "Blonde"
     },
     {
       "trait_type": "Background",
-      "value": "Peach"
+      "value": "Lilac"
     },
     {
       "trait_type": "Hair Back",
-      "value": "Lower Buns"
+      "value": "High Buns"
     },
     {
       "trait_type": "Skin Tone",
       "value": "Twilight"
     },
     {
+      "trait_type": "Forehead",
+      "value": "Raised Third Eye"
+    },
+    {
       "trait_type": "Clothing",
-      "value": "Elegant Shirt (Red Skirt)"
+      "value": "Off Shoulder Shirt"
     },
     {
       "trait_type": "Eyes",
-      "value": "Cateye (Brown)"
+      "value": "Doe-eyed (Blue)"
     },
     {
       "trait_type": "Hair Front",
-      "value": "Xuannu"
+      "value": "Curtain"
     },
     {
       "trait_type": "Mouth",
@@ -57,11 +61,11 @@
     },
     {
       "trait_type": "Eyebrows",
-      "value": "Relaxed Bubble"
+      "value": "Woeful"
     },
     {
       "trait_type": "Headwear",
-      "value": "Cat (White)"
+      "value": "Hair Bow (Red)"
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

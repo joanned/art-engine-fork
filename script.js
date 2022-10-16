@@ -254,6 +254,8 @@ console.log(filteredFiles.length)
 
 const shuffledFiles = filteredFiles.sort(() => 0.5 - Math.random());
 
+console.log(shuffledFiles.length)
+
 shuffledFiles.forEach((item, i) => {
   fs.rename(`./final/json/${item}`, `./final/json/${i+1}.json`, function(err) {
     if ( err ) console.log('ERROR: ' + err);

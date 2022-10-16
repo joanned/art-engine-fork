@@ -1,23 +1,23 @@
 {
-  "dna": "ebd24fd922c7f3b0d4af219a1ab645f0d2bfbed216c03522d83784cd39f60833",
-  "name": "WITCH #89",
+  "dna": "fcf2243c0d5ef728ad70e153c394645f3b91dbc4c5ee24910d8c5e07cbfceee2",
+  "name": "Mira",
   "description": "This is the description of your NFT project, remember to replace this",
-  "image": "ipfs://NewUriToReplace/89.png",
-  "imageHash": "8e9b680e694c6b76dc7b2be2cefeac20cfe63676f4d5623ad0aa2dcebf8fa360",
-  "edition": 89,
-  "date": 1665805609319,
+  "image": "ipfs://NewUriToReplace/19.png",
+  "imageHash": "a913031059de142e8f572a25a9f75e53b57110cf76009d58275bb94f0d127c00",
+  "edition": 19,
+  "date": 1665790308906,
   "attributes": [
     {
       "trait_type": "Archetype",
-      "value": "Occultist"
+      "value": "Hag"
     },
     {
       "trait_type": "Moon Sign",
-      "value": "Taurus"
+      "value": "Aries"
     },
     {
       "trait_type": "Sun Sign",
-      "value": "Capricorn"
+      "value": "Scorpio"
     },
     {
       "trait_type": "Rising Sign",
@@ -25,31 +25,19 @@
     },
     {
       "trait_type": "Hair Color",
-      "value": "Light Lilac"
+      "value": "Magenta"
     },
     {
       "trait_type": "Background",
       "value": "Lilac"
     },
     {
-      "trait_type": "Headwear",
-      "value": "Smol Horns"
-    },
-    {
       "trait_type": "Hair Back",
-      "value": "Long"
-    },
-    {
-      "trait_type": "Skin Tone",
-      "value": "Dusk"
-    },
-    {
-      "trait_type": "Earrings",
-      "value": "Pearly Skulls"
+      "value": "Flowy Pony"
     },
     {
       "trait_type": "Forehead",
-      "value": "Darkened Demon Third Eye (Amber)"
+      "value": "Music Mark"
     },
     {
       "trait_type": "Clothing",
@@ -57,11 +45,11 @@
     },
     {
       "trait_type": "Eyes",
-      "value": "Doe-eyed (Brown)"
+      "value": "Delighted (Brown)"
     },
     {
       "trait_type": "Hair Front",
-      "value": "Curtain"
+      "value": "Xuannu"
     },
     {
       "trait_type": "Mouth",
@@ -69,7 +57,11 @@
     },
     {
       "trait_type": "Eyebrows",
-      "value": "Woeful"
+      "value": "Relaxed Bubble"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Hair Bow (Black)"
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"
