@@ -1,19 +1,19 @@
 {
-  "dna": "8a4854fd2b66c2bd09993ef74c02dc39566e46da56be3461798ff8661ed7f4dd",
-  "name": "WITCH #493",
+  "dna": "96e464e3d5290eb4498ec8f51885a75be397781f7bfe55983d0cc31fae83ca62",
+  "name": "WITCH #117",
   "description": "This is the description of your NFT project, remember to replace this",
-  "image": "ipfs://NewUriToReplace/493.png",
-  "imageHash": "0478b9681213d6d61beb1a91cd1952fa780551da3c10882fae99a395e991ce04",
-  "edition": 493,
-  "date": 1665850297711,
+  "image": "ipfs://NewUriToReplace/117.png",
+  "imageHash": "bdc82bef501253a68d321e6ea9a759516f402a8ef8b3f67452d4c3a1fdfcc3ad",
+  "edition": 117,
+  "date": 1665805652982,
   "attributes": [
     {
       "trait_type": "Archetype",
-      "value": "Seer"
+      "value": "Occultist"
     },
     {
       "trait_type": "Moon Sign",
-      "value": "Scorpio"
+      "value": "Aquarius"
     },
     {
       "trait_type": "Sun Sign",
@@ -21,11 +21,11 @@
     },
     {
       "trait_type": "Rising Sign",
-      "value": "Gemini"
+      "value": "Libra"
     },
     {
       "trait_type": "Hair Color",
-      "value": "Magenta"
+      "value": "Black"
     },
     {
       "trait_type": "Background",
@@ -33,27 +33,23 @@
     },
     {
       "trait_type": "Headwear",
-      "value": "Witch Hat"
+      "value": "Maleficent Horns"
     },
     {
       "trait_type": "Hair Back",
-      "value": "Long"
+      "value": "Lower Buns"
     },
     {
       "trait_type": "Skin Tone",
       "value": "Dusk"
     },
     {
-      "trait_type": "Earrings",
-      "value": "Ethereum Studs (Gold)"
-    },
-    {
       "trait_type": "Clothing",
-      "value": "Mugler Collarbone Cutout (Black)"
+      "value": "Sheer Striped"
     },
     {
       "trait_type": "Eyes",
-      "value": "Delighted (Violet)"
+      "value": "Closed (Brown)"
     },
     {
       "trait_type": "Hair Front",
@@ -65,7 +61,15 @@
     },
     {
       "trait_type": "Eyebrows",
-      "value": "Relaxed Bubble"
+      "value": "Woeful"
+    },
+    {
+      "trait_type": "Forehead",
+      "value": "Darkened Demon Third Eye (Amethyst)"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "Eth Necklace (Indigo)"
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

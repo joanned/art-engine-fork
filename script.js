@@ -229,14 +229,14 @@ const finalNames = namesWithMusts.sort(() => 0.5 - Math.random());
 console.log(finalNames);
 console.log(finalNames.length);
 
-var files = fs.readdirSync('./final/json/');
-const filteredFiles = files.filter(file => file.includes('.json'));
+var files = fs.readdirSync('./final/images/');
+const filteredFiles = files.filter(file => file.includes('.png'));
 console.log(filteredFiles.length)
 
 filteredFiles.forEach((item, i) => {
-  const s = item.slice(0, -4);
-  const pngfile = `${s}png`;
-  if (!fs.existsSync(`./final/images/${pngfile}`)) {
+  const s = item.slice(0, -3);
+  const pngfile = `${s}json`;
+  if (!fs.existsSync(`./final/json/${pngfile}`)) {
     console.log(item)
   }
 });

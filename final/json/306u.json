@@ -1,11 +1,11 @@
 {
-  "dna": "af9ae1e8fec297a26da7afabe1200e62c79a2588d478473ea9d73719348b647d",
-  "name": "WITCH #223",
+  "dna": "96e464e3d5290eb4498ec8f51885a75be397781f7bfe55983d0cc31fae83ca62",
+  "name": "WITCH #117",
   "description": "This is the description of your NFT project, remember to replace this",
-  "image": "ipfs://NewUriToReplace/223.png",
-  "imageHash": "701e925f8ec2749d3f1016aacc43c181a28dde6196992d6ae7dbadcd74e08f5d",
-  "edition": 223,
-  "date": 1665805816205,
+  "image": "ipfs://NewUriToReplace/117.png",
+  "imageHash": "bdc82bef501253a68d321e6ea9a759516f402a8ef8b3f67452d4c3a1fdfcc3ad",
+  "edition": 117,
+  "date": 1665805652982,
   "attributes": [
     {
       "trait_type": "Archetype",
@@ -13,19 +13,19 @@
     },
     {
       "trait_type": "Moon Sign",
-      "value": "Cancer"
+      "value": "Aquarius"
     },
     {
       "trait_type": "Sun Sign",
-      "value": "Virgo"
+      "value": "Cancer"
     },
     {
       "trait_type": "Rising Sign",
-      "value": "Scorpio"
+      "value": "Libra"
     },
     {
       "trait_type": "Hair Color",
-      "value": "Brown"
+      "value": "Pink"
     },
     {
       "trait_type": "Background",
@@ -33,27 +33,27 @@
     },
     {
       "trait_type": "Headwear",
-      "value": "Crown of Pearls"
+      "value": "Witch Hat"
+    },
+    {
+      "trait_type": "Hair Back",
+      "value": "Braided Pigtails"
     },
     {
       "trait_type": "Skin Tone",
-      "value": "Dusk"
-    },
-    {
-      "trait_type": "Forehead",
-      "value": "Darkened Demon Third Eye (Amethyst)"
+      "value": "Twilight"
     },
     {
       "trait_type": "Clothing",
-      "value": "Victorian Frippery"
+      "value": "Sheer Striped"
     },
     {
       "trait_type": "Eyes",
-      "value": "Closed (Brown)"
+      "value": "Doe-eyed (Violet)"
     },
     {
       "trait_type": "Hair Front",
-      "value": "Curl Clouds"
+      "value": "Curtain"
     },
     {
       "trait_type": "Mouth",
@@ -62,6 +62,14 @@
     {
       "trait_type": "Eyebrows",
       "value": "Elegant"
+    },
+    {
+      "trait_type": "Forehead",
+      "value": "Music Mark"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Pearly Skulls"
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"

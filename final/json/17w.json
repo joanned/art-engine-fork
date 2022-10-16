@@ -1,43 +1,47 @@
 {
-  "dna": "7a0cbba081040cf0af80d02f761ce41c9b6b40e3241ede4ff7a6ed246fa500b3",
-  "name": "WITCH #309",
+  "dna": "96e464e3d5290eb4498ec8f51885a75be397781f7bfe55983d0cc31fae83ca62",
+  "name": "WITCH #117",
   "description": "This is the description of your NFT project, remember to replace this",
-  "image": "ipfs://NewUriToReplace/309.png",
-  "imageHash": "edae385e23e53585a0b987059558ed6cfa0c28a89b2d04605911db15cff78199",
-  "edition": 309,
-  "date": 1665849104020,
+  "image": "ipfs://NewUriToReplace/117.png",
+  "imageHash": "bdc82bef501253a68d321e6ea9a759516f402a8ef8b3f67452d4c3a1fdfcc3ad",
+  "edition": 117,
+  "date": 1665805652982,
   "attributes": [
     {
       "trait_type": "Archetype",
-      "value": "Seer"
+      "value": "Mage"
     },
     {
       "trait_type": "Moon Sign",
-      "value": "Aries"
-    },
-    {
-      "trait_type": "Sun Sign",
-      "value": "Pisces"
-    },
-    {
-      "trait_type": "Rising Sign",
       "value": "Aquarius"
     },
     {
+      "trait_type": "Sun Sign",
+      "value": "Cancer"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Libra"
+    },
+    {
       "trait_type": "Hair Color",
-      "value": "Blonde"
+      "value": "Light Lilac"
     },
     {
       "trait_type": "Background",
       "value": "Peach"
     },
     {
+      "trait_type": "Headwear",
+      "value": "Peony Crown (Pink)"
+    },
+    {
       "trait_type": "Hair Back",
-      "value": "Long"
+      "value": "Keridwen"
     },
     {
       "trait_type": "Skin Tone",
-      "value": "Sunset"
+      "value": "Twilight"
     },
     {
       "trait_type": "Clothing",
@@ -45,11 +49,11 @@
     },
     {
       "trait_type": "Eyes",
-      "value": "Doe-eyed (Brown)"
+      "value": "Teary Closed (Brown)"
     },
     {
       "trait_type": "Hair Front",
-      "value": "Baby Drill Curls"
+      "value": "Curtain"
     },
     {
       "trait_type": "Mouth",
@@ -57,7 +61,15 @@
     },
     {
       "trait_type": "Eyebrows",
-      "value": "Relaxed Bubble"
+      "value": "Woeful"
+    },
+    {
+      "trait_type": "Forehead",
+      "value": "Mage Moon Mark (Blue)"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Dangly Bones"
     }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"
