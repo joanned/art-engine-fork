@@ -229,17 +229,22 @@ const finalNames = namesWithMusts.sort(() => 0.5 - Math.random());
 console.log(finalNames);
 console.log(finalNames.length);
 
-var files = fs.readdirSync('./build/json/');
+var files = fs.readdirSync('./final/json/');
 const filteredFiles = files.filter(file => file.includes('.json'));
 console.log(filteredFiles.length)
 
 filteredFiles.forEach((filename, i) => {
-  const file = require(`./build/json/${filename}`);
+  const file = require(`./final/json/${filename}`);
+  const number = filename.slice(0, -5);
+  // console.log({number})
 
-  file.name = finalNames[i].toLowerCase();
-  file.description = 'A smol pocket-sized WITCH that originates from the mini wilds.'
+  // file.name = finalNames[i].toLowerCase();
 
-  fs.writeFile(`./build/json/${filename}`, JSON.stringify(file), function writeJSON(err) {
+  // file.description = 'A smol pocket-sized WITCH that originates from the mini wilds.'
+
+  file.image = `ipfs://bafybeibwpeljmytz2ojbegmucu43kuftnr73ii4ohugzvoxfw36n2wy36m/${number}.png`;
+
+  fs.writeFile(`./final/json/${filename}`, JSON.stringify(file), function writeJSON(err) {
     if (err) return console.log(err);
   });
 });
