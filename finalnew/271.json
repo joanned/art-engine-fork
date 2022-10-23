@@ -1,0 +1,68 @@
+{
+  "dna": "98d7545993040343a637da43b3ffd91887dddc58a738ee22f1787187776114d3",
+  "name": "WITCH #271",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/271.png",
+  "imageHash": "fedbc0a86a9848af742ac9a0dacfae4b4dc522af60b1fac4c4937f2fb0f83036",
+  "edition": 271,
+  "date": 1666527179961,
+  "attributes": [
+    {
+      "trait_type": "Archetype",
+      "value": "Hag"
+    },
+    {
+      "trait_type": "Moon Sign",
+      "value": "Taurus"
+    },
+    {
+      "trait_type": "Sun Sign",
+      "value": "Virgo"
+    },
+    {
+      "trait_type": "Rising Sign",
+      "value": "Capricorn"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Taupe"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Mushroom"
+    },
+    {
+      "trait_type": "Skin Tone",
+      "value": "Sunset"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Beaded Tassle (Ruby)"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Mugler Collarbone Cutout (Black)"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Hooded Side (Olive)"
+    },
+    {
+      "trait_type": "Hair Front",
+      "value": "Soft Bob"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smirk"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Surprised Bubble"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}
