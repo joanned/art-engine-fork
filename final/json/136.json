@@ -7,25 +7,21 @@
   "edition": 117,
   "date": 1665805652982,
   "attributes": [
-    { "trait_type": "Archetype", "value": "Occultist" },
+    { "trait_type": "Archetype", "value": "Hag" },
     { "trait_type": "Moon Sign", "value": "Aquarius" },
     { "trait_type": "Sun Sign", "value": "Cancer" },
     { "trait_type": "Rising Sign", "value": "Libra" },
-    { "trait_type": "Hair Color", "value": "Black" },
-    { "trait_type": "Background", "value": "Lilac" },
-    { "trait_type": "Headwear", "value": "Maleficent Horns" },
-    { "trait_type": "Hair Back", "value": "Lower Buns" },
+    { "trait_type": "Hair Color", "value": "White" },
+    { "trait_type": "Background", "value": "Taupe" },
+    { "trait_type": "Headwear", "value": "Mushroom Hat" },
+    { "trait_type": "Hair Back", "value": "Long" },
     { "trait_type": "Skin Tone", "value": "Dusk" },
-    { "trait_type": "Clothing", "value": "Sheer Striped" },
-    { "trait_type": "Eyes", "value": "Closed (Brown)" },
-    { "trait_type": "Hair Front", "value": "Xuannu" },
-    { "trait_type": "Mouth", "value": "Smirk" },
-    { "trait_type": "Eyebrows", "value": "Woeful" },
-    {
-      "trait_type": "Forehead",
-      "value": "Darkened Demon Third Eye (Amethyst)"
-    },
-    { "trait_type": "Necklace", "value": "Ethereum Necklace (Indigo)" }
+    { "trait_type": "Clothing", "value": "Puff Top (Red Skirt)" },
+    { "trait_type": "Eyes", "value": "Cateye (Olive)" },
+    { "trait_type": "Hair Front", "value": "Soft Bob" },
+    { "trait_type": "Mouth", "value": "Lollipop" },
+    { "trait_type": "Eyebrows", "value": "Surprised Bubble" },
+    { "trait_type": "Necklace", "value": "Mini Moon Necklace" }
   ],
   "compiler": "HashLips Art Engine - NFTChef fork"
 }
