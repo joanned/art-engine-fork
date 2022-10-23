@@ -1,1 +1,28 @@
-{"dna":"26bd6c61ecef0dde845299a99db5d83223a6adff338b08d0e410d34811a441ab","name":"ginger","description":"A smol pocket-sized WITCH that originates from the mini wilds.","image":"ipfs://bafybeibwpeljmytz2ojbegmucu43kuftnr73ii4ohugzvoxfw36n2wy36m/116.png","imageHash":"85ca429f27731671ad9fd0dbc30290f8d0b4c0c4a1f287211836cffcd0f4787d","edition":46,"date":1665790348566,"attributes":[{"trait_type":"layers","value":"Archetype"},{"trait_type":"Archetype","value":"Mage"},{"trait_type":"Moon Sign","value":"Pisces"},{"trait_type":"Sun Sign","value":"Sagittarius"},{"trait_type":"Rising Sign","value":"Virgo"},{"trait_type":"Hair Color","value":"Black"},{"trait_type":"Background","value":"Purple"},{"trait_type":"Hair Back","value":"Long"},{"trait_type":"Skin Tone","value":"Sunset"},{"trait_type":"Earrings","value":"Beaded Tassle (Pink)"},{"trait_type":"Forehead","value":"Mage Mark Moon (Blue)"},{"trait_type":"Clothing","value":"Victorian Frippery"},{"trait_type":"Eyes","value":"Hooded Side (Brown)"},{"trait_type":"Hair Front","value":"Curtain"},{"trait_type":"Mouth","value":"Smirk"},{"trait_type":"Eyebrows","value":"Elegant"},{"trait_type":"Headwear","value":"Dita Disk (Red Roses)"}],"compiler":"HashLips Art Engine - NFTChef fork"}
+{
+  "dna": "26bd6c61ecef0dde845299a99db5d83223a6adff338b08d0e410d34811a441ab",
+  "name": "ginger",
+  "description": "A smol pocket-sized WITCH that originates from the mini wilds.",
+  "image": "ipfs://bafybeibwpeljmytz2ojbegmucu43kuftnr73ii4ohugzvoxfw36n2wy36m/116.png",
+  "imageHash": "85ca429f27731671ad9fd0dbc30290f8d0b4c0c4a1f287211836cffcd0f4787d",
+  "edition": 46,
+  "date": 1665790348566,
+  "attributes": [
+    { "trait_type": "layers", "value": "Archetype" },
+    { "trait_type": "Archetype", "value": "Mage" },
+    { "trait_type": "Moon Sign", "value": "Pisces" },
+    { "trait_type": "Sun Sign", "value": "Sagittarius" },
+    { "trait_type": "Rising Sign", "value": "Virgo" },
+    { "trait_type": "Hair Color", "value": "Black" },
+    { "trait_type": "Background", "value": "Purple" },
+    { "trait_type": "Hair Back", "value": "Long" },
+    { "trait_type": "Skin Tone", "value": "Sunset" },
+    { "trait_type": "Earrings", "value": "Beaded Tassle (Pink)" },
+    { "trait_type": "Clothing", "value": "Victorian Frippery" },
+    { "trait_type": "Eyes", "value": "Hooded Side (Brown)" },
+    { "trait_type": "Hair Front", "value": "Curtain" },
+    { "trait_type": "Mouth", "value": "Smirk" },
+    { "trait_type": "Eyebrows", "value": "Elegant" },
+    { "trait_type": "Headwear", "value": "Dita Disk (Red Roses)" }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

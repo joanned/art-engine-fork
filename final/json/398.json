@@ -1,1 +1,27 @@
-{"dna":"23fb9fb636c4a0df24182bf3d45d436fc58ade2dad8c400581188504429c4da8","name":"yuria, the gentle beaut","description":"A smol pocket-sized WITCH that originates from the mini wilds.","image":"ipfs://bafybeibwpeljmytz2ojbegmucu43kuftnr73ii4ohugzvoxfw36n2wy36m/398.png","imageHash":"a4243314a7863068c43105254b09842d69b96f1433730420469e1744f2ec100a","edition":207,"date":1665804050627,"attributes":[{"trait_type":"Archetype","value":"Enchantress"},{"trait_type":"Moon Sign","value":"Taurus"},{"trait_type":"Sun Sign","value":"Leo"},{"trait_type":"Rising Sign","value":"Aquarius"},{"trait_type":"Hair Color","value":"Pink"},{"trait_type":"Background","value":"Peach"},{"trait_type":"Headwear","value":"Crown of Pearls"},{"trait_type":"Hair Back","value":"Keridwen"},{"trait_type":"Skin Tone","value":"Twilight"},{"trait_type":"Forehead","value":"Punks Tiara"},{"trait_type":"Clothing","value":"Victorian Frippery"},{"trait_type":"Eyes","value":"Teary Closed (Brown)"},{"trait_type":"Hair Front","value":"Curtain"},{"trait_type":"Mouth","value":"Laughing"},{"trait_type":"Eyebrows","value":"Elegant"}],"compiler":"HashLips Art Engine - NFTChef fork"}
+{
+  "dna": "23fb9fb636c4a0df24182bf3d45d436fc58ade2dad8c400581188504429c4da8",
+  "name": "yuria, the gentle beaut",
+  "description": "A smol pocket-sized WITCH that originates from the mini wilds.",
+  "image": "ipfs://bafybeibwpeljmytz2ojbegmucu43kuftnr73ii4ohugzvoxfw36n2wy36m/398.png",
+  "imageHash": "a4243314a7863068c43105254b09842d69b96f1433730420469e1744f2ec100a",
+  "edition": 207,
+  "date": 1665804050627,
+  "attributes": [
+    { "trait_type": "Archetype", "value": "Enchantress" },
+    { "trait_type": "Moon Sign", "value": "Taurus" },
+    { "trait_type": "Sun Sign", "value": "Leo" },
+    { "trait_type": "Rising Sign", "value": "Aquarius" },
+    { "trait_type": "Hair Color", "value": "Pink" },
+    { "trait_type": "Background", "value": "Peach" },
+    { "trait_type": "Headwear", "value": "Crown of Pearls" },
+    { "trait_type": "Hair Back", "value": "Keridwen" },
+    { "trait_type": "Skin Tone", "value": "Twilight" },
+    { "trait_type": "Forehead", "value": "Punks Tiara" },
+    { "trait_type": "Clothing", "value": "Victorian Frippery" },
+    { "trait_type": "Eyes", "value": "Teary Closed (Brown)" },
+    { "trait_type": "Hair Front", "value": "Curtain" },
+    { "trait_type": "Mouth", "value": "Laughing" },
+    { "trait_type": "Eyebrows", "value": "Elegant" }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

@@ -1,1 +1,27 @@
-{"dna":"3db8da953a9e9e7255da0bcea1679241457a6ba9a9b29ca5908b64e4b6f3084a","name":"yi, the beaut","description":"A smol pocket-sized WITCH that originates from the mini wilds.","image":"ipfs://bafybeibwpeljmytz2ojbegmucu43kuftnr73ii4ohugzvoxfw36n2wy36m/30.png","imageHash":"bf53fe66e10a023bbf87c0937f3505854fc101b91fe8e6298ecc6b78da819230","edition":153,"date":1665851437852,"attributes":[{"trait_type":"Archetype","value":"Hag"},{"trait_type":"Moon Sign","value":"Gemini"},{"trait_type":"Sun Sign","value":"Capricorn"},{"trait_type":"Rising Sign","value":"Libra"},{"trait_type":"Hair Color","value":"Pink"},{"trait_type":"Background","value":"Peach"},{"trait_type":"Hair Back","value":"Braided Pigtails"},{"trait_type":"Skin Tone","value":"Twilight"},{"trait_type":"Earrings","value":"Pearly Skulls"},{"trait_type":"Forehead","value":"Punks Tiara"},{"trait_type":"Clothing","value":"Victorian Frippery"},{"trait_type":"Eyes","value":"Teary Closed (Brown)"},{"trait_type":"Hair Front","value":"Curtain"},{"trait_type":"Mouth","value":"Lollipop"},{"trait_type":"Eyebrows","value":"Elegant"},{"trait_type":"Headwear","value":"Dita Disk (Red Roses)"}],"compiler":"HashLips Art Engine - NFTChef fork"}
+{
+  "dna": "3db8da953a9e9e7255da0bcea1679241457a6ba9a9b29ca5908b64e4b6f3084a",
+  "name": "yi, the beaut",
+  "description": "A smol pocket-sized WITCH that originates from the mini wilds.",
+  "image": "ipfs://bafybeibwpeljmytz2ojbegmucu43kuftnr73ii4ohugzvoxfw36n2wy36m/30.png",
+  "imageHash": "bf53fe66e10a023bbf87c0937f3505854fc101b91fe8e6298ecc6b78da819230",
+  "edition": 153,
+  "date": 1665851437852,
+  "attributes": [
+    { "trait_type": "Archetype", "value": "Hag" },
+    { "trait_type": "Moon Sign", "value": "Gemini" },
+    { "trait_type": "Sun Sign", "value": "Capricorn" },
+    { "trait_type": "Rising Sign", "value": "Libra" },
+    { "trait_type": "Hair Color", "value": "Pink" },
+    { "trait_type": "Background", "value": "Peach" },
+    { "trait_type": "Hair Back", "value": "Braided Pigtails" },
+    { "trait_type": "Skin Tone", "value": "Twilight" },
+    { "trait_type": "Earrings", "value": "Pearly Skulls" },
+    { "trait_type": "Clothing", "value": "Victorian Frippery" },
+    { "trait_type": "Eyes", "value": "Teary Closed (Brown)" },
+    { "trait_type": "Hair Front", "value": "Curtain" },
+    { "trait_type": "Mouth", "value": "Lollipop" },
+    { "trait_type": "Eyebrows", "value": "Elegant" },
+    { "trait_type": "Headwear", "value": "Dita Disk (Red Roses)" }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

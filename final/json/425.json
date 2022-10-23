@@ -1,1 +1,26 @@
-{"dna":"383d6a4e07141465425871af7de87851ae5cc1af975e6f47d0ef0b72fdd49229","name":"elzora, the bright gem","description":"A smol pocket-sized WITCH that originates from the mini wilds.","image":"ipfs://bafybeibwpeljmytz2ojbegmucu43kuftnr73ii4ohugzvoxfw36n2wy36m/425.png","imageHash":"8c16c2b7c04454d73172d34b5c52aef5800f19034e7fb05fcf0d86619b77ac0c","edition":392,"date":1665815498897,"attributes":[{"trait_type":"Archetype","value":"Necromancer"},{"trait_type":"Moon Sign","value":"Capricorn"},{"trait_type":"Sun Sign","value":"Libra"},{"trait_type":"Rising Sign","value":"Aquarius"},{"trait_type":"Hair Color","value":"White"},{"trait_type":"Background","value":"Lilac"},{"trait_type":"Skin Tone","value":"Twilight"},{"trait_type":"Earrings","value":"Ethereum Studs (Gold)"},{"trait_type":"Clothing","value":"Elegant Shirt (Red Skirt)"},{"trait_type":"Necklace","value":"Ring Collar"},{"trait_type":"Eyes","value":"Hooded Side (Brown)"},{"trait_type":"Hair Front","value":"Baby Drill Curls"},{"trait_type":"Mouth","value":"Smirk"},{"trait_type":"Eyebrows","value":"Woeful"},{"trait_type":"Headwear","value":"Wrapped Dita Disk (Red Roses)"}],"compiler":"HashLips Art Engine - NFTChef fork"}
+{
+  "dna": "383d6a4e07141465425871af7de87851ae5cc1af975e6f47d0ef0b72fdd49229",
+  "name": "elzora, the bright gem",
+  "description": "A smol pocket-sized WITCH that originates from the mini wilds.",
+  "image": "ipfs://bafybeibwpeljmytz2ojbegmucu43kuftnr73ii4ohugzvoxfw36n2wy36m/425.png",
+  "imageHash": "8c16c2b7c04454d73172d34b5c52aef5800f19034e7fb05fcf0d86619b77ac0c",
+  "edition": 392,
+  "date": 1665815498897,
+  "attributes": [
+    { "trait_type": "Archetype", "value": "Necromancer" },
+    { "trait_type": "Moon Sign", "value": "Capricorn" },
+    { "trait_type": "Sun Sign", "value": "Libra" },
+    { "trait_type": "Rising Sign", "value": "Aquarius" },
+    { "trait_type": "Hair Color", "value": "White" },
+    { "trait_type": "Background", "value": "Lilac" },
+    { "trait_type": "Skin Tone", "value": "Twilight" },
+    { "trait_type": "Clothing", "value": "Elegant Shirt (Red Skirt)" },
+    { "trait_type": "Necklace", "value": "Ring Collar" },
+    { "trait_type": "Eyes", "value": "Hooded Side (Brown)" },
+    { "trait_type": "Hair Front", "value": "Baby Drill Curls" },
+    { "trait_type": "Mouth", "value": "Smirk" },
+    { "trait_type": "Eyebrows", "value": "Woeful" },
+    { "trait_type": "Headwear", "value": "Wrapped Dita Disk (Red Roses)" }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

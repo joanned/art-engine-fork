@@ -1,1 +1,30 @@
-{"dna":"4f6f81deac28c8c1758a36eaa4b0a7ee96b9e075bfa48790dddce124dfeecf66","name":"jade, the shy tart","description":"A smol pocket-sized WITCH that originates from the mini wilds.","image":"ipfs://bafybeibwpeljmytz2ojbegmucu43kuftnr73ii4ohugzvoxfw36n2wy36m/440.png","imageHash":"c3b87a764d6182f37747c9347e0a0194fd71e543c40c2ca781135cf6a8a17da7","edition":421,"date":1665817078569,"attributes":[{"trait_type":"Archetype","value":"Occultist"},{"trait_type":"Moon Sign","value":"Aquarius"},{"trait_type":"Sun Sign","value":"Aries"},{"trait_type":"Rising Sign","value":"Taurus"},{"trait_type":"Hair Color","value":"Brown"},{"trait_type":"Background","value":"Taupe"},{"trait_type":"Back Item","value":"Scripted Circle (White)"},{"trait_type":"Headwear","value":"Smol Horns"},{"trait_type":"Hair Back","value":"High Buns"},{"trait_type":"Skin Tone","value":"Sunset"},{"trait_type":"Earrings","value":"Tiny Hoops"},{"trait_type":"Forehead","value":"Mage Mark Moon (White)"},{"trait_type":"Clothing","value":"Off Shoulder Long Sleeve"},{"trait_type":"Necklace","value":"Ethereum Necklace (Gold)"},{"trait_type":"Eyes","value":"Delighted (Brown)"},{"trait_type":"Hair Front","value":"Xuannu"},{"trait_type":"Mouth","value":"Lollipop"},{"trait_type":"Eyebrows","value":"Woeful"}],"compiler":"HashLips Art Engine - NFTChef fork"}
+{
+  "dna": "4f6f81deac28c8c1758a36eaa4b0a7ee96b9e075bfa48790dddce124dfeecf66",
+  "name": "jade, the shy tart",
+  "description": "A smol pocket-sized WITCH that originates from the mini wilds.",
+  "image": "ipfs://bafybeibwpeljmytz2ojbegmucu43kuftnr73ii4ohugzvoxfw36n2wy36m/440.png",
+  "imageHash": "c3b87a764d6182f37747c9347e0a0194fd71e543c40c2ca781135cf6a8a17da7",
+  "edition": 421,
+  "date": 1665817078569,
+  "attributes": [
+    { "trait_type": "Archetype", "value": "Mage" },
+    { "trait_type": "Moon Sign", "value": "Aquarius" },
+    { "trait_type": "Sun Sign", "value": "Aries" },
+    { "trait_type": "Rising Sign", "value": "Taurus" },
+    { "trait_type": "Hair Color", "value": "Brown" },
+    { "trait_type": "Background", "value": "Taupe" },
+    { "trait_type": "Back Item", "value": "Scripted Circle (White)" },
+    { "trait_type": "Headwear", "value": "Smol Horns" },
+    { "trait_type": "Hair Back", "value": "High Buns" },
+    { "trait_type": "Skin Tone", "value": "Sunset" },
+    { "trait_type": "Earrings", "value": "Tiny Hoops" },
+    { "trait_type": "Forehead", "value": "Mage Mark Moon (White)" },
+    { "trait_type": "Clothing", "value": "Off Shoulder Long Sleeve" },
+    { "trait_type": "Necklace", "value": "Ethereum Necklace (Gold)" },
+    { "trait_type": "Eyes", "value": "Delighted (Brown)" },
+    { "trait_type": "Hair Front", "value": "Xuannu" },
+    { "trait_type": "Mouth", "value": "Lollipop" },
+    { "trait_type": "Eyebrows", "value": "Woeful" }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

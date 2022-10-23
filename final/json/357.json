@@ -1,1 +1,25 @@
-{"dna":"e5034d8b56de06ea668fc47ee0e1b557b8b5ba06d2d991e82db097cb0261afed","name":"angel, the visionary","description":"A smol pocket-sized WITCH that originates from the mini wilds.","image":"ipfs://bafybeibwpeljmytz2ojbegmucu43kuftnr73ii4ohugzvoxfw36n2wy36m/357.png","imageHash":"f60426ef1f86fee97dbfaf9ab35f721571c6769f48507e55b1a0f4c0b368ce57","edition":8,"date":1660873857427,"attributes":[{"trait_type":"layers","value":"Archetype"},{"trait_type":"Archetype","value":"Hag"},{"trait_type":"Hair Color","value":"White"},{"trait_type":"Background","value":"Taupe"},{"trait_type":"Hair Back","value":"Dramatic Swoop"},{"trait_type":"Skin Tone","value":"Twilight"},{"trait_type":"Earrings","value":"Pearly Skulls"},{"trait_type":"Clothing","value":"Mugler Collarbone Cutout (Black)"},{"trait_type":"Necklace","value":"Ethereum Necklace"},{"trait_type":"Eyes","value":"Doe-eyed (Brown)"},{"trait_type":"Hair Front","value":"Dramatic Swoop"},{"trait_type":"Mouth","value":"Laughing"},{"trait_type":"Eyebrows","value":"Surprised Bubble"}],"compiler":"HashLips Art Engine - NFTChef fork"}
+{
+  "dna": "e5034d8b56de06ea668fc47ee0e1b557b8b5ba06d2d991e82db097cb0261afed",
+  "name": "angel, the visionary",
+  "description": "A smol pocket-sized WITCH that originates from the mini wilds.",
+  "image": "ipfs://bafybeibwpeljmytz2ojbegmucu43kuftnr73ii4ohugzvoxfw36n2wy36m/357.png",
+  "imageHash": "f60426ef1f86fee97dbfaf9ab35f721571c6769f48507e55b1a0f4c0b368ce57",
+  "edition": 8,
+  "date": 1660873857427,
+  "attributes": [
+    { "trait_type": "layers", "value": "Archetype" },
+    { "trait_type": "Archetype", "value": "Hag" },
+    { "trait_type": "Hair Color", "value": "White" },
+    { "trait_type": "Background", "value": "Taupe" },
+    { "trait_type": "Hair Back", "value": "Dramatic Swoop" },
+    { "trait_type": "Skin Tone", "value": "Twilight" },
+    { "trait_type": "Earrings", "value": "Pearly Skulls" },
+    { "trait_type": "Clothing", "value": "Mugler Collarbone Cutout (Black)" },
+    { "trait_type": "Necklace", "value": "Ethereum Necklace (Indigo)" },
+    { "trait_type": "Eyes", "value": "Doe-eyed (Brown)" },
+    { "trait_type": "Hair Front", "value": "Dramatic Swoop" },
+    { "trait_type": "Mouth", "value": "Laughing" },
+    { "trait_type": "Eyebrows", "value": "Surprised Bubble" }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

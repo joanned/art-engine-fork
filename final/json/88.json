@@ -1,1 +1,27 @@
-{"dna":"910f7585e70ac40b981c3cfe8dc12e5d29831656afb4954c175dc62353bf3eb7","name":"sapphire, the everlasting","description":"A smol pocket-sized WITCH that originates from the mini wilds.","image":"ipfs://bafybeibwpeljmytz2ojbegmucu43kuftnr73ii4ohugzvoxfw36n2wy36m/88.png","imageHash":"bb19109342ed2dc02b3e3e9ee4ee9eb08429c8fade84c43698cecc072b488a28","edition":143,"date":1665815133680,"attributes":[{"trait_type":"Archetype","value":"Occultist"},{"trait_type":"Moon Sign","value":"Pisces"},{"trait_type":"Sun Sign","value":"Libra"},{"trait_type":"Rising Sign","value":"Scorpio"},{"trait_type":"Hair Color","value":"Black"},{"trait_type":"Background","value":"Peach"},{"trait_type":"Back Item","value":"Scripted Circle (White)"},{"trait_type":"Skin Tone","value":"Sunset"},{"trait_type":"Earrings","value":"Dangly Bones"},{"trait_type":"Forehead","value":"Mage Mark Moon (Blue)"},{"trait_type":"Clothing","value":"Sheer Striped"},{"trait_type":"Eyes","value":"Delighted (Brown)"},{"trait_type":"Hair Front","value":"Curtain"},{"trait_type":"Mouth","value":"Smirk"},{"trait_type":"Eyebrows","value":"Elegant"}],"compiler":"HashLips Art Engine - NFTChef fork"}
+{
+  "dna": "910f7585e70ac40b981c3cfe8dc12e5d29831656afb4954c175dc62353bf3eb7",
+  "name": "sapphire, the everlasting",
+  "description": "A smol pocket-sized WITCH that originates from the mini wilds.",
+  "image": "ipfs://bafybeibwpeljmytz2ojbegmucu43kuftnr73ii4ohugzvoxfw36n2wy36m/88.png",
+  "imageHash": "bb19109342ed2dc02b3e3e9ee4ee9eb08429c8fade84c43698cecc072b488a28",
+  "edition": 143,
+  "date": 1665815133680,
+  "attributes": [
+    { "trait_type": "Archetype", "value": "Mage" },
+    { "trait_type": "Moon Sign", "value": "Pisces" },
+    { "trait_type": "Sun Sign", "value": "Libra" },
+    { "trait_type": "Rising Sign", "value": "Scorpio" },
+    { "trait_type": "Hair Color", "value": "Black" },
+    { "trait_type": "Background", "value": "Peach" },
+    { "trait_type": "Back Item", "value": "Scripted Circle (White)" },
+    { "trait_type": "Skin Tone", "value": "Sunset" },
+    { "trait_type": "Earrings", "value": "Dangly Bones" },
+    { "trait_type": "Forehead", "value": "Mage Mark Moon (Blue)" },
+    { "trait_type": "Clothing", "value": "Sheer Striped" },
+    { "trait_type": "Eyes", "value": "Delighted (Brown)" },
+    { "trait_type": "Hair Front", "value": "Curtain" },
+    { "trait_type": "Mouth", "value": "Smirk" },
+    { "trait_type": "Eyebrows", "value": "Elegant" }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

@@ -1,1 +1,28 @@
-{"dna":"0e21ae275a1fa619480f2114e459a07abc05de5b424d4c1f2c121872de18b024","name":"jub jub","description":"A smol pocket-sized WITCH that originates from the mini wilds.","image":"ipfs://bafybeibwpeljmytz2ojbegmucu43kuftnr73ii4ohugzvoxfw36n2wy36m/113.png","imageHash":"a79516b3fb9c25f785ce236f97380b6056ced5fcbe389de2fc8e41297794b53e","edition":411,"date":1665851826465,"attributes":[{"trait_type":"Archetype","value":"Occultist"},{"trait_type":"Moon Sign","value":"Cancer"},{"trait_type":"Sun Sign","value":"Scorpio"},{"trait_type":"Rising Sign","value":"Aries"},{"trait_type":"Hair Color","value":"Magenta"},{"trait_type":"Background","value":"Peach"},{"trait_type":"Hair Back","value":"Braided Pigtails"},{"trait_type":"Skin Tone","value":"Twilight"},{"trait_type":"Earrings","value":"Pearly Skulls"},{"trait_type":"Forehead","value":"Punks Tiara"},{"trait_type":"Clothing","value":"Off Shoulder Long Sleeve"},{"trait_type":"Necklace","value":"Mini Moon Necklace"},{"trait_type":"Eyes","value":"Cateye (Brown)"},{"trait_type":"Hair Front","value":"Curtain"},{"trait_type":"Mouth","value":"Smirk"},{"trait_type":"Eyebrows","value":"Elegant"},{"trait_type":"Headwear","value":"Dita Disk"}],"compiler":"HashLips Art Engine - NFTChef fork"}
+{
+  "dna": "0e21ae275a1fa619480f2114e459a07abc05de5b424d4c1f2c121872de18b024",
+  "name": "jub jub",
+  "description": "A smol pocket-sized WITCH that originates from the mini wilds.",
+  "image": "ipfs://bafybeibwpeljmytz2ojbegmucu43kuftnr73ii4ohugzvoxfw36n2wy36m/113.png",
+  "imageHash": "a79516b3fb9c25f785ce236f97380b6056ced5fcbe389de2fc8e41297794b53e",
+  "edition": 411,
+  "date": 1665851826465,
+  "attributes": [
+    { "trait_type": "Archetype", "value": "Occultist" },
+    { "trait_type": "Moon Sign", "value": "Cancer" },
+    { "trait_type": "Sun Sign", "value": "Scorpio" },
+    { "trait_type": "Rising Sign", "value": "Aries" },
+    { "trait_type": "Hair Color", "value": "Magenta" },
+    { "trait_type": "Background", "value": "Peach" },
+    { "trait_type": "Hair Back", "value": "Braided Pigtails" },
+    { "trait_type": "Skin Tone", "value": "Twilight" },
+    { "trait_type": "Earrings", "value": "Pearly Skulls" },
+    { "trait_type": "Clothing", "value": "Off Shoulder Long Sleeve" },
+    { "trait_type": "Necklace", "value": "Mini Moon Necklace" },
+    { "trait_type": "Eyes", "value": "Cateye (Brown)" },
+    { "trait_type": "Hair Front", "value": "Curtain" },
+    { "trait_type": "Mouth", "value": "Smirk" },
+    { "trait_type": "Eyebrows", "value": "Elegant" },
+    { "trait_type": "Headwear", "value": "Dita Disk" }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

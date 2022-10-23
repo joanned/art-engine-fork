@@ -1,1 +1,28 @@
-{"dna":"f61c37e814585da87da8c45376b797725c80d25a8f9b5e18c26435cc22e14261","name":"jub jub, the moonlight keeper","description":"A smol pocket-sized WITCH that originates from the mini wilds.","image":"ipfs://bafybeibwpeljmytz2ojbegmucu43kuftnr73ii4ohugzvoxfw36n2wy36m/429.png","imageHash":"2e15e26fb0b85ede76f99b844657ad78371ec9c022b0ca6c8fc5462b6b94d021","edition":48,"date":1665790351630,"attributes":[{"trait_type":"layers","value":"Archetype"},{"trait_type":"Archetype","value":"Hag"},{"trait_type":"Moon Sign","value":"Sagittarius"},{"trait_type":"Sun Sign","value":"Aquarius"},{"trait_type":"Rising Sign","value":"Capricorn"},{"trait_type":"Hair Color","value":"Black"},{"trait_type":"Background","value":"Taupe"},{"trait_type":"Headwear","value":"Mushroom"},{"trait_type":"Hair Back","value":"Lower Buns"},{"trait_type":"Skin Tone","value":"Twilight"},{"trait_type":"Clothing","value":"Mugler Collarbone Cutout (Black)"},{"trait_type":"Eyes","value":"Hooded Side (Brown)"},{"trait_type":"Hair Front","value":"Xuannu"},{"trait_type":"Mouth","value":"Smile"},{"trait_type":"Eyebrows","value":"Woeful"},{"trait_type":"Face Accessories","value":"Octagon Glasses (White)"}],"compiler":"HashLips Art Engine - NFTChef fork"}
+{
+  "dna": "f61c37e814585da87da8c45376b797725c80d25a8f9b5e18c26435cc22e14261",
+  "name": "jub jub, the moonlight keeper",
+  "description": "A smol pocket-sized WITCH that originates from the mini wilds.",
+  "image": "ipfs://bafybeibwpeljmytz2ojbegmucu43kuftnr73ii4ohugzvoxfw36n2wy36m/429.png",
+  "imageHash": "2e15e26fb0b85ede76f99b844657ad78371ec9c022b0ca6c8fc5462b6b94d021",
+  "edition": 48,
+  "date": 1665790351630,
+  "attributes": [
+    { "trait_type": "layers", "value": "Archetype" },
+    { "trait_type": "Archetype", "value": "Hag" },
+    { "trait_type": "Moon Sign", "value": "Sagittarius" },
+    { "trait_type": "Sun Sign", "value": "Aquarius" },
+    { "trait_type": "Rising Sign", "value": "Capricorn" },
+    { "trait_type": "Hair Color", "value": "Black" },
+    { "trait_type": "Background", "value": "Taupe" },
+    { "trait_type": "Headwear", "value": "Mushroom" },
+    { "trait_type": "Hair Back", "value": "Lower Buns" },
+    { "trait_type": "Skin Tone", "value": "Twilight" },
+    { "trait_type": "Clothing", "value": "Mugler Collarbone Cutout (Black)" },
+    { "trait_type": "Eyes", "value": "Hooded Side (Brown)" },
+    { "trait_type": "Hair Front", "value": "Xuannu" },
+    { "trait_type": "Mouth", "value": "Smile" },
+    { "trait_type": "Eyebrows", "value": "Woeful" },
+    { "trait_type": "Face Accessories", "value": "Octagon Glasses" }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

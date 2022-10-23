@@ -1,1 +1,28 @@
-{"dna":"d910934420061104c4e9d91f169fa21453446accdbf37c5fa72191bfb05fdbb4","name":"amethyst","description":"A smol pocket-sized WITCH that originates from the mini wilds.","image":"ipfs://bafybeibwpeljmytz2ojbegmucu43kuftnr73ii4ohugzvoxfw36n2wy36m/399.png","imageHash":"5a1aa1c146fa99c76f50355023a65487be929525f9c0d258205e83345a03aa0e","edition":351,"date":1665850079716,"attributes":[{"trait_type":"Archetype","value":"Occultist"},{"trait_type":"Moon Sign","value":"Pisces"},{"trait_type":"Sun Sign","value":"Cancer"},{"trait_type":"Rising Sign","value":"Cancer"},{"trait_type":"Hair Color","value":"Brown"},{"trait_type":"Background","value":"Taupe"},{"trait_type":"Headwear","value":"Smol Horns"},{"trait_type":"Hair Back","value":"Braided Pigtails"},{"trait_type":"Skin Tone","value":"Sunset"},{"trait_type":"Earrings","value":"Pearly Skulls"},{"trait_type":"Forehead","value":"Mage Mark Moon (Blue)"},{"trait_type":"Clothing","value":"Mugler Collarbone Cutout (Black)"},{"trait_type":"Eyes","value":"Doe-eyed (Blue)"},{"trait_type":"Hair Front","value":"Curtain"},{"trait_type":"Mouth","value":"Acute"},{"trait_type":"Eyebrows","value":"Woeful"}],"compiler":"HashLips Art Engine - NFTChef fork"}
+{
+  "dna": "d910934420061104c4e9d91f169fa21453446accdbf37c5fa72191bfb05fdbb4",
+  "name": "amethyst",
+  "description": "A smol pocket-sized WITCH that originates from the mini wilds.",
+  "image": "ipfs://bafybeibwpeljmytz2ojbegmucu43kuftnr73ii4ohugzvoxfw36n2wy36m/399.png",
+  "imageHash": "5a1aa1c146fa99c76f50355023a65487be929525f9c0d258205e83345a03aa0e",
+  "edition": 351,
+  "date": 1665850079716,
+  "attributes": [
+    { "trait_type": "Archetype", "value": "Mage" },
+    { "trait_type": "Moon Sign", "value": "Pisces" },
+    { "trait_type": "Sun Sign", "value": "Cancer" },
+    { "trait_type": "Rising Sign", "value": "Cancer" },
+    { "trait_type": "Hair Color", "value": "Brown" },
+    { "trait_type": "Background", "value": "Taupe" },
+    { "trait_type": "Headwear", "value": "Smol Horns" },
+    { "trait_type": "Hair Back", "value": "Braided Pigtails" },
+    { "trait_type": "Skin Tone", "value": "Sunset" },
+    { "trait_type": "Earrings", "value": "Pearly Skulls" },
+    { "trait_type": "Forehead", "value": "Mage Mark Moon (Blue)" },
+    { "trait_type": "Clothing", "value": "Mugler Collarbone Cutout (Black)" },
+    { "trait_type": "Eyes", "value": "Doe-eyed (Blue)" },
+    { "trait_type": "Hair Front", "value": "Curtain" },
+    { "trait_type": "Mouth", "value": "Acute" },
+    { "trait_type": "Eyebrows", "value": "Woeful" }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

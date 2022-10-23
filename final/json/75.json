@@ -1,1 +1,26 @@
-{"dna":"90a376d5ce6ef52a221d8c8c790a0d4105fee6c742851057e9c15946411f821c","name":"daph","description":"A smol pocket-sized WITCH that originates from the mini wilds.","image":"ipfs://bafybeibwpeljmytz2ojbegmucu43kuftnr73ii4ohugzvoxfw36n2wy36m/75.png","imageHash":"8694b4eed7dbda83b04cf9bb408391cdd4051f12ff65d53941ea54a45a35f613","edition":184,"date":1665851485347,"attributes":[{"trait_type":"Archetype","value":"Mage"},{"trait_type":"Moon Sign","value":"Leo"},{"trait_type":"Sun Sign","value":"Cancer"},{"trait_type":"Rising Sign","value":"Gemini"},{"trait_type":"Hair Color","value":"Black"},{"trait_type":"Background","value":"Peach"},{"trait_type":"Skin Tone","value":"Twilight"},{"trait_type":"Earrings","value":"Ethereum Studs (Indigo)"},{"trait_type":"Clothing","value":"Sheer Striped"},{"trait_type":"Necklace","value":"Mini Moon Necklace"},{"trait_type":"Eyes","value":"Cateye (Brown)"},{"trait_type":"Hair Front","value":"Soft Bob"},{"trait_type":"Mouth","value":"Laughing"},{"trait_type":"Eyebrows","value":"Surprised Bubble"},{"trait_type":"Headwear","value":"Dita Disk"}],"compiler":"HashLips Art Engine - NFTChef fork"}
+{
+  "dna": "90a376d5ce6ef52a221d8c8c790a0d4105fee6c742851057e9c15946411f821c",
+  "name": "daph",
+  "description": "A smol pocket-sized WITCH that originates from the mini wilds.",
+  "image": "ipfs://bafybeibwpeljmytz2ojbegmucu43kuftnr73ii4ohugzvoxfw36n2wy36m/75.png",
+  "imageHash": "8694b4eed7dbda83b04cf9bb408391cdd4051f12ff65d53941ea54a45a35f613",
+  "edition": 184,
+  "date": 1665851485347,
+  "attributes": [
+    { "trait_type": "Archetype", "value": "Mage" },
+    { "trait_type": "Moon Sign", "value": "Leo" },
+    { "trait_type": "Sun Sign", "value": "Cancer" },
+    { "trait_type": "Rising Sign", "value": "Gemini" },
+    { "trait_type": "Hair Color", "value": "Black" },
+    { "trait_type": "Background", "value": "Peach" },
+    { "trait_type": "Skin Tone", "value": "Twilight" },
+    { "trait_type": "Clothing", "value": "Sheer Striped" },
+    { "trait_type": "Necklace", "value": "Mini Moon Necklace" },
+    { "trait_type": "Eyes", "value": "Cateye (Brown)" },
+    { "trait_type": "Hair Front", "value": "Soft Bob" },
+    { "trait_type": "Mouth", "value": "Laughing" },
+    { "trait_type": "Eyebrows", "value": "Surprised Bubble" },
+    { "trait_type": "Headwear", "value": "Dita Disk" }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

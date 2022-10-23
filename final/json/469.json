@@ -1,1 +1,27 @@
-{"dna":"31c686215acae2763d3a42317028cbcac90f566f7d3d4dade878d52deb5399da","name":"kiki, the sharp","description":"A smol pocket-sized WITCH that originates from the mini wilds.","image":"ipfs://bafybeibwpeljmytz2ojbegmucu43kuftnr73ii4ohugzvoxfw36n2wy36m/469.png","imageHash":"d22b00fc622f27af69499c6553baf408bdccc32a46cf80f05668049239e8af24","edition":98,"date":1664167174028,"attributes":[{"trait_type":"layers","value":"Archetype"},{"trait_type":"Archetype","value":"Occultist"},{"trait_type":"Moon Sign","value":"Sagittarius"},{"trait_type":"Sun Sign","value":"Gemini"},{"trait_type":"Rising Sign","value":"Sagittarius"},{"trait_type":"Hair Color","value":"Light Lilac"},{"trait_type":"Background","value":"Lilac"},{"trait_type":"Skin Tone","value":"Twilight"},{"trait_type":"Clothing","value":"Mock Neck"},{"trait_type":"Eyes","value":"Hooded Side (Voilet)"},{"trait_type":"Hair Front","value":"Soft Bob"},{"trait_type":"Mouth","value":"Smirk"},{"trait_type":"Eyebrows","value":"Surprised Bubble"},{"trait_type":"Headwear","value":"Dita Disk (White Roses)"},{"trait_type":"Necklace","value":"Moon Necklace"},{"trait_type":"Earrings","value":"Pearly Skulls"}],"compiler":"HashLips Art Engine - NFTChef fork"}
+{
+  "dna": "31c686215acae2763d3a42317028cbcac90f566f7d3d4dade878d52deb5399da",
+  "name": "lady rosa",
+  "description": "A smol pocket-sized WITCH that originates from the mini wilds.",
+  "image": "ipfs://bafybeibwpeljmytz2ojbegmucu43kuftnr73ii4ohugzvoxfw36n2wy36m/469.png",
+  "imageHash": "d22b00fc622f27af69499c6553baf408bdccc32a46cf80f05668049239e8af24",
+  "edition": 98,
+  "date": 1664167174028,
+  "attributes": [
+    { "trait_type": "Archetype", "value": "Occultist" },
+    { "trait_type": "Moon Sign", "value": "Sagittarius" },
+    { "trait_type": "Sun Sign", "value": "Gemini" },
+    { "trait_type": "Rising Sign", "value": "Sagittarius" },
+    { "trait_type": "Hair Color", "value": "Light Lilac" },
+    { "trait_type": "Background", "value": "Lilac" },
+    { "trait_type": "Skin Tone", "value": "Twilight" },
+    { "trait_type": "Clothing", "value": "Mock Neck" },
+    { "trait_type": "Eyes", "value": "Hooded Side (Voilet)" },
+    { "trait_type": "Hair Front", "value": "Soft Bob" },
+    { "trait_type": "Mouth", "value": "Smirk" },
+    { "trait_type": "Eyebrows", "value": "Surprised Bubble" },
+    { "trait_type": "Headwear", "value": "Dita Disk (White Roses)" },
+    { "trait_type": "Necklace", "value": "Moon Necklace" },
+    { "trait_type": "Earrings", "value": "Pearly Skulls" }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

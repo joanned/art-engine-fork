@@ -1,1 +1,28 @@
-{"dna":"8452d41d4a46e9bddadefb75a857cd611e026dbe2a404b9e109c63f6bc9f1fd3","name":"nyxie of the siren pool","description":"A smol pocket-sized WITCH that originates from the mini wilds.","image":"ipfs://bafybeibwpeljmytz2ojbegmucu43kuftnr73ii4ohugzvoxfw36n2wy36m/475.png","imageHash":"397e8bf791353d0fbb458b91b61441466f64ac8ef649e1ae49da4fd465e7a24e","edition":29,"date":1665790323455,"attributes":[{"trait_type":"layers","value":"Archetype"},{"trait_type":"Archetype","value":"Seer"},{"trait_type":"Moon Sign","value":"Aquarius"},{"trait_type":"Sun Sign","value":"Aquarius"},{"trait_type":"Rising Sign","value":"Aquarius"},{"trait_type":"Hair Color","value":"White"},{"trait_type":"Background","value":"Peach"},{"trait_type":"Headwear","value":"Witch Hat"},{"trait_type":"Skin Tone","value":"Dusk"},{"trait_type":"Clothing","value":"Puff Top (Red Skirt)"},{"trait_type":"Necklace","value":"Mini Moon Necklace"},{"trait_type":"Eyes","value":"Cateye (Violet)"},{"trait_type":"Hair Front","value":"Soft Bob"},{"trait_type":"Mouth","value":"Smirk"},{"trait_type":"Eyebrows","value":"Elegant"},{"trait_type":"Face Accessories","value":"Octagon Glasses (White)"}],"compiler":"HashLips Art Engine - NFTChef fork"}
+{
+  "dna": "8452d41d4a46e9bddadefb75a857cd611e026dbe2a404b9e109c63f6bc9f1fd3",
+  "name": "nyxie of the siren pool",
+  "description": "A smol pocket-sized WITCH that originates from the mini wilds.",
+  "image": "ipfs://bafybeibwpeljmytz2ojbegmucu43kuftnr73ii4ohugzvoxfw36n2wy36m/475.png",
+  "imageHash": "397e8bf791353d0fbb458b91b61441466f64ac8ef649e1ae49da4fd465e7a24e",
+  "edition": 29,
+  "date": 1665790323455,
+  "attributes": [
+    { "trait_type": "layers", "value": "Archetype" },
+    { "trait_type": "Archetype", "value": "Seer" },
+    { "trait_type": "Moon Sign", "value": "Aquarius" },
+    { "trait_type": "Sun Sign", "value": "Aquarius" },
+    { "trait_type": "Rising Sign", "value": "Aquarius" },
+    { "trait_type": "Hair Color", "value": "White" },
+    { "trait_type": "Background", "value": "Peach" },
+    { "trait_type": "Headwear", "value": "Witch Hat" },
+    { "trait_type": "Skin Tone", "value": "Dusk" },
+    { "trait_type": "Clothing", "value": "Puff Top (Red Skirt)" },
+    { "trait_type": "Necklace", "value": "Mini Moon Necklace" },
+    { "trait_type": "Eyes", "value": "Cateye (Violet)" },
+    { "trait_type": "Hair Front", "value": "Soft Bob" },
+    { "trait_type": "Mouth", "value": "Smirk" },
+    { "trait_type": "Eyebrows", "value": "Elegant" },
+    { "trait_type": "Face Accessories", "value": "Octagon Glasses" }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

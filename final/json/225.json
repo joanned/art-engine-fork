@@ -1,1 +1,25 @@
-{"dna":"c9a6aa2ecb56f76d94ec24984f87cab22fe28214693726fad7f0224908345c02","name":"trish, the quaint leaf","description":"A smol pocket-sized WITCH that originates from the mini wilds.","image":"ipfs://bafybeibwpeljmytz2ojbegmucu43kuftnr73ii4ohugzvoxfw36n2wy36m/225.png","imageHash":"24e78e92fd6e4f711881d23c85b9d84c29166c30c96c58e9cc1c4943772eec63","edition":14,"date":1663657357090,"attributes":[{"trait_type":"layers","value":"Archetype"},{"trait_type":"Archetype","value":"Mage"},{"trait_type":"Hair Color","value":"Black"},{"trait_type":"Background","value":"Taupe"},{"trait_type":"Hair Back","value":"Long"},{"trait_type":"Skin Tone","value":"Dusk"},{"trait_type":"Earrings","value":"Dangly Bones"},{"trait_type":"Face Markings","value":"Ethereum Diadem"},{"trait_type":"Clothing","value":"Mock Neck"},{"trait_type":"Necklace","value":"Moon Necklace"},{"trait_type":"Eyes","value":"Closed (Brown)"},{"trait_type":"Hair Front","value":"Curtain"},{"trait_type":"Mouth","value":"Lollipop"},{"trait_type":"Eyebrows","value":"Elegant"},{"trait_type":"Dita Disk","value":"Dita Disk (White Roses)"}],"compiler":"HashLips Art Engine - NFTChef fork"}
+{
+  "dna": "c9a6aa2ecb56f76d94ec24984f87cab22fe28214693726fad7f0224908345c02",
+  "name": "trish, the quaint leaf",
+  "description": "A smol pocket-sized WITCH that originates from the mini wilds.",
+  "image": "ipfs://bafybeibwpeljmytz2ojbegmucu43kuftnr73ii4ohugzvoxfw36n2wy36m/225.png",
+  "imageHash": "24e78e92fd6e4f711881d23c85b9d84c29166c30c96c58e9cc1c4943772eec63",
+  "edition": 14,
+  "date": 1663657357090,
+  "attributes": [
+    { "trait_type": "Archetype", "value": "Mage" },
+    { "trait_type": "Hair Color", "value": "Black" },
+    { "trait_type": "Background", "value": "Taupe" },
+    { "trait_type": "Hair Back", "value": "Long" },
+    { "trait_type": "Skin Tone", "value": "Dusk" },
+    { "trait_type": "Earrings", "value": "Dangly Bones" },
+    { "trait_type": "Clothing", "value": "Mock Neck" },
+    { "trait_type": "Necklace", "value": "Moon Necklace" },
+    { "trait_type": "Eyes", "value": "Closed (Brown)" },
+    { "trait_type": "Hair Front", "value": "Curtain" },
+    { "trait_type": "Mouth", "value": "Lollipop" },
+    { "trait_type": "Eyebrows", "value": "Elegant" },
+    { "trait_type": "Headwear", "value": "Dita Disk (White Roses)" }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

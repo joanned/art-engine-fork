@@ -1,1 +1,28 @@
-{"dna":"4ffc78041ff1d77d76f9a87634cbfce48f13eac67d663a86840c69321e247430","name":"coconut, the lovely trinket","description":"A smol pocket-sized WITCH that originates from the mini wilds.","image":"ipfs://bafybeibwpeljmytz2ojbegmucu43kuftnr73ii4ohugzvoxfw36n2wy36m/478.png","imageHash":"3a5afa60e0b80fdab58a9fc4f751c02062438cdee7d8c8f606e40f026d67608e","edition":344,"date":1665847908442,"attributes":[{"trait_type":"Archetype","value":"Occultist"},{"trait_type":"Moon Sign","value":"Capricorn"},{"trait_type":"Sun Sign","value":"Sagittarius"},{"trait_type":"Rising Sign","value":"Aquarius"},{"trait_type":"Hair Color","value":"Brown"},{"trait_type":"Background","value":"Taupe"},{"trait_type":"Headwear","value":"Many Eyed Hat"},{"trait_type":"Hair Back","value":"Braided Pigtails"},{"trait_type":"Skin Tone","value":"Sunset"},{"trait_type":"Earrings","value":"Beaded Tassle (Sapphire)"},{"trait_type":"Forehead","value":"Mage Mark Moon (White)"},{"trait_type":"Clothing","value":"Elegant Shirt (Red Skirt)"},{"trait_type":"Eyes","value":"Doe-eyed (Brown)"},{"trait_type":"Hair Front","value":"Curtain"},{"trait_type":"Mouth","value":"Smile"},{"trait_type":"Eyebrows","value":"Woeful"}],"compiler":"HashLips Art Engine - NFTChef fork"}
+{
+  "dna": "4ffc78041ff1d77d76f9a87634cbfce48f13eac67d663a86840c69321e247430",
+  "name": "coconut, the lovely trinket",
+  "description": "A smol pocket-sized WITCH that originates from the mini wilds.",
+  "image": "ipfs://bafybeibwpeljmytz2ojbegmucu43kuftnr73ii4ohugzvoxfw36n2wy36m/478.png",
+  "imageHash": "3a5afa60e0b80fdab58a9fc4f751c02062438cdee7d8c8f606e40f026d67608e",
+  "edition": 344,
+  "date": 1665847908442,
+  "attributes": [
+    { "trait_type": "Archetype", "value": "Mage" },
+    { "trait_type": "Moon Sign", "value": "Capricorn" },
+    { "trait_type": "Sun Sign", "value": "Sagittarius" },
+    { "trait_type": "Rising Sign", "value": "Aquarius" },
+    { "trait_type": "Hair Color", "value": "Brown" },
+    { "trait_type": "Background", "value": "Taupe" },
+    { "trait_type": "Headwear", "value": "Many Eyed Hat" },
+    { "trait_type": "Hair Back", "value": "Braided Pigtails" },
+    { "trait_type": "Skin Tone", "value": "Sunset" },
+    { "trait_type": "Earrings", "value": "Beaded Tassle (Sapphire)" },
+    { "trait_type": "Forehead", "value": "Mage Mark Moon (White)" },
+    { "trait_type": "Clothing", "value": "Elegant Shirt (Red Skirt)" },
+    { "trait_type": "Eyes", "value": "Doe-eyed (Brown)" },
+    { "trait_type": "Hair Front", "value": "Curtain" },
+    { "trait_type": "Mouth", "value": "Smile" },
+    { "trait_type": "Eyebrows", "value": "Woeful" }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

@@ -1,1 +1,26 @@
-{"dna":"88e8811bcec1b43f57375bac5a233101797489f967102b3064a60c69d8997045","name":"thunder, the smol","description":"A smol pocket-sized WITCH that originates from the mini wilds.","image":"ipfs://bafybeibwpeljmytz2ojbegmucu43kuftnr73ii4ohugzvoxfw36n2wy36m/248.png","imageHash":"63ed810e545e8e92a62c0b4d640dddc0d775c9b9a6dc5efba62d4d37f623cd37","edition":427,"date":1665811141152,"attributes":[{"trait_type":"Archetype","value":"Occultist"},{"trait_type":"Moon Sign","value":"Cancer"},{"trait_type":"Sun Sign","value":"Scorpio"},{"trait_type":"Rising Sign","value":"Cancer"},{"trait_type":"Hair Color","value":"White"},{"trait_type":"Background","value":"Peach"},{"trait_type":"Back Item","value":"Scripted Circle (White)"},{"trait_type":"Skin Tone","value":"Sunset"},{"trait_type":"Earrings","value":"Pearly Skulls"},{"trait_type":"Clothing","value":"Mugler Collarbone Cutout (Black)"},{"trait_type":"Eyes","value":"Doe-eyed (Brown)"},{"trait_type":"Hair Front","value":"Soft Bob"},{"trait_type":"Mouth","value":"Laughing"},{"trait_type":"Eyebrows","value":"Woeful"}],"compiler":"HashLips Art Engine - NFTChef fork"}
+{
+  "dna": "88e8811bcec1b43f57375bac5a233101797489f967102b3064a60c69d8997045",
+  "name": "thunder, the smol",
+  "description": "A smol pocket-sized WITCH that originates from the mini wilds.",
+  "image": "ipfs://bafybeibwpeljmytz2ojbegmucu43kuftnr73ii4ohugzvoxfw36n2wy36m/248.png",
+  "imageHash": "63ed810e545e8e92a62c0b4d640dddc0d775c9b9a6dc5efba62d4d37f623cd37",
+  "edition": 427,
+  "date": 1665811141152,
+  "attributes": [
+    { "trait_type": "Archetype", "value": "Mage" },
+    { "trait_type": "Moon Sign", "value": "Cancer" },
+    { "trait_type": "Sun Sign", "value": "Scorpio" },
+    { "trait_type": "Rising Sign", "value": "Cancer" },
+    { "trait_type": "Hair Color", "value": "White" },
+    { "trait_type": "Background", "value": "Peach" },
+    { "trait_type": "Back Item", "value": "Scripted Circle (White)" },
+    { "trait_type": "Skin Tone", "value": "Sunset" },
+    { "trait_type": "Earrings", "value": "Pearly Skulls" },
+    { "trait_type": "Clothing", "value": "Mugler Collarbone Cutout (Black)" },
+    { "trait_type": "Eyes", "value": "Doe-eyed (Brown)" },
+    { "trait_type": "Hair Front", "value": "Soft Bob" },
+    { "trait_type": "Mouth", "value": "Laughing" },
+    { "trait_type": "Eyebrows", "value": "Woeful" }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

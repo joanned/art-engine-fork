@@ -1,1 +1,28 @@
-{"dna":"54be81d65d411749c3fd835fd4e21a0114c6f932a05847c1a947991422fb5c0b","name":"pom, the dearest","description":"A smol pocket-sized WITCH that originates from the mini wilds.","image":"ipfs://bafybeibwpeljmytz2ojbegmucu43kuftnr73ii4ohugzvoxfw36n2wy36m/433.png","imageHash":"5171bfa1db4e68dbffcf8437d2265d48ed71a1732c815084acc7641e44f98339","edition":94,"date":1665790419477,"attributes":[{"trait_type":"layers","value":"Archetype"},{"trait_type":"Archetype","value":"Hag"},{"trait_type":"Moon Sign","value":"Aquarius"},{"trait_type":"Sun Sign","value":"Sagittarius"},{"trait_type":"Rising Sign","value":"Gemini"},{"trait_type":"Hair Color","value":"Black"},{"trait_type":"Background","value":"Peach"},{"trait_type":"Skin Tone","value":"Sunset"},{"trait_type":"Earrings","value":"Dangly Bones"},{"trait_type":"Clothing","value":"Open Collar with Bow (Pink)"},{"trait_type":"Eyes","value":"Cateye (Brown)"},{"trait_type":"Hair Front","value":"Soft Bob"},{"trait_type":"Mouth","value":"Smile"},{"trait_type":"Eyebrows","value":"Elegant"},{"trait_type":"Headwear","value":"Hair Bow (Black)"},{"trait_type":"Face Accessories","value":"Octagon Glasses (White)"}],"compiler":"HashLips Art Engine - NFTChef fork"}
+{
+  "dna": "54be81d65d411749c3fd835fd4e21a0114c6f932a05847c1a947991422fb5c0b",
+  "name": "pom, the dearest",
+  "description": "A smol pocket-sized WITCH that originates from the mini wilds.",
+  "image": "ipfs://bafybeibwpeljmytz2ojbegmucu43kuftnr73ii4ohugzvoxfw36n2wy36m/433.png",
+  "imageHash": "5171bfa1db4e68dbffcf8437d2265d48ed71a1732c815084acc7641e44f98339",
+  "edition": 94,
+  "date": 1665790419477,
+  "attributes": [
+    { "trait_type": "layers", "value": "Archetype" },
+    { "trait_type": "Archetype", "value": "Hag" },
+    { "trait_type": "Moon Sign", "value": "Aquarius" },
+    { "trait_type": "Sun Sign", "value": "Sagittarius" },
+    { "trait_type": "Rising Sign", "value": "Gemini" },
+    { "trait_type": "Hair Color", "value": "Black" },
+    { "trait_type": "Background", "value": "Peach" },
+    { "trait_type": "Skin Tone", "value": "Sunset" },
+    { "trait_type": "Earrings", "value": "Dangly Bones" },
+    { "trait_type": "Clothing", "value": "Open Collar with Bow (Pink)" },
+    { "trait_type": "Eyes", "value": "Cateye (Brown)" },
+    { "trait_type": "Hair Front", "value": "Soft Bob" },
+    { "trait_type": "Mouth", "value": "Smile" },
+    { "trait_type": "Eyebrows", "value": "Elegant" },
+    { "trait_type": "Headwear", "value": "Hair Bow (Black)" },
+    { "trait_type": "Face Accessories", "value": "Octagon Glasses" }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

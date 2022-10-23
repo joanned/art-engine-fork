@@ -1,1 +1,27 @@
-{"dna":"c7e9babf4f1cd1d3905990614a793b42ae8574a4d06498daa64e1912e557c8ef","name":"aradiana, the shy tart","description":"A smol pocket-sized WITCH that originates from the mini wilds.","image":"ipfs://bafybeibwpeljmytz2ojbegmucu43kuftnr73ii4ohugzvoxfw36n2wy36m/22.png","imageHash":"9282f551ed3ff8f78c57d361f6e2d0d3aadadebe5325ddc98ee4d1353a5fc546","edition":145,"date":1665847616881,"attributes":[{"trait_type":"Archetype","value":"Necromancer"},{"trait_type":"Moon Sign","value":"Virgo"},{"trait_type":"Sun Sign","value":"Libra"},{"trait_type":"Rising Sign","value":"Capricorn"},{"trait_type":"Hair Color","value":"Black"},{"trait_type":"Background","value":"Lilac"},{"trait_type":"Hair Back","value":"Braided Pigtails"},{"trait_type":"Skin Tone","value":"Dusk"},{"trait_type":"Earrings","value":"Pearly Skulls"},{"trait_type":"Forehead","value":"Punks Tiara"},{"trait_type":"Clothing","value":"Mugler Collarbone Cutout (Black)"},{"trait_type":"Eyes","value":"Delighted (Brown)"},{"trait_type":"Hair Front","value":"Curtain"},{"trait_type":"Mouth","value":"Laughing"},{"trait_type":"Eyebrows","value":"Elegant"},{"trait_type":"Headwear","value":"Dita Disk (White Roses)"}],"compiler":"HashLips Art Engine - NFTChef fork"}
+{
+  "dna": "c7e9babf4f1cd1d3905990614a793b42ae8574a4d06498daa64e1912e557c8ef",
+  "name": "aradiana, the shy tart",
+  "description": "A smol pocket-sized WITCH that originates from the mini wilds.",
+  "image": "ipfs://bafybeibwpeljmytz2ojbegmucu43kuftnr73ii4ohugzvoxfw36n2wy36m/22.png",
+  "imageHash": "9282f551ed3ff8f78c57d361f6e2d0d3aadadebe5325ddc98ee4d1353a5fc546",
+  "edition": 145,
+  "date": 1665847616881,
+  "attributes": [
+    { "trait_type": "Archetype", "value": "Necromancer" },
+    { "trait_type": "Moon Sign", "value": "Virgo" },
+    { "trait_type": "Sun Sign", "value": "Libra" },
+    { "trait_type": "Rising Sign", "value": "Capricorn" },
+    { "trait_type": "Hair Color", "value": "Black" },
+    { "trait_type": "Background", "value": "Lilac" },
+    { "trait_type": "Hair Back", "value": "Braided Pigtails" },
+    { "trait_type": "Skin Tone", "value": "Dusk" },
+    { "trait_type": "Earrings", "value": "Pearly Skulls" },
+    { "trait_type": "Clothing", "value": "Mugler Collarbone Cutout (Black)" },
+    { "trait_type": "Eyes", "value": "Delighted (Brown)" },
+    { "trait_type": "Hair Front", "value": "Curtain" },
+    { "trait_type": "Mouth", "value": "Laughing" },
+    { "trait_type": "Eyebrows", "value": "Elegant" },
+    { "trait_type": "Headwear", "value": "Dita Disk (White Roses)" }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

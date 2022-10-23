@@ -1,1 +1,27 @@
-{"dna":"91e77093ad7c7dba17cc8d0dc7aca4053cbf09764067640c40cb3a208d76cd4d","name":"anemone","description":"A smol pocket-sized WITCH that originates from the mini wilds.","image":"ipfs://bafybeibwpeljmytz2ojbegmucu43kuftnr73ii4ohugzvoxfw36n2wy36m/226.png","imageHash":"fba551a825188e3b1884facc6079cfc6f772591c97fa10753578da6a88d5f78f","edition":31,"date":1665851257248,"attributes":[{"trait_type":"Archetype","value":"Necromancer"},{"trait_type":"Moon Sign","value":"Leo"},{"trait_type":"Sun Sign","value":"Aries"},{"trait_type":"Rising Sign","value":"Libra"},{"trait_type":"Hair Color","value":"Black"},{"trait_type":"Background","value":"Taupe"},{"trait_type":"Hair Back","value":"Long"},{"trait_type":"Skin Tone","value":"Sunset"},{"trait_type":"Earrings","value":"Tiny Hoops"},{"trait_type":"Forehead","value":"Punks Tiara"},{"trait_type":"Clothing","value":"Elegant Shirt (Pink Skirt)"},{"trait_type":"Eyes","value":"Delighted (Blue)"},{"trait_type":"Hair Front","value":"Xuannu"},{"trait_type":"Mouth","value":"Smirk"},{"trait_type":"Eyebrows","value":"Elegant"},{"trait_type":"Headwear","value":"Dita Disk (Red Roses)"}],"compiler":"HashLips Art Engine - NFTChef fork"}
+{
+  "dna": "91e77093ad7c7dba17cc8d0dc7aca4053cbf09764067640c40cb3a208d76cd4d",
+  "name": "anemone",
+  "description": "A smol pocket-sized WITCH that originates from the mini wilds.",
+  "image": "ipfs://bafybeibwpeljmytz2ojbegmucu43kuftnr73ii4ohugzvoxfw36n2wy36m/226.png",
+  "imageHash": "fba551a825188e3b1884facc6079cfc6f772591c97fa10753578da6a88d5f78f",
+  "edition": 31,
+  "date": 1665851257248,
+  "attributes": [
+    { "trait_type": "Archetype", "value": "Necromancer" },
+    { "trait_type": "Moon Sign", "value": "Leo" },
+    { "trait_type": "Sun Sign", "value": "Aries" },
+    { "trait_type": "Rising Sign", "value": "Libra" },
+    { "trait_type": "Hair Color", "value": "Black" },
+    { "trait_type": "Background", "value": "Taupe" },
+    { "trait_type": "Hair Back", "value": "Long" },
+    { "trait_type": "Skin Tone", "value": "Sunset" },
+    { "trait_type": "Earrings", "value": "Tiny Hoops" },
+    { "trait_type": "Clothing", "value": "Elegant Shirt (Pink Skirt)" },
+    { "trait_type": "Eyes", "value": "Delighted (Blue)" },
+    { "trait_type": "Hair Front", "value": "Xuannu" },
+    { "trait_type": "Mouth", "value": "Smirk" },
+    { "trait_type": "Eyebrows", "value": "Elegant" },
+    { "trait_type": "Headwear", "value": "Dita Disk (Red Roses)" }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

@@ -1,1 +1,26 @@
-{"dna":"8991ced6288836bb7e86d62c03c858f96cd2b27dc4c731d9487eda0e777c9dcc","name":"astora","description":"A smol pocket-sized WITCH that originates from the mini wilds.","image":"ipfs://bafybeibwpeljmytz2ojbegmucu43kuftnr73ii4ohugzvoxfw36n2wy36m/189.png","imageHash":"5d4cea35c4cefca88ed3fb22ce616f1b27bf79d903ad94dc22fcff20a3f0f7bf","edition":136,"date":1665851412408,"attributes":[{"trait_type":"Archetype","value":"Enchantress"},{"trait_type":"Moon Sign","value":"Libra"},{"trait_type":"Sun Sign","value":"Gemini"},{"trait_type":"Rising Sign","value":"Gemini"},{"trait_type":"Hair Color","value":"White"},{"trait_type":"Background","value":"Peach"},{"trait_type":"Hair Back","value":"Dramatic Swoop"},{"trait_type":"Skin Tone","value":"Twilight"},{"trait_type":"Forehead","value":"Punks Tiara"},{"trait_type":"Clothing","value":"Puff Top (Red Skirt)"},{"trait_type":"Eyes","value":"Delighted (Violet)"},{"trait_type":"Hair Front","value":"Dramatic Swoop"},{"trait_type":"Mouth","value":"Smirk"},{"trait_type":"Eyebrows","value":"Surprised Bubble"},{"trait_type":"Headwear","value":"Dita Disk (Red Roses)"}],"compiler":"HashLips Art Engine - NFTChef fork"}
+{
+  "dna": "8991ced6288836bb7e86d62c03c858f96cd2b27dc4c731d9487eda0e777c9dcc",
+  "name": "astora",
+  "description": "A smol pocket-sized WITCH that originates from the mini wilds.",
+  "image": "ipfs://bafybeibwpeljmytz2ojbegmucu43kuftnr73ii4ohugzvoxfw36n2wy36m/189.png",
+  "imageHash": "5d4cea35c4cefca88ed3fb22ce616f1b27bf79d903ad94dc22fcff20a3f0f7bf",
+  "edition": 136,
+  "date": 1665851412408,
+  "attributes": [
+    { "trait_type": "Archetype", "value": "Enchantress" },
+    { "trait_type": "Moon Sign", "value": "Libra" },
+    { "trait_type": "Sun Sign", "value": "Gemini" },
+    { "trait_type": "Rising Sign", "value": "Gemini" },
+    { "trait_type": "Hair Color", "value": "White" },
+    { "trait_type": "Background", "value": "Peach" },
+    { "trait_type": "Hair Back", "value": "Dramatic Swoop" },
+    { "trait_type": "Skin Tone", "value": "Twilight" },
+    { "trait_type": "Clothing", "value": "Puff Top (Red Skirt)" },
+    { "trait_type": "Eyes", "value": "Delighted (Violet)" },
+    { "trait_type": "Hair Front", "value": "Dramatic Swoop" },
+    { "trait_type": "Mouth", "value": "Smirk" },
+    { "trait_type": "Eyebrows", "value": "Surprised Bubble" },
+    { "trait_type": "Headwear", "value": "Dita Disk (Red Roses)" }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

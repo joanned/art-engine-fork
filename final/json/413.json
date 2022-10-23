@@ -1,1 +1,27 @@
-{"dna":"176c2c3816d8c9bf6155b83f7c2003691163a8a51f01b7cf923f71a7e110ed8f","name":"luna","description":"A smol pocket-sized WITCH that originates from the mini wilds.","image":"ipfs://bafybeibwpeljmytz2ojbegmucu43kuftnr73ii4ohugzvoxfw36n2wy36m/413.png","imageHash":"ace9e8661f2d1fbd4836b2c6c39d3590820017272186065dacb13133b961ae99","edition":330,"date":1665849135453,"attributes":[{"trait_type":"Archetype","value":"Occultist"},{"trait_type":"Moon Sign","value":"Aries"},{"trait_type":"Sun Sign","value":"Leo"},{"trait_type":"Rising Sign","value":"Aries"},{"trait_type":"Hair Color","value":"Black"},{"trait_type":"Background","value":"Lilac"},{"trait_type":"Back Item","value":"Scripted Circle (White)"},{"trait_type":"Headwear","value":"Smol Horns"},{"trait_type":"Hair Back","value":"High Buns"},{"trait_type":"Skin Tone","value":"Dusk"},{"trait_type":"Clothing","value":"Mugler Collarbone Cutout (Black)"},{"trait_type":"Eyes","value":"Cateye (Brown)"},{"trait_type":"Hair Front","value":"Xuannu"},{"trait_type":"Mouth","value":"Laughing"},{"trait_type":"Eyebrows","value":"Elegant"}],"compiler":"HashLips Art Engine - NFTChef fork"}
+{
+  "dna": "176c2c3816d8c9bf6155b83f7c2003691163a8a51f01b7cf923f71a7e110ed8f",
+  "name": "luna",
+  "description": "A smol pocket-sized WITCH that originates from the mini wilds.",
+  "image": "ipfs://bafybeibwpeljmytz2ojbegmucu43kuftnr73ii4ohugzvoxfw36n2wy36m/413.png",
+  "imageHash": "ace9e8661f2d1fbd4836b2c6c39d3590820017272186065dacb13133b961ae99",
+  "edition": 330,
+  "date": 1665849135453,
+  "attributes": [
+    { "trait_type": "Archetype", "value": "Mage" },
+    { "trait_type": "Moon Sign", "value": "Aries" },
+    { "trait_type": "Sun Sign", "value": "Leo" },
+    { "trait_type": "Rising Sign", "value": "Aries" },
+    { "trait_type": "Hair Color", "value": "Black" },
+    { "trait_type": "Background", "value": "Lilac" },
+    { "trait_type": "Back Item", "value": "Scripted Circle (White)" },
+    { "trait_type": "Headwear", "value": "Smol Horns" },
+    { "trait_type": "Hair Back", "value": "High Buns" },
+    { "trait_type": "Skin Tone", "value": "Dusk" },
+    { "trait_type": "Clothing", "value": "Mugler Collarbone Cutout (Black)" },
+    { "trait_type": "Eyes", "value": "Cateye (Brown)" },
+    { "trait_type": "Hair Front", "value": "Xuannu" },
+    { "trait_type": "Mouth", "value": "Laughing" },
+    { "trait_type": "Eyebrows", "value": "Elegant" }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

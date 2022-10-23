@@ -1,1 +1,27 @@
-{"dna":"f66fa8946508719398e5ec93448913d9c8b06ad8507f9f7537c57c607584fed6","name":"opal, the echo","description":"A smol pocket-sized WITCH that originates from the mini wilds.","image":"ipfs://bafybeibwpeljmytz2ojbegmucu43kuftnr73ii4ohugzvoxfw36n2wy36m/151.png","imageHash":"3e0985daa0cd08c76b2273805a554193508b4d4b1617428fea87a87e662b1c6a","edition":93,"date":1665847542485,"attributes":[{"trait_type":"Archetype","value":"Occultist"},{"trait_type":"Moon Sign","value":"Virgo"},{"trait_type":"Sun Sign","value":"Scorpio"},{"trait_type":"Rising Sign","value":"Virgo"},{"trait_type":"Hair Color","value":"Blonde"},{"trait_type":"Background","value":"Taupe"},{"trait_type":"Skin Tone","value":"Twilight"},{"trait_type":"Forehead","value":"Mage Mark Moon (White)"},{"trait_type":"Clothing","value":"Mugler Collarbone Cutout (Black)"},{"trait_type":"Eyes","value":"Doe-eyed (Violet)"},{"trait_type":"Hair Front","value":"Xuannu"},{"trait_type":"Mouth","value":"Smile"},{"trait_type":"Eyebrows","value":"Woeful"},{"trait_type":"Headwear","value":"Hoodlondon Hathor"},{"trait_type":"Face Accessories","value":"Octagon Glasses"}],"compiler":"HashLips Art Engine - NFTChef fork"}
+{
+  "dna": "f66fa8946508719398e5ec93448913d9c8b06ad8507f9f7537c57c607584fed6",
+  "name": "opal, the echo",
+  "description": "A smol pocket-sized WITCH that originates from the mini wilds.",
+  "image": "ipfs://bafybeibwpeljmytz2ojbegmucu43kuftnr73ii4ohugzvoxfw36n2wy36m/151.png",
+  "imageHash": "3e0985daa0cd08c76b2273805a554193508b4d4b1617428fea87a87e662b1c6a",
+  "edition": 93,
+  "date": 1665847542485,
+  "attributes": [
+    { "trait_type": "Archetype", "value": "Mage" },
+    { "trait_type": "Moon Sign", "value": "Virgo" },
+    { "trait_type": "Sun Sign", "value": "Scorpio" },
+    { "trait_type": "Rising Sign", "value": "Virgo" },
+    { "trait_type": "Hair Color", "value": "Blonde" },
+    { "trait_type": "Background", "value": "Taupe" },
+    { "trait_type": "Skin Tone", "value": "Twilight" },
+    { "trait_type": "Forehead", "value": "Mage Mark Moon (White)" },
+    { "trait_type": "Clothing", "value": "Mugler Collarbone Cutout (Black)" },
+    { "trait_type": "Eyes", "value": "Doe-eyed (Violet)" },
+    { "trait_type": "Hair Front", "value": "Xuannu" },
+    { "trait_type": "Mouth", "value": "Smile" },
+    { "trait_type": "Eyebrows", "value": "Woeful" },
+    { "trait_type": "Headwear", "value": "Hoodlondon Hathor" },
+    { "trait_type": "Face Accessories", "value": "Octagon Glasses" }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}
